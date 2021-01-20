@@ -16,6 +16,7 @@
 -
 ---
 ## Tools
+- [Switch On a PC remotely](./systems/wake_on_lan.md)
 - 
 ---
 Inspired by [ashandilya](https://github.com/ashandilya)
