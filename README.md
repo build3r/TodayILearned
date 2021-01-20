@@ -5,7 +5,7 @@
 - [Getting the World to Do the Work for You- Joseph Tussman](https://fs.blog/2016/02/joseph-tussman/)
 ---
 ## Android
-- 
+- [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
 ---
 ## Interesting TidBits
 - 
