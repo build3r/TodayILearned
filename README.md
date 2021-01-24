@@ -5,6 +5,7 @@
 - [Getting the World to Do the Work for You- Joseph Tussman](https://fs.blog/2016/02/joseph-tussman/)
 - [Schlep Blindness](./essays/schlep_blindness.md)
 - [Lessons From Biology](https://fs.blog/2015/08/will-durant-the-three-lessons-of-biological-history/)
+- [We are What we Remember](https://fs.blog/2021/01/we-remember/)
 
 ---
 ## Android
