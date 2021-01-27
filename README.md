@@ -8,6 +8,7 @@
 - [We are What we Remember](https://fs.blog/2021/01/we-remember/)
 - [Externalities - and then what?](https://fs.blog/2019/09/externalities-why-we-can-never-do-one-thing/)
 - [Tragedy of Commons](https://fs.blog/2011/08/the-tragedy-of-the-commons/)
+- [Effective Learning](https://fs.blog/learning/)
 
 ---
 ## Android
