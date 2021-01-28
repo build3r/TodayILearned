@@ -19,9 +19,9 @@
 ---
 ## Interesting TidBits
 - Python List Comphrehension
-A list comprehension looks like this: 
-`new_list = [f(o) for o in a_list if o>0]`
- This will return every element of `a_list`  that is greater than 0, after passing it to the function f.
+A list comprehension looks like this:  
+`new_list = [f(o) for o in a_list if o>0]`  
+This will return every element of `a_list`  that is greater than 0, after passing it to the function f.
 ---
 ## Machine Learning
 - [Neural Networks](./machine_learning/neural_networks.md)
