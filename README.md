@@ -1,4 +1,4 @@
-![banner](./banner.png)
+<img src="./banner.png" alt="banner" style="zoom: 50%;" />
 
 ## Long Term Knowlegde
 - [The Red Queen Effect](https://fundooprofessor.wordpress.com/2012/09/16/red_queen/)
