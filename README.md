@@ -10,6 +10,7 @@
 - [Tragedy of Commons](https://fs.blog/2011/08/the-tragedy-of-the-commons/)
 - [Effective Learning](https://fs.blog/learning/)
 - [Double loop Learning](https://fs.blog/2018/06/double-loop-learning/)
+- [Bayesian Updating](https://fs.blog/2018/09/bayes-theorem/)
 
 ---
 ## Android
