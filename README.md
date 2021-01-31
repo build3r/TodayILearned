@@ -12,6 +12,7 @@
 - [Double loop Learning](https://fs.blog/2018/06/double-loop-learning/)
 - [Bayesian Updating](https://fs.blog/2018/09/bayes-theorem/)
 - [To Explore or Exploit](https://fs.blog/2020/11/explore-or-exploit-how-to-choose-new-opportunities/)
+- [Ideas that can change Life](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/)
 
 ---
 ## Android
