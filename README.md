@@ -31,6 +31,6 @@ This will return every element of `a_list`  that is greater than 0, after passin
 ---
 ## Tools
 - [Switch On a PC remotely](./systems/wake_on_lan.md)
-- 
+- [vscode-snippet (Easily search common code snippets)](https://github.com/mre/vscode-snippet)
 ---
 Inspired by [ashandilya](https://github.com/ashandilya)
