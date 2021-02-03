@@ -15,6 +15,7 @@
 - [Ideas that can change Life](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/)
 - [Process vs outcome](https://fs.blog/2014/07/paula-scher-on-process-versus-outcome/)
 - [Models are not exact but useful in ceratin conditions](https://fs.blog/2017/06/all-models-are-wrong/)
+- [Smart Decision Making](https://fs.blog/smart-decisions/)
 
 ---
 ## Android
