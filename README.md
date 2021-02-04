@@ -36,4 +36,9 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Switch On a PC remotely](./systems/wake_on_lan.md)
 - [vscode-snippet (Easily search common code snippets)](https://github.com/mre/vscode-snippet)
 ---
+
+## Fundentals Revisit
+- [Multi Digit Multiplication](https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide)
+
+---
 Inspired by [ashandilya](https://github.com/ashandilya)
