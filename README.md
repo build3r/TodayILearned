@@ -16,6 +16,7 @@
 - [Process vs outcome](https://fs.blog/2014/07/paula-scher-on-process-versus-outcome/)
 - [Models are not exact but useful in ceratin conditions](https://fs.blog/2017/06/all-models-are-wrong/)
 - [Smart Decision Making](https://fs.blog/smart-decisions/)
+- [How to not be Stupid](https://fs.blog/2019/01/how-not-to-be-stupid/)
 
 ---
 ## Android
