@@ -17,6 +17,7 @@
 - [Models are not exact but useful in certain conditions](https://fs.blog/2017/06/all-models-are-wrong/)
 - [Smart Decision Making](https://fs.blog/smart-decisions/)
 - [How to not be Stupid](https://fs.blog/2019/01/how-not-to-be-stupid/)
+- [How to think](https://fs.blog/2015/08/how-to-think/)
 
 ---
 ## Android
