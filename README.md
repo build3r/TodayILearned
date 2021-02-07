@@ -18,6 +18,7 @@
 - [Smart Decision Making](https://fs.blog/smart-decisions/)
 - [How to not be Stupid](https://fs.blog/2019/01/how-not-to-be-stupid/)
 - [How to think](https://fs.blog/2015/08/how-to-think/)
+- [Decision Making Process](long_term_knowledge/decision_making_process.md)
 
 ---
 ## Android
