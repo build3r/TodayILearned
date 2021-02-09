@@ -38,7 +38,11 @@ This will return every element of `a_list`  that is greater than 0, after passin
 ## Tools
 - [Switch On a PC remotely](./systems/wake_on_lan.md)
 - [vscode-snippet (Easily search common code snippets)](https://github.com/mre/vscode-snippet)
+- [using launchd to run cron jobs](https://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html) 
 ---
+## MacOS
+- Command-Option-C will copy the file path
+- Holding control during screenshot will copy directly to clipboard
 
 ## Fundentals Revisit
 - [Multi Digit Multiplication](https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide)
