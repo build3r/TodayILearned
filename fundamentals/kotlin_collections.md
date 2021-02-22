@@ -199,3 +199,7 @@ val resultReduce = A.zip(B) { a, b -> "$a$b" } //$A$B: [a1, b2, c3]
 
 Get value or return the default specified.
 
+
+Source:  
+[Kotlin Playground](https://play.kotlinlang.org/byExample/05_Collections/)  
+[Youtube Series](https://www.youtube.com/playlist?list=PLMZ2RODGNLRKIDSJlSVygPsi5bru4jk4g)
