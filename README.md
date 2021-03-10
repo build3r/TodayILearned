@@ -22,6 +22,7 @@
 - [100 true fans](https://a16z.com/2020/02/06/100-true-fans/)
 - [Thinking Rate is Fixed](https://fs.blog/2021/03/thinking-rate-fixed/)
 - [How to Act](https://fs.blog/2013/10/marcus-aurelius-how-to-act/)
+- [On Humour](https://eriktorenberg.substack.com/p/on-humor)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
