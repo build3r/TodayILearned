@@ -54,6 +54,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Multi Digit Multiplication](https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide)
 - [Kotlin Collections](./fundamentals/kotlin_collections.md)
 - [SQL](https://mystery.knightlab.com/walkthrough.html)
+- [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
