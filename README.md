@@ -29,6 +29,7 @@
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
 - [Android dependency Graph](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/gradle/dependency-graph-project.md)
 - [Constraint Layout with percentage](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/android/percent-constraint-layout.md)
+- [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
 ---
 ## Interesting TidBits
 - Python List Comphrehension
