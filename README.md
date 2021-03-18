@@ -30,6 +30,7 @@
 - [Android dependency Graph](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/gradle/dependency-graph-project.md)
 - [Constraint Layout with percentage](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/android/percent-constraint-layout.md)
 - [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
+- [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
 ---
 ## Interesting TidBits
 - Python List Comphrehension
