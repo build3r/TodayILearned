@@ -48,6 +48,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [using launchd to run cron jobs](https://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
 - [Espanso](https://espanso.org/)  Really cool utility which you can use to create text substititution
 - [AWK](https://ferd.ca/awk-in-20-minutes.html)
+- [Redux Thunk](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
 ---
 ## MacOS
 - Command-Option-C will copy the file path
