@@ -32,6 +32,7 @@
 - [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
 - [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
 - [Winning a Election](https://fs.blog/2012/03/5-things-cicero-can-teach-you-about-winning-an-election/)
+- [Problem Solving](https://fs.blog/2011/05/problem-solving-tools/)
 ---
 ## Interesting TidBits
 - Python List Comphrehension
@@ -64,5 +65,8 @@ This will return every element of `a_list`  that is greater than 0, after passin
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
 
+### Life Lessons
+- You won't get anywhere by making other people feel stupid, no matter how correct you are.
+- Being kind is harder than being clever.
 ---
 Inspired by [ashandilya](https://github.com/ashandilya)
