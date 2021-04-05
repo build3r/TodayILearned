@@ -33,6 +33,7 @@
 - [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
 - [Winning a Election](https://fs.blog/2012/03/5-things-cicero-can-teach-you-about-winning-an-election/)
 - [Problem Solving](https://fs.blog/2011/05/problem-solving-tools/)
+- [Equality](https://fs.blog/2021/03/john-stuart-mills-equality/)
 ---
 ## Interesting TidBits
 - Python List Comphrehension
