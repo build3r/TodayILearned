@@ -64,6 +64,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [SQL](https://mystery.knightlab.com/walkthrough.html)
 - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Design Patterns](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
+- [SQL Best Practices](./fundamentals/SQL.md)
 
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
