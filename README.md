@@ -41,6 +41,15 @@
 A list comprehension looks like this:  
 `new_list = [f(o) for o in a_list if o>0]`  
 This will return every element of `a_list`  that is greater than 0, after passing it to the function f.
+
+- You can use the [ADB accessibility](https://alexzh.com/adb-commands-accessibility/) to change the denity of Physical Device or Emulator to test you app UI on small screen devices
+    ```
+    adb shell wm density //see current density
+    adb shell wm density 580 //set a different density
+    adb shell wm density reset //reset denity to default
+    ```
+
+
 ---
 ## Machine Learning
 - [Neural Networks](./machine_learning/neural_networks.md)
