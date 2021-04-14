@@ -21,6 +21,11 @@
 - [Decision Making Process](long_term_knowledge/decision_making_process.md)
 - [100 true fans](https://a16z.com/2020/02/06/100-true-fans/)
 - [Thinking Rate is Fixed](https://fs.blog/2021/03/thinking-rate-fixed/)
+- [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
+- [Winning a Election](https://fs.blog/2012/03/5-things-cicero-can-teach-you-about-winning-an-election/)
+- [Problem Solving](https://fs.blog/2011/05/problem-solving-tools/)
+- [Equality](https://fs.blog/2021/03/john-stuart-mills-equality/)
+- [Economic Growth](https://eriktorenberg.substack.com/p/on-economic-growth)
 - [How to Act](https://fs.blog/2013/10/marcus-aurelius-how-to-act/)
 - [On Humour](https://eriktorenberg.substack.com/p/on-humor)
 - [Being Special](https://www.mysupersecretdiary.com/p/special)
@@ -30,11 +35,8 @@
 - [Android dependency Graph](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/gradle/dependency-graph-project.md)
 - [Constraint Layout with percentage](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/android/percent-constraint-layout.md)
 - [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
-- [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
-- [Winning a Election](https://fs.blog/2012/03/5-things-cicero-can-teach-you-about-winning-an-election/)
-- [Problem Solving](https://fs.blog/2011/05/problem-solving-tools/)
-- [Equality](https://fs.blog/2021/03/john-stuart-mills-equality/)
-- [Economic Growth](https://eriktorenberg.substack.com/p/on-economic-growth)
+- [Work Manager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager#toc-anchor-002)
+
 ---
 ## Interesting TidBits
 - Python List Comphrehension
