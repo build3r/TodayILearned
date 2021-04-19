@@ -29,6 +29,7 @@
 - [How to Act](https://fs.blog/2013/10/marcus-aurelius-how-to-act/)
 - [On Humour](https://eriktorenberg.substack.com/p/on-humor)
 - [Being Special](https://www.mysupersecretdiary.com/p/special)
+- [Decentralization of News](https://eriktorenberg.substack.com/p/how-the-internet-ate-media)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
