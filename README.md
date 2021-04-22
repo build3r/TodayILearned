@@ -65,6 +65,8 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Espanso](https://espanso.org/)  Really cool utility which you can use to create text substititution
 - [AWK](https://ferd.ca/awk-in-20-minutes.html)
 - [Redux Thunk](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
+- [Optimizing Bigquery Execution](https://medium.com/slalom-build/using-bigquery-execution-plans-to-improve-query-performance-af141b0cc33d)
+
 ---
 ## MacOS
 - Command-Option-C will copy the file path
