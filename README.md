@@ -30,6 +30,7 @@
 - [On Humour](https://eriktorenberg.substack.com/p/on-humor)
 - [Being Special](https://www.mysupersecretdiary.com/p/special)
 - [Decentralization of News](https://eriktorenberg.substack.com/p/how-the-internet-ate-media)
+- [How to generate Ideads](http://www.paulgraham.com/ideas.html)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
