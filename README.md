@@ -30,7 +30,8 @@
 - [On Humour](https://eriktorenberg.substack.com/p/on-humor)
 - [Being Special](https://www.mysupersecretdiary.com/p/special)
 - [Decentralization of News](https://eriktorenberg.substack.com/p/how-the-internet-ate-media)
-- [How to generate Ideads](http://www.paulgraham.com/ideas.html)
+- [How to generate Ideas](http://www.paulgraham.com/ideas.html)
+- [The fall of Intitutions](https://eriktorenberg.substack.com/p/why-are-institutions-failing-us?token=eyJ1c2VyX2lkIjozMDY1MzU2MCwicG9zdF9pZCI6MzU2NDM5MTUsIl8iOiJXYnp1dyIsImlhdCI6MTYyMDA0NTg0NSwiZXhwIjoxNjIwMDQ5NDQ1LCJpc3MiOiJwdWItMTAzODQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.kKfVFVmwRjqNp9dPv4AIKdjR19IcOIlHwnzfQsmOZQM)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
