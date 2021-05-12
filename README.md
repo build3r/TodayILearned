@@ -33,6 +33,7 @@
 - [How to generate Ideas](http://www.paulgraham.com/ideas.html)
 - [The fall of Institutions](https://eriktorenberg.substack.com/p/why-are-institutions-failing-us)
 - [The Death of Middle](https://eriktorenberg.substack.com/p/the-death-of-the-middle)
+- [The Middle men are no longer needed](https://eriktorenberg.substack.com/p/whoever-generates-the-demand-captures)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
