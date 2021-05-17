@@ -44,6 +44,11 @@
 - [Problems of defining yourself by your job](https://www.bbc.com/worklife/article/20210409-why-we-define-ourselves-by-our-jobs?utm_source=pocket-newtab-intl-en)
 
 ---
+
+## Stoicsm
+[Lessons From Stoics](./stoic_lessons/lessons_2021.md)
+
+---
 ## Interesting TidBits
 - Python List Comphrehension
 A list comprehension looks like this:  
