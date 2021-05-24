@@ -5,3 +5,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 58. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
 59. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
 60. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+61. Mar 01: To begin philosophy, you must first question your emotion, belief and even launguage who may seem very normal.
+62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
+63. Mar 03: It is very difficult live two lifes internally, decide what you want to be a philosopher or the mob.
+64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate yoy obilgations to see how many of thrm are self-imposed.
+65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
