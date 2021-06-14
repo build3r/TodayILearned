@@ -42,7 +42,11 @@
 - [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
 - [Work Manager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager#toc-anchor-002)
 - [Problems of defining yourself by your job](https://www.bbc.com/worklife/article/20210409-why-we-define-ourselves-by-our-jobs?utm_source=pocket-newtab-intl-en)
-
+- Pull Apk from Device
+    1. get Path
+    `adb shell pm path com.example.someapp`
+    2. Get APK
+    `adb pull /data/app/com.example.someapp-2.apk`
 ---
 
 ## Stoicsm
