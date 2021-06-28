@@ -11,3 +11,4 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate yoy obilgations to see how many of thrm are self-imposed.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
