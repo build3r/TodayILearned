@@ -36,6 +36,7 @@
 - [The Middle men are no longer needed](https://eriktorenberg.substack.com/p/whoever-generates-the-demand-captures)
 - [Being a better Manager](https://fs.blog/2016/10/iverson-cure-for-the-common-mba/)
 - [Knowledge Makes everything simpler](https://fs.blog/2015/12/knowledge-makes-everything-simpler/)
+- [Working hard] (https://paulgraham.com/hwh.html)
 ---
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
