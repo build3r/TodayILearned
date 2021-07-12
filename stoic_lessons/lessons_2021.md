@@ -12,3 +12,4 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+69. May 06: The physical beauty attriburtes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
