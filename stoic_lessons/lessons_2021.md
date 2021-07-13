@@ -13,3 +13,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 69. May 06: The physical beauty attriburtes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
+70. May 07: To have a good day, just do good things.
+71. May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
