@@ -15,3 +15,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 69. May 06: The physical beauty attriburtes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 70. May 07: To have a good day, just do good things.
 71. May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
+72. May 09: You only get one chance at today, don't make your answer to what you did yesterday as "nothing".
+73. May 10: For persoanl development flattery of ancestors achievement accomplishes nothing, so use them as example and achieve your own victories.
