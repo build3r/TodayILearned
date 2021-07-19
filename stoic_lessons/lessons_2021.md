@@ -10,6 +10,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 63. Mar 03: It is very difficult live two lifes internally, decide what you want to be a philosopher or the mob.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate yoy obilgations to see how many of thrm are self-imposed.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
+66. Mar 06: Don't glorify yourself by making stories of your past. They inherntly misleading and lead you to be self absorbed.
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 69. May 06: The physical beauty attriburtes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
@@ -19,3 +20,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 73. May 10: For persoanl development flattery of ancestors achievement accomplishes nothing, so use them as example and achieve your own victories.
 74. May 11: The greatest threat for peace of mind is doing wrong. Even if yo are not punished by the society , your consiousness won't forgive you.
 75. May 12: The biggest rebuttal for hatred is kindness. Weak rely on hate, showing kind requires real strength.
+76. May 13: You are the product of your thoughts. If you want to do something then build a habit of doing it. **If you don't want do something then make an habit of doing something else.**
+77. If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
