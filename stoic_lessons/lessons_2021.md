@@ -21,4 +21,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 74. May 11: The greatest threat for peace of mind is doing wrong. Even if yo are not punished by the society , your consiousness won't forgive you.
 75. May 12: The biggest rebuttal for hatred is kindness. Weak rely on hate, showing kind requires real strength.
 76. May 13: You are the product of your thoughts. If you want to do something then build a habit of doing it. **If you don't want do something then make an habit of doing something else.**
-77. If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
+77. May 14: If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
+78. May 15: Instead of fixating on what you don't have be gratefull for what you have. Think about how heartbreaking it will be if you loose what you already posses.
+79. May 16: The key to having good habit or stopping a bad one is to start small build a streak and work on not breaking it.
