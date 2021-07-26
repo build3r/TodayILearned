@@ -24,3 +24,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 77. May 14: If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
 78. May 15: Instead of fixating on what you don't have be gratefull for what you have. Think about how heartbreaking it will be if you loose what you already posses.
 79. May 16: The key to having good habit or stopping a bad one is to start small build a streak and work on not breaking it.
+80. May 17: Philosophy and its priciples are not a goal intead a map for the way but you never reach arrive, you only strive to be better than yesterday.
+81. May 18: You need to concentrate on what you are doing in the moment rather than being lost in in past or future. **How you go anything is how you do everything.**
+82. May 19: Just learning is not enough, you have to deliberately practice.
+83. May 20: When learning strive for quality over quantity.
+84. 
