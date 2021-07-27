@@ -28,4 +28,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 81. May 18: You need to concentrate on what you are doing in the moment rather than being lost in in past or future. **How you go anything is how you do everything.**
 82. May 19: Just learning is not enough, you have to deliberately practice.
 83. May 20: When learning strive for quality over quantity.
-84. 
+84. May 21: Philosphy prepares us to take punches in a ring called life and continue as wehave learned how to deal with them.
+85. May 22: To be good there is no tommorow, today is the day you strive.
