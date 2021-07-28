@@ -30,3 +30,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 83. May 20: When learning strive for quality over quantity.
 84. May 21: Philosphy prepares us to take punches in a ring called life and continue as wehave learned how to deal with them.
 85. May 22: To be good there is no tommorow, today is the day you strive.
+86. May 23: You can long life but live too little. The way live long in aowrthwhile mmaner if to focus on present.
+87. May 24: Luck is where hard work meets oppurtunity. So work hard to increase you luck.
