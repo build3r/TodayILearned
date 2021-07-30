@@ -32,3 +32,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 85. May 22: To be good there is no tommorow, today is the day you strive.
 86. May 23: You can long life but live too little. The way live long in aowrthwhile mmaner if to focus on present.
 87. May 24: Luck is where hard work meets oppurtunity. So work hard to increase you luck.
+88. May 25: Humans like evry othe boilogical creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
+89. May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
