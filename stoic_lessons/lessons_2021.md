@@ -34,3 +34,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 87. May 24: Luck is where hard work meets oppurtunity. So work hard to increase you luck.
 88. May 25: Humans like evry othe boilogical creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
 89. May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
+90. May 27: The little things e do compund over time.  So try to a little beter tahn yesterday everyday.
+91. May 28: While maling decisions
+    1.  Don't get upset
+    2.  Do the right thing.
+92. May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
+93. 
