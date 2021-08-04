@@ -39,4 +39,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Don't get upset
     2.  Do the right thing.
 92. May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
-93. 
+93. May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
+94. May 31: Your job on the earth is to be a good person.
