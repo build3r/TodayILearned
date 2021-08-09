@@ -68,6 +68,22 @@ This will return every element of `a_list`  that is greater than 0, after passin
     adb shell wm density 580 //set a different density
     adb shell wm density reset //reset denity to default
     ```
+- You can check out only a subdirectory from a huge git repo. Really helpful when experimenting with google samples.
+  - You need git version > 2.19 (github is supported)
+  - Do a sparse clone with no blobs and with history depth 1
+  ```bash
+  git clone \
+  --depth 1  \
+  --filter=blob:none  \
+  --sparse \
+    https://github.com/googlesamples/mlkit.git 
+    ```
+    - This will only clone a empty repo*
+    - The enter the repo and sparse-checkout the subdirectory which you need
+    ```bash
+    git sparse-checkout set android/material-showcase
+    ```
+
 
 
 ---
