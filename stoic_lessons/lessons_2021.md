@@ -41,3 +41,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 92. May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
 93. May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
 94. May 31: Your job on the earth is to be a good person.
+95. Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to acheive it.
+96. Jun 02: When you look at the big picture (a birds eye view) the day to day stuggles are petty and you will get a clear prespective of things.
+97. Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then thry something else.
+98. Jun 04:  Life was never meant to be fair, so instead of complaining make the best of it.
+99. Jun 05: Succumbing to self-pity does nothing but sap more energy out of you. Do something about your problem.
+100. Jun 06: Just because you started one path doesn't mean that you need to stick to it forever. If it clear that it not working there is no harm in chaning the path. But also being non-committal and indulging the change is also not good.
