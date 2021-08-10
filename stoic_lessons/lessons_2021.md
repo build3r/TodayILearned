@@ -47,3 +47,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 98. Jun 04:  Life was never meant to be fair, so instead of complaining make the best of it.
 99. Jun 05: Succumbing to self-pity does nothing but sap more energy out of you. Do something about your problem.
 100. Jun 06: Just because you started one path doesn't mean that you need to stick to it forever. If it clear that it not working there is no harm in chaning the path. But also being non-committal and indulging the change is also not good.
+101. Jun 07: You can choose role model and mentors across the history using books.
+102. Jun 08: You can plan for the big picture but you action should be focused on to do the smallest day to day things well.
