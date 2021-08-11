@@ -49,3 +49,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 100. Jun 06: Just because you started one path doesn't mean that you need to stick to it forever. If it clear that it not working there is no harm in chaning the path. But also being non-committal and indulging the change is also not good.
 101. Jun 07: You can choose role model and mentors across the history using books.
 102. Jun 08: You can plan for the big picture but you action should be focused on to do the smallest day to day things well.
+103. Jun 09: Solve problem early, before they become big.
+104. Jun 10: Follow the philosphy of **“If they can do it, why can’t I?”**.
