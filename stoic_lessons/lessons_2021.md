@@ -51,3 +51,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 102. Jun 08: You can plan for the big picture but you action should be focused on to do the smallest day to day things well.
 103. Jun 09: Solve problem early, before they become big.
 104. Jun 10: Follow the philosphy of **“If they can do it, why can’t I?”**.
+105. Jun 11: “if you find yourself in a hole, stop digging.” Don't try to make things worse.
+106. Jun 12: Don't just learn a specfic things, but learn how to adapt. When life goes out of script being adaptable and flexible will be useful.
