@@ -53,3 +53,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 104. Jun 10: Follow the philosphy of **“If they can do it, why can’t I?”**.
 105. Jun 11: “if you find yourself in a hole, stop digging.” Don't try to make things worse.
 106. Jun 12: Don't just learn a specfic things, but learn how to adapt. When life goes out of script being adaptable and flexible will be useful.
+107. Jun 13: Life is a battle. A fight for your goal, fight against impluses. a fight to be better.
+108. Jun 14: Every situation has more than one way to be approach. If one way is not working try the other way.
