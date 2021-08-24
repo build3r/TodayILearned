@@ -60,3 +60,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      2. Consider the both the best and worst case scenario.
      3. Work with the reverse clause- not if something goes wrong, but be prepared for it.
 110. Jun 16: You can ask for help. You don't have to do everything by youself.
+111. Jun 17: Runnung behind fortune will make you bitter. Shield yourself with philosphy, so when the unexpected happens you are prepared for it.
+112. Jun 18: Rather than trying to chage the world as per your prefrence its much easier to change yourself.
