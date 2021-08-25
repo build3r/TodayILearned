@@ -62,3 +62,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 110. Jun 16: You can ask for help. You don't have to do everything by youself.
 111. Jun 17: Runnung behind fortune will make you bitter. Shield yourself with philosphy, so when the unexpected happens you are prepared for it.
 112. Jun 18: Rather than trying to chage the world as per your prefrence its much easier to change yourself.
+113. Jun 19: Sometimes focusing only on the big picture might give you anxiety about all things which can go wrong. Instead it will be beneficial to focus on present.
+114. Jun 21: "Calm is conatgious". If everyone is paranoid, you being calm and helping will spread the calmness.
