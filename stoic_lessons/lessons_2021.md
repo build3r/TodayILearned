@@ -55,7 +55,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 106. Jun 12: Don't just learn a specfic things, but learn how to adapt. When life goes out of script being adaptable and flexible will be useful.
 107. Jun 13: Life is a battle. A fight for your goal, fight against impluses. a fight to be better.
 108. Jun 14: Every situation has more than one way to be approach. If one way is not working try the other way.
-109. Jun 15: Listen more tha you speak
+109. Jun 15: Listen more than you speak
      1. Manage expectation as much as possible
      2. Consider the both the best and worst case scenario.
      3. Work with the reverse clause- not if something goes wrong, but be prepared for it.
@@ -64,3 +64,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 112. Jun 18: Rather than trying to chage the world as per your prefrence its much easier to change yourself.
 113. Jun 19: Sometimes focusing only on the big picture might give you anxiety about all things which can go wrong. Instead it will be beneficial to focus on present.
 114. Jun 21: "Calm is conatgious". If everyone is paranoid, you being calm and helping will spread the calmness.
+115. Jun 22: Take a walk, it clears your mind.
+116. Jun 23: Doing the same thing even after failure and hoping to succeed is insanity. You should choose to learn from your mistake and tweak your action until you get the desired results.
