@@ -63,6 +63,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 111. Jun 17: Runnung behind fortune will make you bitter. Shield yourself with philosphy, so when the unexpected happens you are prepared for it.
 112. Jun 18: Rather than trying to chage the world as per your prefrence its much easier to change yourself.
 113. Jun 19: Sometimes focusing only on the big picture might give you anxiety about all things which can go wrong. Instead it will be beneficial to focus on present.
-114. Jun 21: "Calm is conatgious". If everyone is paranoid, you being calm and helping will spread the calmness.
-115. Jun 22: Take a walk, it clears your mind.
-116. Jun 23: Doing the same thing even after failure and hoping to succeed is insanity. You should choose to learn from your mistake and tweak your action until you get the desired results.
+114. Jun 20: "Calm is conatgious". If everyone is paranoid, you being calm and helping will spread the calmness.
+115. Jun 21: Take a walk, it clears your mind.
+116. Jun 22: Doing the same thing even after failure and hoping to succeed is insanity. You should choose to learn from your mistake and tweak your action until you get the desired results.
+117. Jun 23: At very core everyone wants to be happy; money, status, power etc are our interpretation of happiness. If you let go it and focus on the real things you will achieve it quicker.
+118. Jun 24: An educated mind is never quarrelsome or let a quarrel erupt. Before going into an argument ask yourself "will it solve the solve the problem". Instead of trying to win all arguments listen to understand your opponent.
+119. Jun 25: Always talk less than neccessary.
