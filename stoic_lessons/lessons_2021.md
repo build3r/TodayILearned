@@ -69,3 +69,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 117. Jun 23: At very core everyone wants to be happy; money, status, power etc are our interpretation of happiness. If you let go it and focus on the real things you will achieve it quicker.
 118. Jun 24: An educated mind is never quarrelsome or let a quarrel erupt. Before going into an argument ask yourself "will it solve the solve the problem". Instead of trying to win all arguments listen to understand your opponent.
 119. Jun 25: Always talk less than necessary.
+120. Jun 26: If some of your habits and patterns keep failing, then try the opposite.
+121. Jun 27: The way you handle adversities says a lot about you. Learn to stand firm and face adversities head on.
