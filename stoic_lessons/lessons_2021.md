@@ -71,3 +71,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 119. Jun 25: Always talk less than necessary.
 120. Jun 26: If some of your habits and patterns keep failing, then try the opposite.
 121. Jun 27: The way you handle adversities says a lot about you. Learn to stand firm and face adversities head on.
+122. Jun 28: Don't punish yourself, mistakes happen. Forgive yourself and continue
+123. Jun 29: Don't give excuses instead of striving to be better. 
+124. Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
+125. Jul 01: Whatever happens do you job, which is to be good!, to be wise.
