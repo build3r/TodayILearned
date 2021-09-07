@@ -75,3 +75,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 123. Jun 29: Don't give excuses instead of striving to be better. 
 124. Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
 125. Jul 01: Whatever happens do you job, which is to be good!, to be wise.
+126. Jul 02: Do your duty no matter what happens.
+127. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
