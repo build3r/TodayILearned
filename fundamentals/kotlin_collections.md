@@ -4,7 +4,7 @@ Kotlin
 
 ### List:
 
-Initialise:
+Initialize:
 
 ```kotlin
 val list = mutableListOf(1,2,3)
@@ -24,7 +24,7 @@ list.forEach {
 
 Collection of unique elements
 
-Initialise:
+Initialize:
 
 ```kotlin
 val mSet = mutableSetOf(1,2,3)

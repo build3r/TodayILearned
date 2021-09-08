@@ -84,9 +84,6 @@ This will return every element of `a_list`  that is greater than 0, after passin
     ```bash
     git sparse-checkout set android/material-showcase
     ```
-
-
-
 ---
 ## Machine Learning
 - [Neural Networks](./machine_learning/neural_networks.md)
@@ -95,10 +92,10 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Switch On a PC remotely](./systems/wake_on_lan.md)
 - [vscode-snippet (Easily search common code snippets)](https://github.com/mre/vscode-snippet)
 - [using launchd to run cron jobs](https://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
-- [Espanso](https://espanso.org/)  Really cool utility which you can use to create text substititution
+- [Espanso](https://espanso.org/)  Really cool utility which you can use to create text substitution
 - [AWK](https://ferd.ca/awk-in-20-minutes.html)
 - [Redux Thunk](https://alialhaddad.medium.com/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
-- [Optimizing Bigquery Execution](https://medium.com/slalom-build/using-bigquery-execution-plans-to-improve-query-performance-af141b0cc33d)
+- [Optimizing Big query Execution](https://medium.com/slalom-build/using-bigquery-execution-plans-to-improve-query-performance-af141b0cc33d)
 
 ---
 ## MacOS
@@ -113,6 +110,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Design Patterns](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 - [SQL Best Practices](./fundamentals/SQL.md)
+- [Firebase Gotchas](./fundamentals/firebase.md)
 
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
