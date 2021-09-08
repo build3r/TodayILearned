@@ -23,7 +23,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - name: commit_times
+      - name: commit times
+        id: commit_times
         uses: yiliang114/commit-times@0.1.4
         with:
           # GitHub user who you want to gain commit times today
@@ -32,7 +33,7 @@ jobs:
           
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: "echo Hello, world! commited ${steps.commit_times.sum}"
+        run: "echo Hello, world! commited ${steps.commit_times.outputs.sum}"
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
