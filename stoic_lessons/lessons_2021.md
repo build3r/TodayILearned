@@ -77,3 +77,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 125. Jul 01: Whatever happens do you job, which is to be good!, to be wise.
 126. Jul 02: Do your duty no matter what happens.
 127. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
+128. Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
+129. Jul 05: Ig doing good was easy, then everyone would do it. So be better.
