@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-## Long Term Knowlegde
+## Long Term Knowledge
 - [The Red Queen Effect](https://fundooprofessor.wordpress.com/2012/09/16/red_queen/)
 - [Getting the World to Do the Work for You- Joseph Tussman](https://fs.blog/2016/02/joseph-tussman/)
 - [Schlep Blindness](./essays/schlep_blindness.md)
@@ -21,7 +21,7 @@
 - [Decision Making Process](long_term_knowledge/decision_making_process.md)
 - [100 true fans](https://a16z.com/2020/02/06/100-true-fans/)
 - [Thinking Rate is Fixed](https://fs.blog/2021/03/thinking-rate-fixed/)
-- [Focuing on simiplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
+- [Focusing on simplicity](https://fs.blog/2014/12/albert-einstein-simplicity/)
 - [Winning a Election](https://fs.blog/2012/03/5-things-cicero-can-teach-you-about-winning-an-election/)
 - [Problem Solving](https://fs.blog/2011/05/problem-solving-tools/)
 - [Equality](https://fs.blog/2021/03/john-stuart-mills-equality/)
@@ -53,24 +53,24 @@
     `adb pull /data/app/com.example.someapp-2.apk`
 ---
 
-## Stoicsm
+## Stoicism
 [Lessons From Stoics](./stoic_lessons/lessons_2021.md)
 
 ---
 ## Interesting TidBits
-- Python List Comphrehension
+- Python List Comprehension
 A list comprehension looks like this:  
 `new_list = [f(o) for o in a_list if o>0]`  
 This will return every element of `a_list`  that is greater than 0, after passing it to the function f.
 
-- You can use the [ADB accessibility](https://alexzh.com/adb-commands-accessibility/) to change the denity of Physical Device or Emulator to test you app UI on small screen devices
+- You can use the [ADB accessibility](https://alexzh.com/adb-commands-accessibility/) to change the density of Physical Device or Emulator to test you app UI on small screen devices
     ```
     adb shell wm density //see current density
     adb shell wm density 580 //set a different density
     adb shell wm density reset //reset denity to default
     ```
 - You can check out only a subdirectory from a huge git repo. Really helpful when experimenting with google samples.
-  - You need git version > 2.19 (github is supported)
+  - You need git version > 2.19 (GitHub is supported)
   - Do a sparse clone with no blobs and with history depth 1
   ```bash
   git clone \
