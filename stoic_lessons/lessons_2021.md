@@ -78,4 +78,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 126. Jul 02: Do your duty no matter what happens.
 127. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
 128. Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
-129. Jul 05: Ig doing good was easy, then everyone would do it. So be better.
+129. Jul 05: If doing good was easy, then everyone would do it. So be better.
+130. Jul 06: You cannot be service to yourself or others if you are asleep, so rise and start working. The earlier the better.
+131. Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
+132. Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
