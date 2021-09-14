@@ -82,3 +82,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 130. Jul 06: You cannot be service to yourself or others if you are asleep, so rise and start working. The earlier the better.
 131. Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
 132. Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
+133. Jul 09: Philosophy helps at leadership position in making the right decision. Every leader should practice philosophy.
+134. Jul 10: Be humble with your art. Do thing which you truly enjoy.
