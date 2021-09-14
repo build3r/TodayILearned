@@ -1,7 +1,7 @@
 # FireBase
 
 ### SetUp
-- Easy way to get Signing SHA1 and SHA256 signatures from Android studio
+- Easy way to get Signing SHA1 and SHA256 signatures from Android studio  
 ![signing](../images/signing.png)
 
 ### RealTime Database
