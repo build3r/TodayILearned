@@ -84,3 +84,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 132. Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
 133. Jul 09: Philosophy helps at leadership position in making the right decision. Every leader should practice philosophy.
 134. Jul 10: Be humble with your art. Do thing which you truly enjoy.
+135. Jul 11: Think of yourself as a startup, you are born as an idea and you have work hard to develop it into something useful.
+136. Jul 12: Things which you have learnt here, apply them in practice.
