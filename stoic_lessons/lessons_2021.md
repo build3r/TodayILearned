@@ -86,3 +86,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 134. Jul 10: Be humble with your art. Do thing which you truly enjoy.
 135. Jul 11: Think of yourself as a startup, you are born as an idea and you have work hard to develop it into something useful.
 136. Jul 12: Things which you have learnt here, apply them in practice.
+137. Jul 13: Being a good leader is that you must help others to be better, Its your duty.
+138. Jul 14: People who pick things up quickly skip the basic lessons and d not understand the fundamentals. So train with humility.
+139. Jul 15: When you do right thing, do not expect a reward or a favor. You did it because its right.
