@@ -104,7 +104,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - Holding control during screenshot will copy directly to clipboard
 
 
-## Fundentals Revisit
+## Fundamentals Revisit
 - [Multi Digit Multiplication](https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide)
 - [Kotlin Collections](./fundamentals/kotlin_collections.md)
 - [SQL](https://mystery.knightlab.com/walkthrough.html)
