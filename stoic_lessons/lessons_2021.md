@@ -89,4 +89,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 137. Jul 13: Being a good leader is that you must help others to be better, Its your duty.
 138. Jul 14: People who pick things up quickly skip the basic lessons and d not understand the fundamentals. So train with humility.
 139. Jul 15: When you do right thing, do not expect a reward or a favor. You did it because its right.
-140. July 16: Ask yourself "What are yo committed?" is it consistent with your values and things you care.
+140. Jul 16: Ask yourself "What are yo committed?" is it consistent with your values and things you care.
+141. Jul 17: When you are on the path to progress, there will be people who will have problem with it. Don't get angry with just assume that they are on a level which you were previously.
+142. Jul 18: Freedom can mean
+     1. Living your own life such a way that it doesn't negatively impose on others.
+     2. Being open-minded and accepting to let others do that same no matter how differing they are from your point of view.
+143. 
