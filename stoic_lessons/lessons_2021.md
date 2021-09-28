@@ -94,4 +94,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 142. Jul 18: Freedom can mean
      1. Living your own life such a way that it doesn't negatively impose on others.
      2. Being open-minded and accepting to let others do that same no matter how differing they are from your point of view.
-143. 
+143. Jul 19: Most people do bad things because they do not know better. So remember this and forgive them.
+144. Jul 20: Support your natural inclination to justice with strong boundaries and and commitment so that you don't go astray when no one is watching.
