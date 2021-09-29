@@ -96,3 +96,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      2. Being open-minded and accepting to let others do that same no matter how differing they are from your point of view.
 143. Jul 19: Most people do bad things because they do not know better. So remember this and forgive them.
 144. Jul 20: Support your natural inclination to justice with strong boundaries and and commitment so that you don't go astray when no one is watching.
+145. Jul 21: You have a higher obligation to humanity to get up and do the work so that everyone can progress.
+146. Jul 22: If you are forced to do a thing then its not noble. All noble deeds are voluntary.
