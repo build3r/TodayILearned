@@ -98,3 +98,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 144. Jul 20: Support your natural inclination to justice with strong boundaries and and commitment so that you don't go astray when no one is watching.
 145. Jul 21: You have a higher obligation to humanity to get up and do the work so that everyone can progress.
 146. Jul 22: If you are forced to do a thing then its not noble. All noble deeds are voluntary.
+147. Jul 23: Take both praise and sly comments with indifference and stick to your duty. Don't let them change your state of mind.
+148. Jul 24: When you hear about an horrible news, if you can do something about it do it. Just emoting or felling sorry and changing your state of mind will be deterrent. If you can't to any thing then stick to your duties.
