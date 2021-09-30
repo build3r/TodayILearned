@@ -38,19 +38,22 @@
 - [Knowledge Makes everything simpler](https://fs.blog/2015/12/knowledge-makes-everything-simpler/)
 - [Working hard](https://paulgraham.com/hwh.html)
 - [Creating vs Consuming](https://blog.tjcx.me/p/consume-less-create-more)
+- [Problems of defining yourself by your job](https://www.bbc.com/worklife/article/20210409-why-we-define-ourselves-by-our-jobs?utm_source=pocket-newtab-intl-en)
+  
 ---
+
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)
 - [Android dependency Graph](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/gradle/dependency-graph-project.md)
 - [Constraint Layout with percentage](https://github.com/wajahatkarim3/Today-I-Learned/blob/master/android/percent-constraint-layout.md)
 - [Vector Assets](https://medium.com/android-dev-hacks/android-vector-drawables-bfb515ba8f2e)
 - [Work Manager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager#toc-anchor-002)
-- [Problems of defining yourself by your job](https://www.bbc.com/worklife/article/20210409-why-we-define-ourselves-by-our-jobs?utm_source=pocket-newtab-intl-en)
 - Pull Apk from Device
     1. get Path
     `adb shell pm path com.example.someapp`
     2. Get APK
     `adb pull /data/app/com.example.someapp-2.apk`
+- [Securing Keys in NDK Layer: ](https://medium.com/programming-lite/securing-api-keys-in-android-app-using-ndk-native-development-kit-7aaa6c0176be)You can store api key in the NDK layer which makes it difficult for bad actors to access them. Easy way is just add include C++ while creating project and add kets in native-lib.cpp file.
 ---
 
 ## Stoicism
