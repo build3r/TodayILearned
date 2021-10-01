@@ -100,3 +100,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 146. Jul 22: If you are forced to do a thing then its not noble. All noble deeds are voluntary.
 147. Jul 23: Take both praise and sly comments with indifference and stick to your duty. Don't let them change your state of mind.
 148. Jul 24: When you hear about an horrible news, if you can do something about it do it. Just emoting or felling sorry and changing your state of mind will be deterrent. If you can't to any thing then stick to your duties.
+149. Jul 25: Being a workaholic you achieve some great things but the costs are rarely justified. You are a Human **Being** not a Human **Doing**.
+150. Jul 26: "All evil needs to prevail is for good men to do nothing”. Just not doing evil id not enough, you should strive for being a force good in the world.
