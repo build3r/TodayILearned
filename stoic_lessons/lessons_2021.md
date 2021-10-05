@@ -104,3 +104,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 150. Jul 26: "All evil needs to prevail is for good men to do nothing”. Just not doing evil id not enough, you should strive for being a force good in the world.
 151. Jul 27: When you don't have something (material things) you crave for it, but when you achieve it you crave for more or are disappointed. This is deal with all material things. But on the other hand **Virtue** (moral standards: justice, honesty, discipline) is something which ones achieved is more than what you expected. And you can't have it piece wise, either you have it or not.
 152. Jul 28: When you are arguing with sometime you might feel the opposite person to be an Idiot. But don't judge him too quickly, he might not have the same privilege as you. So be patient with them.
+153. Jul 29: Philosophy is the cure for self. It not only cures the negative characteristics but allow the practitioners to flourish.
+154. Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
