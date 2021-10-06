@@ -106,3 +106,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 152. Jul 28: When you are arguing with sometime you might feel the opposite person to be an Idiot. But don't judge him too quickly, he might not have the same privilege as you. So be patient with them.
 153. Jul 29: Philosophy is the cure for self. It not only cures the negative characteristics but allow the practitioners to flourish.
 154. Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
+155. Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
+156. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
