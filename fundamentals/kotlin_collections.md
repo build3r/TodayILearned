@@ -46,7 +46,7 @@ Access:
 
 Key value pair
 
-Initialise:
+Initialize:
 
 ```kotlin
 val mMap = mutableMapOf(1 to "x", 2 to "y", 3 to "z") //to is easy way to map element
@@ -70,7 +70,7 @@ mMap.forEach {
 
 Filter a list based on predicate
 
-Initialise:
+Initialize:
 
 ```kotlin
 val mL = mutableListOf(1,2,3)

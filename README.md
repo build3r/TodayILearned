@@ -116,6 +116,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [SQL Best Practices](./fundamentals/SQL.md)
 - [Firebase Gotchas](./fundamentals/firebase.md)
 - [Technical Writing](./fundamentals/techincal_writing/technical_writing_course.md)
+- [Kotlin Coroutines Exception Handling](./fundamentals/kotlin_coroutines.md)
 
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
