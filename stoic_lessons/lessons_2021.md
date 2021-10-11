@@ -108,3 +108,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 154. Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
 155. Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
 156. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
+157. Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
+158. Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
