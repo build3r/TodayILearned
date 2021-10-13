@@ -110,3 +110,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 156. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
 157. Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
 158. Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
+159. Aug 04: Stop blaming others, try to control your desire and avoid what you can'r control with reasoned choice. Don get emotional, just focus.
+160. Aug 05: "The more you talk, the more likely you will say something stupid". Learn to stay silent and listen, son't talk to look smart. Silence builds strength and self-sufficiency.
