@@ -114,3 +114,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 160. Aug 05: "The more you talk, the more likely you will say something stupid". Learn to stay silent and listen, son't talk to look smart. Silence builds strength and self-sufficiency.
 161. Aug 06: Defeatism won't take you anywhere. Try everything possible to achieve what you need.
 162. Aug 07: Principles and pragmatism (practical thing to achieve goals) are not at odds with each other. You can stick to your principle even in the most opposite environment.
+163. Aug 08: Don't be trapped by Idealism. Start from the world is. Don't wait for Ideal time.
+164. Aug 09: Don't fall into the human habit of inferring things from very little data. Learn to see things as they are without judgement.
+165. Aug 10: “Perfectionism rarely begets perfection—only disappointment”. Your pursuit should be towards progress, however little possible.
+166. Aug 11: Don't forget that although theories are clean and simple, real life situations rarely are.
