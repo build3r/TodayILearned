@@ -110,7 +110,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 156. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
 157. Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
 158. Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
-159. Aug 04: Stop blaming others, try to control your desire and avoid what you can'r control with reasoned choice. Don get emotional, just focus.
+159. Aug 04: Stop blaming others, try to control your desire and avoid what you can't control with reasoned choice. Don get emotional, just focus.
 160. Aug 05: "The more you talk, the more likely you will say something stupid". Learn to stay silent and listen, son't talk to look smart. Silence builds strength and self-sufficiency.
 161. Aug 06: Defeatism won't take you anywhere. Try everything possible to achieve what you need.
 162. Aug 07: Principles and pragmatism (practical thing to achieve goals) are not at odds with each other. You can stick to your principle even in the most opposite environment.
@@ -118,3 +118,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 164. Aug 09: Don't fall into the human habit of inferring things from very little data. Learn to see things as they are without judgement.
 165. Aug 10: “Perfectionism rarely begets perfection—only disappointment”. Your pursuit should be towards progress, however little possible.
 166. Aug 11: Don't forget that although theories are clean and simple, real life situations rarely are.
+167. Aug 12: The words which you speak should be supported by your actions. It doesn't matter if the words are not your own.
+168. Aug 13: Let you reason rule your actions though tedious it will saves you quite a trouble.
