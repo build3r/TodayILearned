@@ -120,3 +120,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 166. Aug 11: Don't forget that although theories are clean and simple, real life situations rarely are.
 167. Aug 12: The words which you speak should be supported by your actions. It doesn't matter if the words are not your own.
 168. Aug 13: Let you reason rule your actions though tedious it will saves you quite a trouble.
+169. Aug 14: Philosophy isn't for fun or to impress someone, it is steer the course of your life in the sea of uncertainties.
+170. Aug 15: You become the sum of your actions, so choose wisely what you do and don't waiver from your virtues.
