@@ -122,3 +122,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 168. Aug 13: Let you reason rule your actions though tedious it will saves you quite a trouble.
 169. Aug 14: Philosophy isn't for fun or to impress someone, it is steer the course of your life in the sea of uncertainties.
 170. Aug 15: You become the sum of your actions, so choose wisely what you do and don't waiver from your virtues.
+171. Aug 16: Try to use the obstacles as raw materials for progress.
+172. Aug 17: Everything which happens to you is in your reasoned choice. Trying having a day where you don't blame anyone or anything.
