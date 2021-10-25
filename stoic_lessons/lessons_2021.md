@@ -124,3 +124,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 170. Aug 15: You become the sum of your actions, so choose wisely what you do and don't waiver from your virtues.
 171. Aug 16: Try to use the obstacles as raw materials for progress.
 172. Aug 17: Everything which happens to you is in your reasoned choice. Trying having a day where you don't blame anyone or anything.
+173. Aug 18: Don't try to beat you opponents or obstacles where the are strongest. With reasoned choice choose your battles where your winning chances are the highest.
+174. Aug 19: Ruthlessly cut down things which are not essential in life. ex taking a long time while shopping to save some money.
