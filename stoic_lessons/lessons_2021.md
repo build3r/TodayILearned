@@ -126,3 +126,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 172. Aug 17: Everything which happens to you is in your reasoned choice. Trying having a day where you don't blame anyone or anything.
 173. Aug 18: Don't try to beat you opponents or obstacles where the are strongest. With reasoned choice choose your battles where your winning chances are the highest.
 174. Aug 19: Ruthlessly cut down things which are not essential in life. ex taking a long time while shopping to save some money.
+175. Aug 20: HAve the inner change which philosophy brings, but it the outward appearance blend with society. For the fact rejection of basic society alienates people, it even threatens them.
+176. Aug 21: Feeling bad for something which happens in future is totally voluntary. Best case scenario time was wasted in needless fear, worst case scenario extra time was wasted being miserable.
