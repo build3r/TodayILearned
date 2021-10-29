@@ -128,3 +128,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 174. Aug 19: Ruthlessly cut down things which are not essential in life. ex taking a long time while shopping to save some money.
 175. Aug 20: HAve the inner change which philosophy brings, but it the outward appearance blend with society. For the fact rejection of basic society alienates people, it even threatens them.
 176. Aug 21: Feeling bad for something which happens in future is totally voluntary. Best case scenario time was wasted in needless fear, worst case scenario extra time was wasted being miserable.
+177. Aug 22: Don't spend more time on lesser things, if you do then you are stealing time from the important things as your time is finite.
+178. Aug 23: When you want to persuade someone don't moralize appeal to their self-interest. “Appeal to People’s Self-Interest Never to Their Mercy or Gratitude.”
