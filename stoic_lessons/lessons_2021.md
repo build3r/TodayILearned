@@ -132,3 +132,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 178. Aug 23: When you want to persuade someone don't moralize appeal to their self-interest. “Appeal to People’s Self-Interest Never to Their Mercy or Gratitude.”
 179. Aug 24: Take wisdom from where ever you can get, even from people who you don't agree with. What matter is if that wisdom can make you life better.
 180. Aug 25: Use the path created by people before you as your guide rather than the only path. If you find a better alternative use it. You don't have to to follow people who stopped learning some 2000 years ago.
+181. Aug 26: Stoics work with the reverse clause, that unfortunate events can turn out to be for the best.
+182. Aug 27: There more humour to be found in most situations than hate. By looking for it you reduce the heaviness of the events.
