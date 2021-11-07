@@ -134,3 +134,4 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 180. Aug 25: Use the path created by people before you as your guide rather than the only path. If you find a better alternative use it. You don't have to to follow people who stopped learning some 2000 years ago.
 181. Aug 26: Stoics work with the reverse clause, that unfortunate events can turn out to be for the best.
 182. Aug 27: There more humour to be found in most situations than hate. By looking for it you reduce the heaviness of the events.
+183. Aug 28: We may need wealth, but we should not become slaves to it.
