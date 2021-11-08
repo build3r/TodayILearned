@@ -135,3 +135,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 181. Aug 26: Stoics work with the reverse clause, that unfortunate events can turn out to be for the best.
 182. Aug 27: There more humour to be found in most situations than hate. By looking for it you reduce the heaviness of the events.
 183. Aug 28: We may need wealth, but we should not become slaves to it.
+184. Aug 29: The wealth of person is determined by the relation of his desires and expenditure to that of his income. If person can fulfill all his desires in less then the richer than person who can't even with more.
+185. Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
