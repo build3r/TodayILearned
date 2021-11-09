@@ -137,3 +137,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 183. Aug 28: We may need wealth, but we should not become slaves to it.
 184. Aug 29: The wealth of person is determined by the relation of his desires and expenditure to that of his income. If person can fulfill all his desires in less then the richer than person who can't even with more.
 185. Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
+186. Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
+187. Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
+188. Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.

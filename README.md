@@ -55,6 +55,10 @@
     2. Get APK
     `adb pull /data/app/com.example.someapp-2.apk`
 - [Securing Keys in NDK Layer: ](https://medium.com/programming-lite/securing-api-keys-in-android-app-using-ndk-native-development-kit-7aaa6c0176be)You can store api key in the NDK layer which makes it difficult for bad actors to access them. Easy way is just add include C++ while creating project and add kets in native-lib.cpp file.
+- Best Way to SHA1, SHA256 and MD5 signatures of your debug or signing certificate
+    - Set the appropriate variant
+    - `./gradlew signingReport`
+    - You can even click gradle -> Project -> app -> tasks -> android -> signingReport
 ---
 
 ## Stoicism
