@@ -140,3 +140,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 186. Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
 187. Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
 188. Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.
+189. Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
+190. Sep 04: Consider adversities as experience which will form you character. "What doesn't kill me makes me stronger" - Nietzsche
+191. Sep 05: Focus on what you can control, Quench your desires of what could be and work what can be done by you.
