@@ -143,3 +143,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 189. Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
 190. Sep 04: Consider adversities as experience which will form you character. "What doesn't kill me makes me stronger" - Nietzsche
 191. Sep 05: Focus on what you can control, Quench your desires of what could be and work what can be done by you.
+192. Sep 06: Others can physically restrain you, but will never have the power to change who you are. That is solely with you in any condition
+193. Sep 07: You have the hidden power to always have choice, however minuscule it may be.
+194. Sep 08: You should philosophy to prepare any adversities which may arise and to tackle them with patience and determination.
