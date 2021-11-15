@@ -146,3 +146,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 192. Sep 06: Others can physically restrain you, but will never have the power to change who you are. That is solely with you in any condition
 193. Sep 07: You have the hidden power to always have choice, however minuscule it may be.
 194. Sep 08: You should philosophy to prepare any adversities which may arise and to tackle them with patience and determination.
+195. Sep 09: You have to fear, **fear** itself. Most of the times the damage of what we were fearing will pale in comparison when we are trying to circumvent the fear.
+196. Sep 10: Practice once a week on leaving with bare minimum, and ask yourself is it really that bad.
+197. Sep 11: In time of abundance prepare yourself to live with less, so that you won't have hard time when things change. 
