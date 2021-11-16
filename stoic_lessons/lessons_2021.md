@@ -149,3 +149,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 195. Sep 09: You have to fear, **fear** itself. Most of the times the damage of what we were fearing will pale in comparison when we are trying to circumvent the fear.
 196. Sep 10: Practice once a week on leaving with bare minimum, and ask yourself is it really that bad.
 197. Sep 11: In time of abundance prepare yourself to live with less, so that you won't have hard time when things change. 
+198. Sep 12: Overconfidence is a great weakness and a liability. So stay humble.
+199. Sep 13: Your soul(character) is protected by a fortress, it can only be breached if betrayed from the inside.
+200. Sep 14: Try praying(Asking) differently, instead of asking for something to happen, ask for strength to endure it.
