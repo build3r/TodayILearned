@@ -152,3 +152,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 198. Sep 12: Overconfidence is a great weakness and a liability. So stay humble.
 199. Sep 13: Your soul(character) is protected by a fortress, it can only be breached if betrayed from the inside.
 200. Sep 14: Try praying(Asking) differently, instead of asking for something to happen, ask for strength to endure it.
+201. Sep 15: When you are learning philosophy keep to yourself initially until you have enough experience following it.
+202. Sep 16: Anyone can be lucky but they are not admired, but people who achieve it with hard work are worth the admiration.
+203. Sep 17: Don't hate the haters, if you can influence them to change their view do it. If not accept for who they are.
