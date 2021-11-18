@@ -155,3 +155,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 201. Sep 15: When you are learning philosophy keep to yourself initially until you have enough experience following it.
 202. Sep 16: Anyone can be lucky but they are not admired, but people who achieve it with hard work are worth the admiration.
 203. Sep 17: Don't hate the haters, if you can influence them to change their view do it. If not accept for who they are.
+204. Sep 18: No Pain is unbearable or unending if you have strong will. Go through it graciously and come out stronger.
+205. Sep 19: Your will should be adaptable to changing circumstances and new information. Flexibility in itself is a great strength.
+206. Sep 20: Life is more like wrestling than a dance, you will have to fight external opponents as well as internal one like limitations, emotions.
