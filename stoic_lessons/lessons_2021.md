@@ -158,3 +158,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 204. Sep 18: No Pain is unbearable or unending if you have strong will. Go through it graciously and come out stronger.
 205. Sep 19: Your will should be adaptable to changing circumstances and new information. Flexibility in itself is a great strength.
 206. Sep 20: Life is more like wrestling than a dance, you will have to fight external opponents as well as internal one like limitations, emotions.
+207. Sep 21: Your plan may thwarted by unseen events minor or major, that ok, it reality. You have to learn to get back to rhythm. 
+208. Sep 22: Great people do not shy away from challenges, they seek them. For the challenges are not the obstacles but the path.
+209. Sep 23: You have train yourself by repeating the habits which you want so that you will be able to use them unconsciously.
