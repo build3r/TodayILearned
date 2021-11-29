@@ -161,3 +161,6 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 207. Sep 21: Your plan may thwarted by unseen events minor or major, that ok, it reality. You have to learn to get back to rhythm. 
 208. Sep 22: Great people do not shy away from challenges, they seek them. For the challenges are not the obstacles but the path.
 209. Sep 23: You have train yourself by repeating the habits which you want so that you will be able to use them unconsciously.
+210. Sep 24: When you see a extreme misfortune happen to someone remember it can happen to you too. So always remember this and be prepared.
+211. Sep 25: Everyone is slave to something. Try to recognize this and make yourself invulnerable to dependencies on convenience or someday they will bring you to your knees.
+212. Sep 26: Take off from work, but never from learning. Take vacation like a poet actively looking at the world and understanding the universe around you. Answer your calling when you are responsibilities are taken care of.
