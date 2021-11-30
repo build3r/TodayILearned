@@ -164,3 +164,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 210. Sep 24: When you see a extreme misfortune happen to someone remember it can happen to you too. So always remember this and be prepared.
 211. Sep 25: Everyone is slave to something. Try to recognize this and make yourself invulnerable to dependencies on convenience or someday they will bring you to your knees.
 212. Sep 26: Take off from work, but never from learning. Take vacation like a poet actively looking at the world and understanding the universe around you. Answer your calling when you are responsibilities are taken care of.
+213. Sep 27: "Power does not corrupt, it reveals." Always hope for one thing, then let it be to strengthen your character so that you don't falter in good or bad fortune.
+214. Sep 28: You hold the trump card to decide what an external events means to you.
+215. Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
+216. Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
