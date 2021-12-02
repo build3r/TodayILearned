@@ -168,3 +168,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 214. Sep 28: You hold the trump card to decide what an external events means to you.
 215. Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
 216. Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
+217. Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
+218. Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
+219. Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
+220. Oct 04: “That which doesn’t harm the community can’t harm the individual.” Marcus Aurelius. The deeds which are good for the whole will eventually be good for individuals.
