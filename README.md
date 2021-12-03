@@ -42,6 +42,11 @@
 - [Tips for being a great Programmer](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl)
   
 ---
+## Twelve Factor App
+https://12factor.net/
+1. Code base: One app should have one repo, if multiple app are sharing code then it should be refactored into library. One repo will have multiple deployments (prod, staging, local, variants etc)
+
+---------------------------------------------------------------------------------------------------------
 
 ## Android
 - [Activity Results API](https://android.jlelse.eu/activity-results-api-69be5a225e86)

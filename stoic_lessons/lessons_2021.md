@@ -172,3 +172,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 218. Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
 219. Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
 220. Oct 04: “That which doesn’t harm the community can’t harm the individual.” Marcus Aurelius. The deeds which are good for the whole will eventually be good for individuals.
+221. Oct 05: "What is said cannot be taken back", so always show caution when you speak. Not speaking is better than speaking ill.
+222. Oct 06: Practice the virtue of celebrating others success. We are not always in zero-sum game.
+223. Oct 07: When you achieve something by ill means ask yourself *How Do I feel?*. Practice self-awareness as it rarely goes together with wrongdoing.
+224. Oct 08: Pleasures are powerful but fleeting. What lasts long is wisdom, good character, kindness and sobriety.
