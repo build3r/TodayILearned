@@ -176,3 +176,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 222. Oct 06: Practice the virtue of celebrating others success. We are not always in zero-sum game.
 223. Oct 07: When you achieve something by ill means ask yourself *How Do I feel?*. Practice self-awareness as it rarely goes together with wrongdoing.
 224. Oct 08: Pleasures are powerful but fleeting. What lasts long is wisdom, good character, kindness and sobriety.
+225. Oct 09: Set a standard for yourself and evaluate your actions against it. Do not compromise.
+226. Oct 10: Your virtues should consist of "Reverence": to appreciate what you have  and "Justice": to stand up for what is right.
+227. Oct 11: Build your character in such way that you do not need to use empty expressions like "I'll be hones...", "No disrespect but ..."
+228. Oct 12: The love you get is equal to the love you give. There is almost no situation in which hatred helps, but with love (empathy, understanding, appreciation) it can be made better.
