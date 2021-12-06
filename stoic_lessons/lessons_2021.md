@@ -180,3 +180,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 226. Oct 10: Your virtues should consist of "Reverence": to appreciate what you have  and "Justice": to stand up for what is right.
 227. Oct 11: Build your character in such way that you do not need to use empty expressions like "I'll be hones...", "No disrespect but ..."
 228. Oct 12: The love you get is equal to the love you give. There is almost no situation in which hatred helps, but with love (empathy, understanding, appreciation) it can be made better.
+229. Oct 13: The best revenge is the one which is not exacted. If you return ill favor given to you then you prove that the other person was right.
+230. Oct 14: We rather be bitter, pissed off or rage inside than have an awkward conversation which can help the person resolve the issue which is irritating us.
+231. Oct 15: A virtuous person doesn't jump to hasty conclusions, give others the benefit of doubt and be generous with your assumptions.
+232. Oct 16: Teach your close ones the virtues you have learned from philosophy not with lecture but with behavior.
