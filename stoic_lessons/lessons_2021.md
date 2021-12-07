@@ -184,3 +184,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 230. Oct 14: We rather be bitter, pissed off or rage inside than have an awkward conversation which can help the person resolve the issue which is irritating us.
 231. Oct 15: A virtuous person doesn't jump to hasty conclusions, give others the benefit of doubt and be generous with your assumptions.
 232. Oct 16: Teach your close ones the virtues you have learned from philosophy not with lecture but with behavior.
+233. Oct 17: Show kindness to the first person you meet and keep continuing for next person.
+234. Oct 18: Avoid frenemies, two-faced people. Also ask yourself when you have been two-faced, stop this as it is beneath you.
+235. Oct 19: Instead of forcing yourself to stop bad habits, replace them contrary virtue/habit.
+236. Oct 20: The question "Whats the meaning of life?" is not to be asked but answered by our lives.
