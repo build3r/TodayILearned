@@ -188,3 +188,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 234. Oct 18: Avoid frenemies, two-faced people. Also ask yourself when you have been two-faced, stop this as it is beneath you.
 235. Oct 19: Instead of forcing yourself to stop bad habits, replace them contrary virtue/habit.
 236. Oct 20: The question "Whats the meaning of life?" is not to be asked but answered by our lives.
+237. Oct 21: Instead of striving for future glory, try to be the best person in the present moment. 
+238. Oct 22: Do not confuse for *Being better at something* to *being a better person*. Excellence does not mean being a bad person.
+239. Oct 23: You can develop positive qualities which do not depend on genetics. Instead of cursing luck try to develop qualities which you can control.
+240. Oct 24: Goodness to be found within your own thoughts, and make it with your own actions.
+241. Oct 25: The 2 essential things in life are to be a good person, and have an occupation that you love. Ask yourself *What is the best use of my limited time on this Earth?, What only I can do?* and do the right thing when the situation calls for it.
