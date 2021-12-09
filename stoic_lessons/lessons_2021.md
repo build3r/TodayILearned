@@ -193,3 +193,10 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 239. Oct 23: You can develop positive qualities which do not depend on genetics. Instead of cursing luck try to develop qualities which you can control.
 240. Oct 24: Goodness to be found within your own thoughts, and make it with your own actions.
 241. Oct 25: The 2 essential things in life are to be a good person, and have an occupation that you love. Ask yourself *What is the best use of my limited time on this Earth?, What only I can do?* and do the right thing when the situation calls for it.
+242. Oct 26: Philosophy consist of 3 parts
+     1.   Moral:  Builds Soul
+     2.   Nature: examines the natural order of things
+     3.   Rational: Inquiry on meaning of words and their arrangement, and proofs to keep falsehoods from covering truth.
+243. Oct 27: "Crime often  return to their teachers". So consider what teach directly or indirectly, and be careful with whom you work with.
+244. Oct 28: Human are mutually dependent on each other. To pretend otherwise is to violate our nature.
+245. Oct 29: “Character is fate.” The position any one is at can be because of luck, parents etc. Judging only by position or past is not right. So judge people by character and give them change to come up. Also building you character can be the best lever to advance yourself in ling term.
