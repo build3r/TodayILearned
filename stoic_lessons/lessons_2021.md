@@ -200,3 +200,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 243. Oct 27: "Crime often  return to their teachers". So consider what teach directly or indirectly, and be careful with whom you work with.
 244. Oct 28: Human are mutually dependent on each other. To pretend otherwise is to violate our nature.
 245. Oct 29: “Character is fate.” The position any one is at can be because of luck, parents etc. Judging only by position or past is not right. So judge people by character and give them change to come up. Also building you character can be the best lever to advance yourself in ling term.
+246. Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
+247. Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
+248. Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
+249. Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
