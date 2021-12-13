@@ -204,3 +204,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 247. Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
 248. Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
 249. Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
+250. Nov 03: Think of the ill which happens to you as natures prescription to aid you in your destiny, similar to how doctor prescribes medicine to aid in healing.
+251. Nov 04: Change isn't good. Status quo isn't bad. They just are. Its only our opinion which labels something good or bad.
+252. Nov 05: You don't have to believe in God directing the universe, you just have to believe that you're are the director. As soon as you can understand that there is something(luck, fate etc) higher which is out of your control, the easier and happier your life will be because you have given up a potent addiction: **Control**.
+253. Nov 06: No amount of prosperity nor difficulty is certain forever. So don't fret about what is happening currently.
