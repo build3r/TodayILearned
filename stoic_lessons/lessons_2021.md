@@ -208,3 +208,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 251. Nov 04: Change isn't good. Status quo isn't bad. They just are. Its only our opinion which labels something good or bad.
 252. Nov 05: You don't have to believe in God directing the universe, you just have to believe that you're are the director. As soon as you can understand that there is something(luck, fate etc) higher which is out of your control, the easier and happier your life will be because you have given up a potent addiction: **Control**.
 253. Nov 06: No amount of prosperity nor difficulty is certain forever. So don't fret about what is happening currently.
+254. Nov 07: To be powerful focus inward on acquiring power rather than outwards. The most powerful is the one who as conquered the desire to conquer.
+255. Nov 08: No matter what we dealt with in our life our duty is to accept as best as we can it and rise above not complain about.
+256. Nov 09: “The universe is change. Life is opinion.” —MARCUS AURELIUS . Our understanding of what something is is just a snapshot - an ephemeral opinion. Things changes, people change.
+257. Nov 10: But in large expanse of universe most things remain the same, you're but a brief stopover until someone like you will come after.
