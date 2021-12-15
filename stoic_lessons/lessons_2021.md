@@ -212,3 +212,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 255. Nov 08: No matter what we dealt with in our life our duty is to accept as best as we can it and rise above not complain about.
 256. Nov 09: “The universe is change. Life is opinion.” —MARCUS AURELIUS . Our understanding of what something is is just a snapshot - an ephemeral opinion. Things changes, people change.
 257. Nov 10: But in large expanse of universe most things remain the same, you're but a brief stopover until someone like you will come after.
+258. Nov 11: Don't confuse acceptance with passivity. Let of the victims mentality and start from where ever you are.
+259. Nov 12: Learn that there is no one to pass on your responsibility, be strong end those problem by yourself.
+260. Nov 13: "Never complain, never explain". No matter how easy it is.
+261. Nov 14: An event in itself is objective. Accept it, as it it the first step towards self-improvement.
