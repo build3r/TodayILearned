@@ -65,6 +65,10 @@ https://12factor.net/
     - Set the appropriate variant
     - `./gradlew signingReport`
     - You can even click gradle -> Project -> app -> tasks -> android -> signingReport
+- To get an APKCertSha256Digest
+  - `keytool -printcert -jarfile ~/PATH_TO/YOURAPKFILE.apk | grep "SHA256: " | cut -d " " -f 3 | xxd -r -p | openssl base64`
+  - `echo "SHA256_TEXT_REPRESENTATION" | xxd -r -p | openssl base64`
+  - xxd does a hex dump of input, basically text to binary
 ---
 
 ## Stoicism
