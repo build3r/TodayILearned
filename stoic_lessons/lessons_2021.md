@@ -216,3 +216,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 259. Nov 12: Learn that there is no one to pass on your responsibility, be strong end those problem by yourself.
 260. Nov 13: "Never complain, never explain". No matter how easy it is.
 261. Nov 14: An event in itself is objective. Accept it, as it it the first step towards self-improvement.
+262. Nov 15: “No man steps in the same river twice.” The river constantly changes as does time, as the man himself. Embrace the change, flow with it.
+263. Nov 16: Hope and Fear are the same, both are projections into the future outcomes which we do not have control over.
+264. Nov 17: Philosophy should be focused inward. Its not to judge or correct other, leave then to their own journey and don't judge them as you have faults of your own.
+265. Nov 18: The 4 principles of Stoicism which you need to repeat when you go astray
+     1. Accept only what is true.
+     2. Work for the common good.
+     3. Match our needs and wants with what is in our control.
+     4. Embrace what nature has in store for us.”
