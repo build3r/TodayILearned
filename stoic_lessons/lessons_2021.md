@@ -224,3 +224,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      2. Work for the common good.
      3. Match our needs and wants with what is in our control.
      4. Embrace what nature has in store for us.”
+266. All events will make sense if you zoom and look from a larger perspective. Try to pretend that each event whether good or bad was willed to happen specifically for you. this help you in not fighting it.
+267. Things repeat, if something happens to you know that it has happened someone else before. And as they have survived you will too
+268. When you experience happiness or joy do not try to hold it on, it is not under your control. Enjoy it remember it.Once you have experienced it is same as experiencing it for eternity.
+269. Devastation is factor of how unlikely we considered that event in first place. It can't affect you if you had assumed the worse to begin with and where not attached. 
+270. The attachments are what make us hard to accept change. The only permanent thing is our capacity for reasoned choice.
