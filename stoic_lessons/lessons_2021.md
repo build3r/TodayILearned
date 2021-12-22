@@ -224,8 +224,15 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      2. Work for the common good.
      3. Match our needs and wants with what is in our control.
      4. Embrace what nature has in store for us.”
-266. All events will make sense if you zoom and look from a larger perspective. Try to pretend that each event whether good or bad was willed to happen specifically for you. this help you in not fighting it.
-267. Things repeat, if something happens to you know that it has happened someone else before. And as they have survived you will too
-268. When you experience happiness or joy do not try to hold it on, it is not under your control. Enjoy it remember it.Once you have experienced it is same as experiencing it for eternity.
-269. Devastation is factor of how unlikely we considered that event in first place. It can't affect you if you had assumed the worse to begin with and where not attached. 
-270. The attachments are what make us hard to accept change. The only permanent thing is our capacity for reasoned choice.
+266. Nov 19: All events will make sense if you zoom and look from a larger perspective. Try to pretend that each event whether good or bad was willed to happen specifically for you. this help you in not fighting it.
+267. Nov 20: Things repeat, if something happens to you know that it has happened someone else before. And as they have survived you will too
+268. Nov 21: When you experience happiness or joy do not try to hold it on, it is not under your control. Enjoy it remember it.Once you have experienced it is same as experiencing it for eternity.
+269. Nov 22: Devastation is factor of how unlikely we considered that event in first place. It can't affect you if you had assumed the worse to begin with and where not attached. 
+270. Nov 23: The attachments are what make us hard to accept change. The only permanent thing is our capacity for reasoned choice.
+271. Nov 24: Loss is one of the deepest fears. Ignorance or pretending won't make things better.
+272. Nov 25: Hardships teach you more than luxury which can make you arrogant.
+273. Nov 26: Comparing yourself to others make acceptance difficult. Do not concern about other, you have much to do.
+274. Nov 27: Always try keep your mind away from things which provoke it or makes it angry.
+275. Nov 28: If someone is slipping up, you can try to help them. If they can't then the blame is in your methods or on tings unknown not on them.
+276. Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
+277. Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
