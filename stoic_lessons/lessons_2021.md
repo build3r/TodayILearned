@@ -5,14 +5,17 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 58. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
 59. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
 60. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+----
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
 63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
 66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
+----
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+----
 69. May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 70. May 07: To have a good day, just do good things.
 71. May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
@@ -41,6 +44,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 92. May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
 93. May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
 94. May 31: Your job on the earth is to be a good person.
+----
 95. Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
 96. Jun 02: When you look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
 97. Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then try something else.
@@ -74,6 +78,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 122. Jun 28: Don't punish yourself, mistakes happen. Forgive yourself and continue
 123. Jun 29: Don't give excuses instead of striving to be better. 
 124. Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
+----
 125. Jul 01: Whatever happens do you job, which is to be good!, to be wise.
 126. Jul 02: Do your duty no matter what happens.
 127. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
@@ -107,6 +112,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 153. Jul 29: Philosophy is the cure for self. It not only cures the negative characteristics but allow the practitioners to flourish.
 154. Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
 155. Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
+----
 156. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
 157. Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
 158. Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
@@ -138,6 +144,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 184. Aug 29: The wealth of person is determined by the relation of his desires and expenditure to that of his income. If person can fulfill all his desires in less then the richer than person who can't even with more.
 185. Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
 186. Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
+----
 187. Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
 188. Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.
 189. Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
@@ -168,6 +175,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 214. Sep 28: You hold the trump card to decide what an external events means to you.
 215. Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
 216. Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
+----
 217. Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
 218. Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
 219. Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
@@ -202,6 +210,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 245. Oct 29: “Character is fate.” The position any one is at can be because of luck, parents etc. Judging only by position or past is not right. So judge people by character and give them change to come up. Also building you character can be the best lever to advance yourself in ling term.
 246. Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
 247. Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
+----
 248. Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
 249. Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
 250. Nov 03: Think of the ill which happens to you as natures prescription to aid you in your destiny, similar to how doctor prescribes medicine to aid in healing.
@@ -236,3 +245,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 275. Nov 28: If someone is slipping up, you can try to help them. If they can't then the blame is in your methods or on tings unknown not on them.
 276. Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
 277. Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
+---------------------------------------------------------------------------------------------------------
+278. Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
+279. Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
+280. Dec 03: Philosophy teaches you to live life not just theoretically but also practically. Like you how carpentry teaches how to work with wood.
+281. Dec 04: Things which can be taken from you due to fate, accident, bad luck, someone else are things which you don't own. The only thing you own is you life and choices that too for not long.
