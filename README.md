@@ -135,6 +135,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Kotlin Coroutines Exception Handling](./fundamentals/kotlin_coroutines.md)
 - [Kotlin, Coroutines and Flows](https://klassbook.commonsware.com/)
 - In Java and Kotlin the func invocation is **\*pass-by-value** for primitive types(Primitive object like Integer etc) (only java) if you modify the value of pass parameter it does not change but if it is an object the any modification done in function will reflected in the original object. [More Details](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
+- Kotlin joinToString `(1..100).joinToString(separator = "\n") { "$it. Point" }`
 
 ## Entrepreneurship
 - [Atomic Concepts of a Product](https://kwokchain.com/2021/02/05/atomic-concepts/)
