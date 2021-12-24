@@ -250,3 +250,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 279. Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
 280. Dec 03: Philosophy teaches you to live life not just theoretically but also practically. Like you how carpentry teaches how to work with wood.
 281. Dec 04: Things which can be taken from you due to fate, accident, bad luck, someone else are things which you don't own. The only thing you own is you life and choices that too for not long.
+282. Dec 05: Keep in mind your own mortality, with this you will think twice about giving into base thoughts or excessive desires.
+283. Dec 06: The threat of mortality hangs on everyone it can make us fear and dread it or we can use it to motivate us.
+284. Dec 07: You may not like to think about mortality because its depressing, but if you actually reflect upon it then it can invigorate you.
+285. Dec 08: When facing with grief distraction might be pleasant in short term. But processing and parsing the feeling will help you accept the fact that its all part of life.
+286. Dec 09: Time is the most important resource you have, you can neither get more or save some for later you can only judiciously use it.
