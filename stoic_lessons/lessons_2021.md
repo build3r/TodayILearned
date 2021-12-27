@@ -255,3 +255,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 284. Dec 07: You may not like to think about mortality because its depressing, but if you actually reflect upon it then it can invigorate you.
 285. Dec 08: When facing with grief distraction might be pleasant in short term. But processing and parsing the feeling will help you accept the fact that its all part of life.
 286. Dec 09: Time is the most important resource you have, you can neither get more or save some for later you can only judiciously use it.
+287. Dec 10: Don't let other waste you time, for which you can't make a full return.
+288. Dec 11: Cowardice is aimed at self-preservation but its hardly worth it because no one likes a coward. Be brave and dignified.
+289. Dec 12: In end we all die there no need to dwell upon neither there no point in ignoring it
+290. Dec 13: “Life is long if you know how to use it.”
+291. Dec 14: We are unfinished products until we die, accept this fact and learn to be better while still alive.
