@@ -46,7 +46,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 94. May 31: Your job on the earth is to be a good person.
 ----
 95. Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
-96. Jun 02: When you look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
+96. Jun 02: When u look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
 97. Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then try something else.
 98. Jun 04:  Life was never meant to be fair, so instead of complaining make the best of it.
 99. Jun 05: Succumbing to self-pity does nothing but sap more energy out of you. Do something about your problem.
@@ -260,3 +260,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 289. Dec 12: In end we all die there no need to dwell upon neither there no point in ignoring it
 290. Dec 13: “Life is long if you know how to use it.”
 291. Dec 14: We are unfinished products until we die, accept this fact and learn to be better while still alive.
+292. Dec 15: It might impossible to embody complete perfection in our ethos each and every day, but if you at least try to achieve it then its enough.
+293. Dec 16: Its dangerous to have faith in something which you don't control. REasoned choice is only one which is in your control.
+294. Dec 17: Some of the most powerful people have least self-awareness. Because hey keep themselves busy to avoid feeling the pain. So you don't wait, Know yourself before its too late.
+295. Dec 18: Death is the ultimate equalizer for everyone. Understand that and behave with humility.
+296. Dec 19: At the scale of universe you are minuscule. Just try to do your best and thats all you need to do.
+297. Dec 20: Most evil things, cowardice are committed not because of death but of fear of death. As frightening it may be, it contains within itself the end of fear.
