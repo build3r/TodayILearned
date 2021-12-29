@@ -266,3 +266,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 295. Dec 18: Death is the ultimate equalizer for everyone. Understand that and behave with humility.
 296. Dec 19: At the scale of universe you are minuscule. Just try to do your best and thats all you need to do.
 297. Dec 20: Most evil things, cowardice are committed not because of death but of fear of death. As frightening it may be, it contains within itself the end of fear.
+298. Dec 21: Ask yourself for the what things you do What do you really have to show for 28 years of your life? Have you lived fully?
+299. Dec 22: Its easier to quote other wise people. But you have your own experiences. stake your claim and describe them in your own words.
+300. Dec 23: Most of us are afraid of dying, but what are we exactly afraid of loosing? Entertainment, friends, job? Are they all worth it a life long fear.
+301. Dec 24: For all the things you are addicted to you are nothing but a conduit, a vessel that temporarily held or interacted with these experiences.
+302. Dec 25: Life is a long haul, don't burn yourself. Relax so that you can be better.
