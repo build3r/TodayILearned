@@ -72,6 +72,12 @@ https://12factor.net/
   - xxd does a hex dump of input, basically text to binary
 ---
 
+## Data Analysis
+1. Intro to [Pandas](https://frnsys.com/notes/ai/appendices/pandas.html)
+   1. If you make a column as index you can't access it with `[colum]` you will have to use df.index
+   2. GroupBy you can directly call `sum` 
+
+---
 ## Stoicism
 [Lessons From Stoics](./stoic_lessons/lessons_2021.md)
 
