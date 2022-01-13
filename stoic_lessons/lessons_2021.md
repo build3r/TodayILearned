@@ -4,12 +4,17 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      >“Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” Addicts cannot change the abuse suffered in childhood”
 2. Jan 02: Education is freedom. We learn or read to be freer, fearless and to achieve state of peace. Education has a purpose that is to set a person free.
 3. Jan 03: Learn how to say **No**, especially to time consuming emotion: anger, excitement, distraction, obsession, lust. The more say no to thing that don't matter, the more you can say to thing that do.
+4. Jan 04: 3 main things of Stoic Philosphy
+   1. Perception: control it, do not assume too much
+   2. Action: direct it towards common good
+   3. Will: to accept things which come you way which you cannot control
+5. Jan 05: Always have an end in mind. Wothout which you won't know is astray from the path or if you have acchieved what you set out for.
 
 
-4.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-5.  Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-6.  Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-7.  Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+6.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+7.  Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+8.  Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+9.  Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
