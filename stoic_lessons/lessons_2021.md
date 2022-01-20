@@ -22,12 +22,18 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 9. Jan 09: The things which you control (opinion, choicem desire, aversion) are by nature free and unobstucted. While the others are weal, can be hindered and not yours. You may not control the situation, but you can control what you think aboout it.
 10. Jan 10: To achieve steadiness, stability and traquilty you have to filter the outside world with the straightener of your judgement, you can't acieve them by running away from the world.
 11. Jan 11: Serenity and stability are results of your reasoned choice and judgement, not the environment. If you seek to avoid all diruptions to your tranquility then you will never be successful.
+12. Jan 12: The path to happness is giving up all the things outside of your control. Everyday remind yourself
+    1.  Morning: What is and out of your control
+    2.  Noon: The only thing you truly posses is ability to make choice.
+    3.  Afternoon: Aside from choices you make, fate is not entirely upto you.
+    4.  Evening: again how much you control and where your choices begin.
+    5.  Night: sleep is form of surrender.
 
 
-12. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-13. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-14. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-15. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+13. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+14. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+15. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+16. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
