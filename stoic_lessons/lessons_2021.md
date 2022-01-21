@@ -28,12 +28,13 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     3.  Afternoon: Aside from choices you make, fate is not entirely upto you.
     4.  Evening: again how much you control and where your choices begin.
     5.  Night: sleep is form of surrender.
+13. Jan 13: There is only 1 thing in your control "**Your Mind**". 
 
-
-13. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-14. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-15. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-16. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+---
+14. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+15. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+16. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+17. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
