@@ -29,6 +29,12 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     4.  Evening: again how much you control and where your choices begin.
     5.  Night: sleep is form of surrender.
 13. Jan 13: There is only 1 thing in your control "**Your Mind**". 
+14. Jan 14: The world creates vices for your attention and money like (food, socail media, porn etc). But instead of being a a puppet to these vices pay careful attention and strive not to be a pawn.
+     > “Man is pushed by drives but pulled by values.” - Viktor Frankl
+15. Jan 15: Tranquility and peace is found by identifying your own path and sticking to it and making small adjustments here and there, not by changing the path every 3 sec due to distracting information.
+16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do**
+
+
 
 ---
 14. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
