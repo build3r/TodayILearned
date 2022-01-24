@@ -4,32 +4,32 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      >“Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” Addicts cannot change the abuse suffered in childhood”
 2. Jan 02: Education is freedom. We learn or read to be freer, fearless and to achieve state of peace. Education has a purpose that is to set a person free.
 3. Jan 03: Learn how to say **No**, especially to time consuming emotion: anger, excitement, distraction, obsession, lust. The more say no to thing that don't matter, the more you can say to thing that do.
-4. Jan 04: 3 main things of Stoic Philosphy
+4. Jan 04: 3 main things of Stoic Philosophy
    1. Perception: control it, do not assume too much
    2. Action: direct it towards common good
    3. Will: to accept things which come you way which you cannot control
-5. Jan 05: Always have an end in mind. Wothout which you won't know is astray from the path or if you have acchieved what you set out for.
-6. Jan 06: "Who are you?" is very loaded question in non superficial sense. Take time to ask this to yourself and come up with a clear answer. Because a person who doesn't know it will not know theit purpose in life.
+5. Jan 05: Always have an end in mind. Without which you won't know is astray from the path or if you have achieved what you set out for.
+6. Jan 06: "Who are you?" is very loaded question in non superficial sense. Take time to ask this to yourself and come up with a clear answer. Because a person who doesn't know it will not know their purpose in life.
 7. Jan 07:  The mind has 7 clear functions
    1. Choice: to always to the right thing
-   2. Refusal: to refuse temptaions and basal desires.
+   2. Refusal: to refuse temptations and basal desires.
    3. Yearning: to be better 
    4. Repulsion: of bad habits, negativity, bad influences, lies etc
    5. Preparation: to tackle any obstacle that may arise
    6. Purpose: the guiding principle of life
    7. Assent: to understand and accept what is out of ones control.
-8. Jan 08: Small addcitions which we perceive as harmless can drive our lives ex coffee, checking mail etc. Addiction take away our freedom from abstaining them an cloud our clarity.
-9. Jan 09: The things which you control (opinion, choicem desire, aversion) are by nature free and unobstucted. While the others are weal, can be hindered and not yours. You may not control the situation, but you can control what you think aboout it.
-10. Jan 10: To achieve steadiness, stability and traquilty you have to filter the outside world with the straightener of your judgement, you can't acieve them by running away from the world.
-11. Jan 11: Serenity and stability are results of your reasoned choice and judgement, not the environment. If you seek to avoid all diruptions to your tranquility then you will never be successful.
-12. Jan 12: The path to happness is giving up all the things outside of your control. Everyday remind yourself
+8. Jan 08: Small addictions which we perceive as harmless can drive our lives ex coffee, checking mail etc. Addiction take away our freedom from abstaining them an cloud our clarity.
+9. Jan 09: The things which you control (opinion, choices desire, aversion) are by nature free and unobstructed. While the others are weal, can be hindered and not yours. You may not control the situation, but you can control what you think about it.
+10. Jan 10: To achieve steadiness, stability and tranquility you have to filter the outside world with the straightener of your judgement, you can't achieve them by running away from the world.
+11. Jan 11: Serenity and stability are results of your reasoned choice and judgement, not the environment. If you seek to avoid all disruptions to your tranquility then you will never be successful.
+12. Jan 12: The path to happiness is giving up all the things outside of your control. Everyday remind yourself
     1.  Morning: What is and out of your control
     2.  Noon: The only thing you truly posses is ability to make choice.
-    3.  Afternoon: Aside from choices you make, fate is not entirely upto you.
+    3.  Afternoon: Aside from choices you make, fate is not entirely up-to you.
     4.  Evening: again how much you control and where your choices begin.
     5.  Night: sleep is form of surrender.
 13. Jan 13: There is only 1 thing in your control "**Your Mind**". 
-14. Jan 14: The world creates vices for your attention and money like (food, socail media, porn etc). But instead of being a a puppet to these vices pay careful attention and strive not to be a pawn.
+14. Jan 14: The world creates vices for your attention and money like (food, social media, porn etc). But instead of being a a puppet to these vices pay careful attention and strive not to be a pawn.
      > “Man is pushed by drives but pulled by values.” - Viktor Frankl
 15. Jan 15: Tranquility and peace is found by identifying your own path and sticking to it and making small adjustments here and there, not by changing the path every 3 sec due to distracting information.
 16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do**
@@ -297,7 +297,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 347. Dec 13: “Life is long if you know how to use it.”
 348. Dec 14: We are unfinished products until we die, accept this fact and learn to be better while still alive.
 349. Dec 15: It might impossible to embody complete perfection in our ethos each and every day, but if you at least try to achieve it then its enough.
-350. Dec 16: Its dangerous to have faith in something which you don't control. REasoned choice is only one which is in your control.
+350. Dec 16: Its dangerous to have faith in something which you don't control. Reasoned choice is only one which is in your control.
 351. Dec 17: Some of the most powerful people have least self-awareness. Because hey keep themselves busy to avoid feeling the pain. So you don't wait, Know yourself before its too late.
 352. Dec 18: Death is the ultimate equalizer for everyone. Understand that and behave with humility.
 353. Dec 19: At the scale of universe you are minuscule. Just try to do your best and thats all you need to do.
@@ -311,5 +311,5 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 361. Dec 27: Don't let our soul surrender to life before your body does.
 362. Dec 28: “Everything lasts for a day, the one who remembers and the remembered." - Marcus. All things are eventually forgotten.
 363. Dec 29: Gratitude is infectious. Its positivity is radiant. With this you now what to live for.
-364. Dec 30: You can overcome any situtuation by keeping calm. By considering it and meditatinng on it in advance.
+364. Dec 30: You can overcome any situation by keeping calm. By considering it and meditating on it in advance.
 365. Dec 31: The purpose of all are learning and reading is to have a good life (and death). So at some point put books aside and take action. “words become works.” - Seneca
