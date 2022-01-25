@@ -32,7 +32,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 14. Jan 14: The world creates vices for your attention and money like (food, social media, porn etc). But instead of being a a puppet to these vices pay careful attention and strive not to be a pawn.
      > “Man is pushed by drives but pulled by values.” - Viktor Frankl
 15. Jan 15: Tranquility and peace is found by identifying your own path and sticking to it and making small adjustments here and there, not by changing the path every 3 sec due to distracting information.
-16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do**
+16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do?**
+17. Jan 17: You don't exert yourself because you will have a ready-made excuse "It doesn't matter, I wasn't even trying". This may not have serious consequences in your youth but as you ge older they affect the quality of your life and your ability to deal with world around. You have the best teacher from all over the world and time, Utilize them. You just have to start the work.
 
 
 
