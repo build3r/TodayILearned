@@ -33,7 +33,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
      > “Man is pushed by drives but pulled by values.” - Viktor Frankl
 15. Jan 15: Tranquility and peace is found by identifying your own path and sticking to it and making small adjustments here and there, not by changing the path every 3 sec due to distracting information.
 16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do?**
-17. Jan 17: You don't exert yourself because you will have a ready-made excuse "It doesn't matter, I wasn't even trying". This may not have serious consequences in your youth but as you ge older they affect the quality of your life and your ability to deal with world around. You have the best teacher from all over the world and time, Utilize them. You just have to start the work.
+17. Jan 17: You don't exert yourself because you will have a ready-made excuse "It doesn't matter, I wasn't even trying". This may not have serious consequences in your youth but as you get older they affect the quality of your life and your ability to deal with world around. You have the best teacher from all over the world and time, Utilize them. You just have to start the work.
+18. Jan 18: Look at the world like poet looks at it, find beauty even in mundane things. Beacuse it provides you clarity and joy instead if you see the world as a dark place.
 
 
 
