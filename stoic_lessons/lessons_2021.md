@@ -35,14 +35,25 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do?**
 17. Jan 17: You don't exert yourself because you will have a ready-made excuse "It doesn't matter, I wasn't even trying". This may not have serious consequences in your youth but as you get older they affect the quality of your life and your ability to deal with world around. You have the best teacher from all over the world and time, Utilize them. You just have to start the work.
 18. Jan 18: Look at the world like poet looks at it, find beauty even in mundane things. Beacuse it provides you clarity and joy instead if you see the world as a dark place.
-
+19. Jan 19: If you are having a hard time or an easy time the only thing in your control is your choice. So focus on what is your control.
+20. Jan 20: There may be times where you question your beliefs, thats natural. Wh at matters is you evaluate it and reignite and restart.
+21. Jan 21: Have a morning ritual and ask hard questions to yourself and write them doen for yourself not for anyone else. Ex: 
+    1.  What am I lacking in attaining freedom from passion?
+    2.  What for tranquility?
+    3.  What am I? A mere body, an engineer, or reputation? None of these things.
+    4.  What, then? A rational being.
+    5.  What then is demanded of me? Meditate on your actions.
+    6.  How did I steer away from serenity?
+    7.  What did I do that was unfriendly, unsocial, or uncaring?
+    8.  What did I fail to do in all these things?
+    
 
 
 ---
-14. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-15. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-16. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-17. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+1.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+2.  Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+3.  Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+4.  Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
