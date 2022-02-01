@@ -47,7 +47,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     7.  What did I do that was unfriendly, unsocial, or uncaring?
     8.  What did I fail to do in all these things?
 22. Jan 22: People do bad things because they don't reflect upon what they did and only care about what to do. But our future plans descend from the past. The stoic believed in journaling your thoughts and actions as way to refelect upon them. 
-    
+23. Jan 23: Money only marginally changes things, it doesn't solve all the problems which people with no money believe it solves. External things (money) can't fix internal issues.    
 
 
 ---
