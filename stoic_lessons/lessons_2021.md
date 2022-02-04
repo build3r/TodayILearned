@@ -50,6 +50,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 23. Jan 23: Money only marginally changes things, it doesn't solve all the problems which people with no money believe it solves. External things (money) can't fix internal issues.
 24. Jan 24: Just don't learn at surface level push for a deeper understanding.
 25. Jan 25: If you keep your desires for what you actually enjoy tehn you will be more free and happy than struggling to achieve things just show off.
+26. Jan 26: Have mantra in life which you can use in time you are going astray or taken up by your emotion. It could be like Macrus' “I have the power within me to keep that out. I can see the truth.”
+27. Jan 27: Train yourself in 3 distinct areas of your life
+    1.  Desires and Aversion: Don't just rely on the signal of your body, see what is good and avoid the bad.
+    2.  Impulse to act/Motivation: Ask yourself are you doing it for the right reason?
+    3.  Judgement: use your reason to see things clearly for what they are.
 
 ---
 1.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
