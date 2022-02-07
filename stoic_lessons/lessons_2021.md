@@ -55,6 +55,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Desires and Aversion: Don't just rely on the signal of your body, see what is good and avoid the bad.
     2.  Impulse to act/Motivation: Ask yourself are you doing it for the right reason?
     3.  Judgement: use your reason to see things clearly for what they are.
+28. Jan 28: Have wise men in your life to follow and see what they do and what they don't. Use their experience to guide your decisions.
+29. Jan 29: Just focus on the task in front of you, do it as if its the last thing you do.
 
 ---
 1.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
