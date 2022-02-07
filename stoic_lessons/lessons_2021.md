@@ -34,10 +34,10 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 15. Jan 15: Tranquility and peace is found by identifying your own path and sticking to it and making small adjustments here and there, not by changing the path every 3 sec due to distracting information.
 16. Jan 16: Some we get stuck in old ways and do thing based on rote memory. So ask yourself **"Is this really the best way to do?**
 17. Jan 17: You don't exert yourself because you will have a ready-made excuse "It doesn't matter, I wasn't even trying". This may not have serious consequences in your youth but as you get older they affect the quality of your life and your ability to deal with world around. You have the best teacher from all over the world and time, Utilize them. You just have to start the work.
-18. Jan 18: Look at the world like poet looks at it, find beauty even in mundane things. Beacuse it provides you clarity and joy instead if you see the world as a dark place.
+18. Jan 18: Look at the world like poet looks at it, find beauty even in mundane things. Because it provides you clarity and joy instead if you see the world as a dark place.
 19. Jan 19: If you are having a hard time or an easy time the only thing in your control is your choice. So focus on what is your control.
 20. Jan 20: There may be times where you question your beliefs, thats natural. Wh at matters is you evaluate it and reignite and restart.
-21. Jan 21: Have a morning ritual and ask hard questions to yourself and write them doen for yourself not for anyone else. Ex: 
+21. Jan 21: Have a morning ritual and ask hard questions to yourself and write them down for yourself not for anyone else. Ex: 
     1.  What am I lacking in attaining freedom from passion?
     2.  What for tranquility?
     3.  What am I? A mere body, an engineer, or reputation? None of these things.
@@ -46,11 +46,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     6.  How did I steer away from serenity?
     7.  What did I do that was unfriendly, unsocial, or uncaring?
     8.  What did I fail to do in all these things?
-22. Jan 22: People do bad things because they don't reflect upon what they did and only care about what to do. But our future plans descend from the past. The stoic believed in journaling your thoughts and actions as way to refelect upon them. 
+22. Jan 22: People do bad things because they don't reflect upon what they did and only care about what to do. But our future plans descend from the past. The stoic believed in journaling your thoughts and actions as way to reflect upon them. 
 23. Jan 23: Money only marginally changes things, it doesn't solve all the problems which people with no money believe it solves. External things (money) can't fix internal issues.
 24. Jan 24: Just don't learn at surface level push for a deeper understanding.
-25. Jan 25: If you keep your desires for what you actually enjoy tehn you will be more free and happy than struggling to achieve things just show off.
-26. Jan 26: Have mantra in life which you can use in time you are going astray or taken up by your emotion. It could be like Macrus' “I have the power within me to keep that out. I can see the truth.”
+25. Jan 25: If you keep your desires for what you actually enjoy then you will be more free and happy than struggling to achieve things just show off.
+26. Jan 26: Have mantra in life which you can use in time you are going astray or taken up by your emotion. It could be like Marcus' “I have the power within me to keep that out. I can see the truth.”
 27. Jan 27: Train yourself in 3 distinct areas of your life
     1.  Desires and Aversion: Don't just rely on the signal of your body, see what is good and avoid the bad.
     2.  Impulse to act/Motivation: Ask yourself are you doing it for the right reason?
