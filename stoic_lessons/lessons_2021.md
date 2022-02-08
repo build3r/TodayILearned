@@ -57,6 +57,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     3.  Judgement: use your reason to see things clearly for what they are.
 28. Jan 28: Have wise men in your life to follow and see what they do and what they don't. Use their experience to guide your decisions.
 29. Jan 29: Just focus on the task in front of you, do it as if its the last thing you do.
+30. Jan 30: Be content with not knowing things. You don't need to know everything just to seem smart, "I don't know" is accepatable.
+31. Jan 31: Use philosphy to recharge yourself to do the right things when you are going adrift.
 
 ---
 1.  Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
