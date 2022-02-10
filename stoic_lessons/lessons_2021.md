@@ -62,11 +62,12 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 
 ---
 32. Feb 01: Being angry is not manly, its the opposite. Anger is a mistake, a weakness. Anger stems from passion and if you control passion you control anger.
-    
-33. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-34. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-35. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-36. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+33. Feb 02: You don't let other people jerk you around, but easily let your impluses control you. You are not your empotions and you not let them decide how you act.
+34.     
+35. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+36. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+37. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+38. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
