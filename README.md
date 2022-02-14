@@ -40,6 +40,7 @@
 - [Creating vs Consuming](https://blog.tjcx.me/p/consume-less-create-more)
 - [Problems of defining yourself by your job](https://www.bbc.com/worklife/article/20210409-why-we-define-ourselves-by-our-jobs?utm_source=pocket-newtab-intl-en)
 - [Tips for being a great Programmer](https://dev.to/emmabostian/101-tips-for-being-a-great-programmer-human-36nl)
+- [Learn the intuition of learning before gaining new knowledge](https://betterexplained.com/articles/intuition-details-and-the-bowarrow-metaphor/)
   
 ---
 ## Twelve Factor App
