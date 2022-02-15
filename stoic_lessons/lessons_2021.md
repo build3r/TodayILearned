@@ -65,7 +65,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 33. Feb 02: You don't let other people jerk you around, but easily let your impluses control you. You are not your empotions and you not let them decide how you act.
 34. Feb 03: We get anxious about outcomes which are outside our control. Next time when you are anxious ask yourself, "If the anxious mind helping me?".
 35. Feb 04: Your reasoned choice is your invincibility. With it you can shrug of any hostile attack, pressure or problems.
-36. 
+36. Feb 05: Impulses are going to come, its your job to control them. This is teh central message of Stoic philosophy. 
 37. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
 38. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
 39. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
