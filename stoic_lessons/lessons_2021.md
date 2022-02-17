@@ -67,7 +67,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 35. Feb 04: Your reasoned choice is your invincibility. With it you can shrug of any hostile attack, pressure or problems.
 36. Feb 05: Impulses are going to come, its your job to control them. This is the central message of Stoic philosophy. 
 37. Feb 06: A wise person will endure strife but will never choose it. Sometime we are afraid to be still, so we seek out strife and action as a distraction. Choosing strife is inevitable but make sure that you are doing it for right reasons.
-38. 
+38. Feb 07: Fear is self fulfilling prophecy. If you self control, you may be the reason of the disaster you so much fear.
 39. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
 40. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
 41. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
