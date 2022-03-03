@@ -80,11 +80,13 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 48. Feb 17: Happiness and yearning are not compatible with each other. Next time when you are yearning for something ask yourself is it better than the happiness which you currently have.
 49. Feb 18: Our impressions are like storms, if we not predict them and prepare for them then we will swept by them.
 50. Feb 19: Consider life as banquet/party where food is passed around. Remember to have gratitude of being invited ans wait patiently for your turn. Don't rude snatching food from others plate.
-51. 
-52. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-53. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-54. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-55. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+51. Feb 20: See from history's example how a life dedicated to indulging in every whim actually works whether the whim is good or bad. Next time when you crave for something take a second and see what it is leading you to.
+52. Feb 21: "*It is the privilege of the gods to want nothing, and of godlike men to want little.*" - Diogenes. When it comes to your goals andg things you strive for ask if your in control or are they controlling you.
+53. 
+54. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+55. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+56. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+57. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
