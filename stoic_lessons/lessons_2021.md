@@ -86,11 +86,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 54. Feb 23: Circumstances and situation do not care about your feelings they are not sentient, they just happen. Getiing emotional (anger, anxiety etc) is not going to help.
 55. Feb 24: The no such thing as an objectively bad or good situation, it our perception and categorization which makes it so. It our reaction which gives it power to har us. So why not chose not to react?
 56. Feb 25: No matter what heights you achieve propelled by anger, obsession or hate. It will be akin to buiding a sand castle on a beach, sooner or later it will get washed away. So try to enjoy th ebrief time you have on Earth.
-57. 
-58. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
-59. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
-60. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
-61. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+57. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+    1.  It's easy to fight back and try to put down the person, but you will always regret the outcome.
+58. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+59. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+60. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
