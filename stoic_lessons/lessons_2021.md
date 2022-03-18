@@ -93,6 +93,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 59. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
     1.  Mistakes happens, it doesn't mean that all of you skills and virtues become undone, its just a momentary lapse. Collect you composure and come back to yourself.
 60. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+    1.  Ask yourslef  *"Do I need this thing? What will happen if I do not get it? Can I make do without it?"* this will help you in relaxing and cut out needless things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
