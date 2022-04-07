@@ -96,6 +96,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Ask yourslef  *"Do I need this thing? What will happen if I do not get it? Can I make do without it?"* this will help you in relaxing and cut out needless things.
 ---
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
+    1.  You start philosophy when you start analyzing you emotions and actions with your guiding reason.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
 63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
