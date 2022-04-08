@@ -98,6 +98,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
     1.  You start philosophy when you start analyzing you emotions and actions with your guiding reason.
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
+    1.  Do a self-evaluation, sometimes you overestimate your capabilities and sometimes you underestimate them. Cultivate a habit of judging yourself accurately and honestly.
 63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
