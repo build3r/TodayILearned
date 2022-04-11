@@ -100,6 +100,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
     1.  Do a self-evaluation, sometimes you overestimate your capabilities and sometimes you underestimate them. Cultivate a habit of judging yourself accurately and honestly.
 63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
+    1.  You can'rt sustain living two different lives, you have to commit to either concentrate on internal or go with external mob mentality otherwise you will dis-integrated by the forces.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
 66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
