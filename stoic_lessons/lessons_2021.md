@@ -102,6 +102,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
     1.  You can'rt sustain living two different lives, you have to commit to either concentrate on internal or go with external mob mentality otherwise you will dis-integrated by the forces.
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
+    1.  You self impose a lot of things which you consider you have to do, to just impress somone. A man cannot be free if he is slave to his desires.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
 66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
 ----
