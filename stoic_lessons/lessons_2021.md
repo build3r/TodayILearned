@@ -104,6 +104,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
     1.  You self impose a lot of things which you consider you have to do, to just impress somone. A man cannot be free if he is slave to his desires.
 65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
+    1.  Every thing as a cost to it even if it is free, we pay by storing it at our place or our minds.
+    Ex. You bought a costly phone thinking you can afford it, as teh phone is costly you always have to be protective of it which adds a mental strain compared to cheaper phone.
 66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
 ----
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
