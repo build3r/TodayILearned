@@ -107,6 +107,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Every thing as a cost to it even if it is free, we pay by storing it at our place or our minds.
     Ex. You bought a costly phone thinking you can afford it, as teh phone is costly you always have to be protective of it which adds a mental strain compared to cheaper phone.
 66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
+    1.  Don't tell stories about you past to others they are boring, annoying and self-absorbed. Intead live in what's real. Listen and connect with people, don't perform for them.
 ----
 67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
