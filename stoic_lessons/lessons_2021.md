@@ -110,10 +110,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Don't tell stories about you past to others they are boring, annoying and self-absorbed. Intead live in what's real. Listen and connect with people, don't perform for them.
 67. Mar 07: Don't you into self-decption, even your own senses can somemes lie to you. Think of it as this way as your senses are lying, your emotions are over dramatic and projection too optimistic its better to not rush into conclusions. Take time and analyze things.
 68. Mar 08: You would stuggle if someone forces on your physical self, but when social media, abnoxious people, television try to force your mind you willing let it happen. **Maintain control over your mind and preceptions, the mind is your most prized preception**.
-69. 
+69. Mar 09: Ask youself the friends with whom you spend your are they helping you be a better person or are they pulling you down to their level. You have to decide if you want to go down and mingle with them or rise above and be a better person. **Find your “scene”—a group of peers who push them to be better.**
+70. 
 ----
-67. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
-68. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 126. May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 127. May 07: To have a good day, just do good things.
