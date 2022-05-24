@@ -48,6 +48,7 @@ https://12factor.net/
 1. Code base: One app should have one repo, if multiple app are sharing code then it should be refactored into library. One repo will have multiple deployments (prod, staging, local, variants etc)
 2. Dependencies: All projects should have a explicit dependency declaration and isolation from system dependency. If the app relies of system dependencies then it should be statically linked.
 3. Configuration: Any value like endpoints, keys etc should be refactored into configs. Best is to add them to env variables. They should not be committed to version control. In android it might not work, as we have to bundle them in apk. But we can still maintain configs separately. 
+4. Resources: Both local and 3rd party services should be considered as attached resources. The ressource should be refered only by the url/locator service. There should be only config change and no code change to swap our resources.
 
 ---------------------------------------------------------------------------------------------------------
 
