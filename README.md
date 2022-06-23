@@ -49,6 +49,7 @@ https://12factor.net/
 2. Dependencies: All projects should have a explicit dependency declaration and isolation from system dependency. If the app relies of system dependencies then it should be statically linked.
 3. Configuration: Any value like endpoints, keys etc should be refactored into configs. Best is to add them to env variables. They should not be committed to version control. In android it might not work, as we have to bundle them in apk. But we can still maintain configs separately. 
 4. Resources: Both local and 3rd party services should be considered as attached resources. The ressource should be refered only by the url/locator service. There should be only config change and no code change to swap our resources.
+5. Build, Release, Run: The build state transforms code into runnable, the release stage adds config to the runnable, the run stage take the release and executes it in the execution environment. The whole pipe line in one way flow and any new changes will require a new release. The run stage should be light weight and should able to run without user intervention in case of restarts.
 
 ---------------------------------------------------------------------------------------------------------
 
