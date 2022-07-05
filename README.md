@@ -48,7 +48,7 @@ https://12factor.net/
 1. Code base: One app should have one repo, if multiple app are sharing code then it should be refactored into library. One repo will have multiple deployments (prod, staging, local, variants etc)
 2. Dependencies: All projects should have a explicit dependency declaration and isolation from system dependency. If the app relies of system dependencies then it should be statically linked.
 3. Configuration: Any value like endpoints, keys etc should be refactored into configs. Best is to add them to env variables. They should not be committed to version control. In android it might not work, as we have to bundle them in apk. But we can still maintain configs separately. 
-4. Resources: Both local and 3rd party services should be considered as attached resources. The ressource should be refered only by the url/locator service. There should be only config change and no code change to swap our resources.
+4. Resources: Both local and 3rd party services should be considered as attached resources. The resource should be referred only by the url/locator service. There should be only config change and no code change to swap our resources.
 5. Build, Release, Run: The build state transforms code into runnable, the release stage adds config to the runnable, the run stage take the release and executes it in the execution environment. The whole pipe line in one way flow and any new changes will require a new release. The run stage should be light weight and should able to run without user intervention in case of restarts.
 
 ---------------------------------------------------------------------------------------------------------
@@ -145,8 +145,8 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Kotlin Coroutines Exception Handling](./fundamentals/kotlin_coroutines.md)
 - [Various ways of Handling Exception In Coroutines](https://maxkim.eu/things-every-kotlin-developer-should-know-about-coroutines-part-4-exception-handling)
   - runCatching is Kotlin idiomatic way for try-catch
-  - Coroutine exception handler should be rarely used, won't work in schile scopes or inbuild scopes like lifeCycle pr viewModelScope.
-  - you can use hanler directly with supervisorJob.
+  - Coroutine exception handler should be rarely used, won't work in scopes or inbuilt scopes like lifeCycle pr viewModelScope.
+  - you can use handler directly with supervisorJob.
   - It better user supervisorJob most of the time as it doesn't cancel other children when one fails.
 - [Kotlin, Coroutines and Flows](https://klassbook.commonsware.com/)
 - In Java and Kotlin the func invocation is **\*pass-by-value** for primitive types(Primitive object like Integer etc) (only java) if you modify the value of pass parameter it does not change but if it is an object the any modification done in function will reflected in the original object. [More Details](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
