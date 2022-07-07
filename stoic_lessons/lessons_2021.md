@@ -113,7 +113,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 69. Mar 09: Ask yourself the friends with whom you spend your are they helping you be a better person or are they pulling you down to their level. You have to decide if you want to go down and mingle with them or rise above and be a better person. **Find your “scene”—a group of peers who push them to be better.**
 70. Mar 10: Have a noble *Indifferent Spectator* in life, one whom you can allow into your mind and use as a guide to your actions. Ex to look over you when you are doing something wrong or being lazy.
 71. Mar 11: Most successful people have to do things they don't want or like just to stay in their position. They do not have real freedom.
-72. *"Nobody does wrong willingly - Socrates*. All people think that they are doing the right thing, however convoluted the reason is. If think what be the reason for people doing the things they do, you would be more compassionate and understanding.
+72. Mar 12: *"Nobody does wrong willingly - Socrates*. All people think that they are doing the right thing, however convoluted the reason is. If think what be the reason for people doing the things they do, you would be more compassionate and understanding.
+73. Mar 13: We generally feel bad when something wrong happens to us or doesn't go according to our plan. Remember that sometimes you will have to go down to achieve global maxima.
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
