@@ -145,7 +145,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 - [Kotlin Coroutines Exception Handling](./fundamentals/kotlin_coroutines.md)
 - [Various ways of Handling Exception In Coroutines](https://maxkim.eu/things-every-kotlin-developer-should-know-about-coroutines-part-4-exception-handling)
   - runCatching is Kotlin idiomatic way for try-catch
-  - Coroutine exception handler should be rarely used, won't work in scopes or inbuilt scopes like lifeCycle pr viewModelScope.
+  - Coroutine exception handler should be rarely used, won't work in scopes or inbuilt scopes like lifeCycle or viewModelScope.
   - you can use handler directly with supervisorJob.
   - It better user supervisorJob most of the time as it doesn't cancel other children when one fails.
 - [Kotlin, Coroutines and Flows](https://klassbook.commonsware.com/)
