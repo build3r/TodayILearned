@@ -116,6 +116,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 72. Mar 12: *"Nobody does wrong willingly - Socrates*. All people think that they are doing the right thing, however convoluted the reason is. If think what be the reason for people doing the things they do, you would be more compassionate and understanding.
 73. Mar 13: We generally feel bad when something wrong happens to us or doesn't go according to our plan. Remember that sometimes you will have to go down to achieve global maxima.
 74. Mar 14: Ego is the enemy of growth, it falsely makes us believe that we already posses what we wish to have.
+75. Mar 15: All you have is the present, instead of mulling over the past could be or what you can do in future take full control on your present and enjoy it. Keep this up and you will the happiness will last a lifetime.
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
