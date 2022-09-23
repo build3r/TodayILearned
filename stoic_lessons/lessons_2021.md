@@ -118,6 +118,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 74. Mar 14: Ego is the enemy of growth, it falsely makes us believe that we already posses what we wish to have.
 75. Mar 15: All you have is the present, instead of mulling over the past could be or what you can do in future take full control on your present and enjoy it. Keep this up and you will the happiness will last a lifetime.
 76. Mar 16: You blessed with ability to think logically and to reason. This gives you unthinkable power to alter yours and others circumstances. So use it responsibly.
+77. Mar 17: You are not your job, your possessions, your beauty but a result of your choices. The better the choices you make the better the person you will be. Don't judge others by their appearance but rather for their effort in achieving it.
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
