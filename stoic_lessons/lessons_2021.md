@@ -123,7 +123,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 79. Mar 19: There is nothing good or bad about the events that happen to us, its in the expectation we set of them. We have reasoned choice in interpreting the events.
 80. Mar 20: We should not be crazy to go looking for difficulties, but should always be prepared to face them.
     > “Of course I deprecate war, but if it is brought to my door the bringer will find me at home.” - James Garfield
-81. 
+81. Mar 21: A vacation won't bring you peace. The peace you are looking for is inside yourself. You just have to close you eyes and let go of busy thoughts.
+82. Mar 22: Education is the start but is barely enough. To make good decision you need have awareness about your surroundings and reflect upon your thoughts.
     
 ----
 79. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
