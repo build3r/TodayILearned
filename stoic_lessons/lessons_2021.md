@@ -125,6 +125,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     > “Of course I deprecate war, but if it is brought to my door the bringer will find me at home.” - James Garfield
 81. Mar 21: A vacation won't bring you peace. The peace you are looking for is inside yourself. You just have to close you eyes and let go of busy thoughts.
 82. Mar 22: Education is the start but is barely enough. To make good decision you need have awareness about your surroundings and reflect upon your thoughts.
+83. Mar 23: Greed and Ambition can blind the most logical person. So always look at your actions and check if they are being made due to these vices.
+84. Mar 24: Philosophy is not just a study. You need to live it and only then you would realize if you have learnt anything.
     
 ----
 79. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
