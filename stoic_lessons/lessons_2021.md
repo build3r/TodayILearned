@@ -127,33 +127,38 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 82. Mar 22: Education is the start but is barely enough. To make good decision you need have awareness about your surroundings and reflect upon your thoughts.
 83. Mar 23: Greed and Ambition can blind the most logical person. So always look at your actions and check if they are being made due to these vices.
 84. Mar 24: Philosophy is not just a study. You need to live it and only then you would realize if you have learnt anything.
+85. Mar 25: You want be wealthy by having everything you want or by wanting everything you have. Same is with freedom you can focus on what you already have and can be content then you will find free then and there.
+86. Mar 26: Try to understand what rules your ruling reason. They can impacted by biology, psychology or even subconscious. Understand them so that your actions are not driven by them.
+    > "Quis custodiet ipsos custodes? (Who watches the watchmen?)” - Juvennal
+87. 
+88. 
     
 ----
-79. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
-80. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
-81.  May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
-82.  May 07: To have a good day, just do good things.
-83.  May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
-84.  May 09: You only get one chance at today, don't make your answer to what you did yesterday as "nothing".
-85.  May 10: For personal development flattery of ancestors achievement accomplishes nothing, so use them as example and achieve your own victories.
-86.  May 11: The greatest threat for peace of mind is doing wrong. Even if yo are not punished by the society , your consciousness won't forgive you.
-87.  May 12: The biggest rebuttal for hatred is kindness. Weak rely on hate, showing kind requires real strength.
-88.  May 13: You are the product of your thoughts. If you want to do something then build a habit of doing it. **If you don't want do something then make an habit of doing something else.**
-89.  May 14: If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
-90.  May 15: Instead of fixating on what you don't have be grateful for what you have. Think about how heartbreaking it will be if you loose what you already posses.
+1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
+2.   May 07: To have a good day, just do good things.
+3.   May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
+4.   May 09: You only get one chance at today, don't make your answer to what you did yesterday as "nothing".
+5.   May 10: For personal development flattery of ancestors achievement accomplishes nothing, so use them as example and achieve your own victories.
+6.   May 11: The greatest threat for peace of mind is doing wrong. Even if yo are not punished by the society , your consciousness won't forgive you.
+7.   May 12: The biggest rebuttal for hatred is kindness. Weak rely on hate, showing kind requires real strength.
+8.   May 13: You are the product of your thoughts. If you want to do something then build a habit of doing it. **If you don't want do something then make an habit of doing something else.**
+9.   May 14: If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
+10.  May 15: Instead of fixating on what you don't have be grateful for what you have. Think about how heartbreaking it will be if you loose what you already posses.
 91.  May 16: The key to having good habit or stopping a bad one is to start small build a streak and work on not breaking it.
 92.  May 17: Philosophy and its principles are not a goal instead a map for the way but you never reach arrive, you only strive to be better than yesterday.
 93.  May 18: You need to concentrate on what you are doing in the moment rather than being lost in in past or future. **How you go anything is how you do everything.**
 94.  May 19: Just learning is not enough, you have to deliberately practice.
 95.  May 20: When learning strive for quality over quantity.
-97.  May 21: Philosophy prepares us to take punches in a ring called life and continue as we have learned how to deal with them.
-98.  May 22: To be good there is no tomorrow, today is the day you strive.
-99.  May 23: You can long life but live too little. The way live long in a worthwhile manner if to focus on present.
-100. May 24: Luck is where hard work meets opportunity. So work hard to increase you luck.
-101. May 25: Humans like every other biological creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
-102. May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
-103. May 27: The little things we do compound over time.  So try to a little better than yesterday everyday.
+96.  May 21: Philosophy prepares us to take punches in a ring called life and continue as we have learned how to deal with them.
+97.  May 22: To be good there is no tomorrow, today is the day you strive.
+98.  May 23: You can long life but live too little. The way live long in a worthwhile manner if to focus on present.
+99.  May 24: Luck is where hard work meets opportunity. So work hard to increase you luck.
+100. May 25: Humans like every other biological creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
+101. May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
+102. May 27: The little things we do compound over time.  So try to a little better than yesterday everyday.
 104. May 28: While making decisions
     1.  Don't get upset
     2.  Do the right thing.
@@ -161,150 +166,150 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 106. May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
 107. May 31: Your job on the earth is to be a good person.
 ----
-108.  Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
-109. Jun 02: When u look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
-110. Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then try something else.
-111. Jun 04:  Life was never meant to be fair, so instead of complaining make the best of it.
-112. Jun 05: Succumbing to self-pity does nothing but sap more energy out of you. Do something about your problem.
-113. Jun 06: Just because you started one path doesn't mean that you need to stick to it forever. If it clear that it not working there is no harm in changing the path. But also being non-committal and indulging the change is also not good.
-114. Jun 07: You can choose role model and mentors across the history using books.
-115. Jun 08: You can plan for the big picture but you action should be focused on to do the smallest day to day things well.
-116. Jun 09: Solve problem early, before they become big.
-117. Jun 10: Follow the philosophy of **“If they can do it, why can’t I?”**.
-118. Jun 11: “if you find yourself in a hole, stop digging.” Don't try to make things worse.
-119. Jun 12: Don't just learn a specific things, but learn how to adapt. When life goes out of script being adaptable and flexible will be useful.
-120. Jun 13: Life is a battle. A fight for your goal, fight against impulses. a fight to be better.
-121. Jun 14: Every situation has more than one way to be approach. If one way is not working try the other way.
-122. Jun 15: Listen more than you speak
+1.    Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
+2.   Jun 02: When u look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
+3.   Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then try something else.
+4.   Jun 04:  Life was never meant to be fair, so instead of complaining make the best of it.
+5.   Jun 05: Succumbing to self-pity does nothing but sap more energy out of you. Do something about your problem.
+6.   Jun 06: Just because you started one path doesn't mean that you need to stick to it forever. If it clear that it not working there is no harm in changing the path. But also being non-committal and indulging the change is also not good.
+7.   Jun 07: You can choose role model and mentors across the history using books.
+8.   Jun 08: You can plan for the big picture but you action should be focused on to do the smallest day to day things well.
+9.   Jun 09: Solve problem early, before they become big.
+10.  Jun 10: Follow the philosophy of **“If they can do it, why can’t I?”**.
+11.  Jun 11: “if you find yourself in a hole, stop digging.” Don't try to make things worse.
+12.  Jun 12: Don't just learn a specific things, but learn how to adapt. When life goes out of script being adaptable and flexible will be useful.
+13.  Jun 13: Life is a battle. A fight for your goal, fight against impulses. a fight to be better.
+14.  Jun 14: Every situation has more than one way to be approach. If one way is not working try the other way.
+15.  Jun 15: Listen more than you speak
      1. Manage expectation as much as possible
      2. Consider the both the best and worst case scenario.
      3. Work with the reverse clause- not if something goes wrong, but be prepared for it.
-123. Jun 16: You can ask for help. You don't have to do everything by yourself.
-124. Jun 17: Running behind fortune will make you bitter. Shield yourself with philosophy, so when the unexpected happens you are prepared for it.
-125. Jun 18: Rather than trying to change the world as per your preference its much easier to change yourself.
-126. Jun 19: Sometimes focusing only on the big picture might give you anxiety about all things which can go wrong. Instead it will be beneficial to focus on present.
-127. Jun 20: "Calm is contagious". If everyone is paranoid, you being calm and helping will spread the calmness.
-128. Jun 21: Take a walk, it clears your mind.
-129. Jun 22: Doing the same thing even after failure and hoping to succeed is insanity. You should choose to learn from your mistake and tweak your action until you get the desired results.
-130. Jun 23: At very core everyone wants to be happy; money, status, power etc are our interpretation of happiness. If you let go it and focus on the real things you will achieve it quicker.
-131. Jun 24: An educated mind is never quarrelsome or let a quarrel erupt. Before going into an argument ask yourself "will it solve the solve the problem". Instead of trying to win all arguments listen to understand your opponent.
-132. Jun 25: Always talk less than necessary.
-133. Jun 26: If some of your habits and patterns keep failing, then try the opposite.
-134. Jun 27: The way you handle adversities says a lot about you. Learn to stand firm and face adversities head on.
-135. Jun 28: Don't punish yourself, mistakes happen. Forgive yourself and continue
-136. Jun 29: Don't give excuses instead of striving to be better. 
-137. Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
+16.  Jun 16: You can ask for help. You don't have to do everything by yourself.
+17.  Jun 17: Running behind fortune will make you bitter. Shield yourself with philosophy, so when the unexpected happens you are prepared for it.
+18.  Jun 18: Rather than trying to change the world as per your preference its much easier to change yourself.
+19.  Jun 19: Sometimes focusing only on the big picture might give you anxiety about all things which can go wrong. Instead it will be beneficial to focus on present.
+20.  Jun 20: "Calm is contagious". If everyone is paranoid, you being calm and helping will spread the calmness.
+21.  Jun 21: Take a walk, it clears your mind.
+22.  Jun 22: Doing the same thing even after failure and hoping to succeed is insanity. You should choose to learn from your mistake and tweak your action until you get the desired results.
+23.  Jun 23: At very core everyone wants to be happy; money, status, power etc are our interpretation of happiness. If you let go it and focus on the real things you will achieve it quicker.
+24.  Jun 24: An educated mind is never quarrelsome or let a quarrel erupt. Before going into an argument ask yourself "will it solve the solve the problem". Instead of trying to win all arguments listen to understand your opponent.
+25.  Jun 25: Always talk less than necessary.
+26.  Jun 26: If some of your habits and patterns keep failing, then try the opposite.
+27.  Jun 27: The way you handle adversities says a lot about you. Learn to stand firm and face adversities head on.
+28.  Jun 28: Don't punish yourself, mistakes happen. Forgive yourself and continue
+29.  Jun 29: Don't give excuses instead of striving to be better. 
+30.  Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
 ---
-138.   Jul 01: Whatever happens do you job, which is to be good!, to be wise.
-139. Jul 02: Do your duty no matter what happens.
-140. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
-141. Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
-142. Jul 05: If doing good was easy, then everyone would do it. So be better.
-143. Jul 06: You cannot be service to yourself or others if you are asleep, so rise and start working. The earlier the better.
-144. Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
-145. Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
-146. Jul 09: Philosophy helps at leadership position in making the right decision. Every leader should practice philosophy.
-147. Jul 10: Be humble with your art. Do thing which you truly enjoy.
-148. Jul 11: Think of yourself as a startup, you are born as an idea and you have work hard to develop it into something useful.
-149. Jul 12: Things which you have learnt here, apply them in practice.
-150. Jul 13: Being a good leader is that you must help others to be better, Its your duty.
-151. Jul 14: People who pick things up quickly skip the basic lessons and d not understand the fundamentals. So train with humility.
-152. Jul 15: When you do right thing, do not expect a reward or a favor. You did it because its right.
-153. Jul 16: Ask yourself "What are yo committed?" is it consistent with your values and things you care.
-154. Jul 17: When you are on the path to progress, there will be people who will have problem with it. Don't get angry with just assume that they are on a level which you were previously.
-155. Jul 18: Freedom can mean
+1.     Jul 01: Whatever happens do you job, which is to be good!, to be wise.
+2.   Jul 02: Do your duty no matter what happens.
+3.   Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
+4.   Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
+5.   Jul 05: If doing good was easy, then everyone would do it. So be better.
+6.   Jul 06: You cannot be service to yourself or others if you are asleep, so rise and start working. The earlier the better.
+7.   Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
+8.   Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
+9.   Jul 09: Philosophy helps at leadership position in making the right decision. Every leader should practice philosophy.
+10.  Jul 10: Be humble with your art. Do thing which you truly enjoy.
+11.  Jul 11: Think of yourself as a startup, you are born as an idea and you have work hard to develop it into something useful.
+12.  Jul 12: Things which you have learnt here, apply them in practice.
+13.  Jul 13: Being a good leader is that you must help others to be better, Its your duty.
+14.  Jul 14: People who pick things up quickly skip the basic lessons and d not understand the fundamentals. So train with humility.
+15.  Jul 15: When you do right thing, do not expect a reward or a favor. You did it because its right.
+16.  Jul 16: Ask yourself "What are yo committed?" is it consistent with your values and things you care.
+17.  Jul 17: When you are on the path to progress, there will be people who will have problem with it. Don't get angry with just assume that they are on a level which you were previously.
+18.  Jul 18: Freedom can mean
      1. Living your own life such a way that it doesn't negatively impose on others.
      2. Being open-minded and accepting to let others do that same no matter how differing they are from your point of view.
-156. Jul 19: Most people do bad things because they do not know better. So remember this and forgive them.
-157. Jul 20: Support your natural inclination to justice with strong boundaries and and commitment so that you don't go astray when no one is watching.
-158. Jul 21: You have a higher obligation to humanity to get up and do the work so that everyone can progress.
-159. Jul 22: If you are forced to do a thing then its not noble. All noble deeds are voluntary.
-160. Jul 23: Take both praise and sly comments with indifference and stick to your duty. Don't let them change your state of mind.
-161. Jul 24: When you hear about an horrible news, if you can do something about it do it. Just emoting or felling sorry and changing your state of mind will be deterrent. If you can't to any thing then stick to your duties.
-162. Jul 25: Being a workaholic you achieve some great things but the costs are rarely justified. You are a Human **Being** not a Human **Doing**.
-163. Jul 26: "All evil needs to prevail is for good men to do nothing”. Just not doing evil id not enough, you should strive for being a force good in the world.
-164. Jul 27: When you don't have something (material things) you crave for it, but when you achieve it you crave for more or are disappointed. This is deal with all material things. But on the other hand **Virtue** (moral standards: justice, honesty, discipline) is something which ones achieved is more than what you expected. And you can't have it piece wise, either you have it or not.
-165. Jul 28: When you are arguing with sometime you might feel the opposite person to be an Idiot. But don't judge him too quickly, he might not have the same privilege as you. So be patient with them.
-166. Jul 29: Philosophy is the cure for self. It not only cures the negative characteristics but allow the practitioners to flourish.
-167. Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
-168. Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
+19.  Jul 19: Most people do bad things because they do not know better. So remember this and forgive them.
+20.  Jul 20: Support your natural inclination to justice with strong boundaries and and commitment so that you don't go astray when no one is watching.
+21.  Jul 21: You have a higher obligation to humanity to get up and do the work so that everyone can progress.
+22.  Jul 22: If you are forced to do a thing then its not noble. All noble deeds are voluntary.
+23.  Jul 23: Take both praise and sly comments with indifference and stick to your duty. Don't let them change your state of mind.
+24.  Jul 24: When you hear about an horrible news, if you can do something about it do it. Just emoting or felling sorry and changing your state of mind will be deterrent. If you can't to any thing then stick to your duties.
+25.  Jul 25: Being a workaholic you achieve some great things but the costs are rarely justified. You are a Human **Being** not a Human **Doing**.
+26.  Jul 26: "All evil needs to prevail is for good men to do nothing”. Just not doing evil id not enough, you should strive for being a force good in the world.
+27.  Jul 27: When you don't have something (material things) you crave for it, but when you achieve it you crave for more or are disappointed. This is deal with all material things. But on the other hand **Virtue** (moral standards: justice, honesty, discipline) is something which ones achieved is more than what you expected. And you can't have it piece wise, either you have it or not.
+28.  Jul 28: When you are arguing with sometime you might feel the opposite person to be an Idiot. But don't judge him too quickly, he might not have the same privilege as you. So be patient with them.
+29.  Jul 29: Philosophy is the cure for self. It not only cures the negative characteristics but allow the practitioners to flourish.
+30.  Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
+31.  Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
 ----
-169. Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
-170. Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
-171. Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
-172. Aug 04: Stop blaming others, try to control your desire and avoid what you can't control with reasoned choice. Don get emotional, just focus.
-173. Aug 05: "The more you talk, the more likely you will say something stupid". Learn to stay silent and listen, son't talk to look smart. Silence builds strength and self-sufficiency.
-174. Aug 06: Defeatism won't take you anywhere. Try everything possible to achieve what you need.
-175. Aug 07: Principles and pragmatism (practical thing to achieve goals) are not at odds with each other. You can stick to your principle even in the most opposite environment.
-176. Aug 08: Don't be trapped by Idealism. Start from the world is. Don't wait for Ideal time.
-177. Aug 09: Don't fall into the human habit of inferring things from very little data. Learn to see things as they are without judgement.
-178. Aug 10: “Perfectionism rarely begets perfection—only disappointment”. Your pursuit should be towards progress, however little possible.
-179. Aug 11: Don't forget that although theories are clean and simple, real life situations rarely are.
-180. Aug 12: The words which you speak should be supported by your actions. It doesn't matter if the words are not your own.
-181. Aug 13: Let you reason rule your actions though tedious it will saves you quite a trouble.
-182. Aug 14: Philosophy isn't for fun or to impress someone, it is steer the course of your life in the sea of uncertainties.
-183. Aug 15: You become the sum of your actions, so choose wisely what you do and don't waiver from your virtues.
-184. Aug 16: Try to use the obstacles as raw materials for progress.
-185. Aug 17: Everything which happens to you is in your reasoned choice. Trying having a day where you don't blame anyone or anything.
-186. Aug 18: Don't try to beat you opponents or obstacles where the are strongest. With reasoned choice choose your battles where your winning chances are the highest.
-187. Aug 19: Ruthlessly cut down things which are not essential in life. ex taking a long time while shopping to save some money.
-188. Aug 20: HAve the inner change which philosophy brings, but it the outward appearance blend with society. For the fact rejection of basic society alienates people, it even threatens them.
-189. Aug 21: Feeling bad for something which happens in future is totally voluntary. Best case scenario time was wasted in needless fear, worst case scenario extra time was wasted being miserable.
-190. Aug 22: Don't spend more time on lesser things, if you do then you are stealing time from the important things as your time is finite.
-191. Aug 23: When you want to persuade someone don't moralize appeal to their self-interest. “Appeal to People’s Self-Interest Never to Their Mercy or Gratitude.”
-192. Aug 24: Take wisdom from where ever you can get, even from people who you don't agree with. What matter is if that wisdom can make you life better.
-193. Aug 25: Use the path created by people before you as your guide rather than the only path. If you find a better alternative use it. You don't have to to follow people who stopped learning some 2000 years ago.
-194. Aug 26: Stoics work with the reverse clause, that unfortunate events can turn out to be for the best.
-195. Aug 27: There more humour to be found in most situations than hate. By looking for it you reduce the heaviness of the events.
-196. Aug 28: We may need wealth, but we should not become slaves to it.
-197. Aug 29: The wealth of person is determined by the relation of his desires and expenditure to that of his income. If person can fulfill all his desires in less then the richer than person who can't even with more.
-198. Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
-199. Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
+1.   Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
+2.   Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
+3.   Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
+4.   Aug 04: Stop blaming others, try to control your desire and avoid what you can't control with reasoned choice. Don get emotional, just focus.
+5.   Aug 05: "The more you talk, the more likely you will say something stupid". Learn to stay silent and listen, son't talk to look smart. Silence builds strength and self-sufficiency.
+6.   Aug 06: Defeatism won't take you anywhere. Try everything possible to achieve what you need.
+7.   Aug 07: Principles and pragmatism (practical thing to achieve goals) are not at odds with each other. You can stick to your principle even in the most opposite environment.
+8.   Aug 08: Don't be trapped by Idealism. Start from the world is. Don't wait for Ideal time.
+9.   Aug 09: Don't fall into the human habit of inferring things from very little data. Learn to see things as they are without judgement.
+10.  Aug 10: “Perfectionism rarely begets perfection—only disappointment”. Your pursuit should be towards progress, however little possible.
+11.  Aug 11: Don't forget that although theories are clean and simple, real life situations rarely are.
+12.  Aug 12: The words which you speak should be supported by your actions. It doesn't matter if the words are not your own.
+13.  Aug 13: Let you reason rule your actions though tedious it will saves you quite a trouble.
+14.  Aug 14: Philosophy isn't for fun or to impress someone, it is steer the course of your life in the sea of uncertainties.
+15.  Aug 15: You become the sum of your actions, so choose wisely what you do and don't waiver from your virtues.
+16.  Aug 16: Try to use the obstacles as raw materials for progress.
+17.  Aug 17: Everything which happens to you is in your reasoned choice. Trying having a day where you don't blame anyone or anything.
+18.  Aug 18: Don't try to beat you opponents or obstacles where the are strongest. With reasoned choice choose your battles where your winning chances are the highest.
+19.  Aug 19: Ruthlessly cut down things which are not essential in life. ex taking a long time while shopping to save some money.
+20.  Aug 20: HAve the inner change which philosophy brings, but it the outward appearance blend with society. For the fact rejection of basic society alienates people, it even threatens them.
+21.  Aug 21: Feeling bad for something which happens in future is totally voluntary. Best case scenario time was wasted in needless fear, worst case scenario extra time was wasted being miserable.
+22.  Aug 22: Don't spend more time on lesser things, if you do then you are stealing time from the important things as your time is finite.
+23.  Aug 23: When you want to persuade someone don't moralize appeal to their self-interest. “Appeal to People’s Self-Interest Never to Their Mercy or Gratitude.”
+24.  Aug 24: Take wisdom from where ever you can get, even from people who you don't agree with. What matter is if that wisdom can make you life better.
+25.  Aug 25: Use the path created by people before you as your guide rather than the only path. If you find a better alternative use it. You don't have to to follow people who stopped learning some 2000 years ago.
+26.  Aug 26: Stoics work with the reverse clause, that unfortunate events can turn out to be for the best.
+27.  Aug 27: There more humour to be found in most situations than hate. By looking for it you reduce the heaviness of the events.
+28.  Aug 28: We may need wealth, but we should not become slaves to it.
+29.  Aug 29: The wealth of person is determined by the relation of his desires and expenditure to that of his income. If person can fulfill all his desires in less then the richer than person who can't even with more.
+30.  Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
+31.  Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
 ----
-201.   Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
-202. Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.
-203. Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
-204. Sep 04: Consider adversities as experience which will form you character. "What doesn't kill me makes me stronger" - Nietzsche
-205. Sep 05: Focus on what you can control, Quench your desires of what could be and work what can be done by you.
-206. Sep 06: Others can physically restrain you, but will never have the power to change who you are. That is solely with you in any condition
-207. Sep 07: You have the hidden power to always have choice, however minuscule it may be.
-208. Sep 08: You should philosophy to prepare any adversities which may arise and to tackle them with patience and determination.
-209. Sep 09: You have to fear, **fear** itself. Most of the times the damage of what we were fearing will pale in comparison when we are trying to circumvent the fear.
-210. Sep 10: Practice once a week on leaving with bare minimum, and ask yourself is it really that bad.
-211. Sep 11: In time of abundance prepare yourself to live with less, so that you won't have hard time when things change. 
-212. Sep 12: Overconfidence is a great weakness and a liability. So stay humble.
-213. Sep 13: Your soul(character) is protected by a fortress, it can only be breached if betrayed from the inside.
-214. Sep 14: Try praying(Asking) differently, instead of asking for something to happen, ask for strength to endure it.
-215. Sep 15: When you are learning philosophy keep to yourself initially until you have enough experience following it.
-216. Sep 16: Anyone can be lucky but they are not admired, but people who achieve it with hard work are worth the admiration.
-217. Sep 17: Don't hate the haters, if you can influence them to change their view do it. If not accept for who they are.
-218. Sep 18: No Pain is unbearable or unending if you have strong will. Go through it graciously and come out stronger.
-219. Sep 19: Your will should be adaptable to changing circumstances and new information. Flexibility in itself is a great strength.
-220. Sep 20: Life is more like wrestling than a dance, you will have to fight external opponents as well as internal one like limitations, emotions.
-221. Sep 21: Your plan may thwarted by unseen events minor or major, that ok, it reality. You have to learn to get back to rhythm. 
-222. Sep 22: Great people do not shy away from challenges, they seek them. For the challenges are not the obstacles but the path.
-223. Sep 23: You have train yourself by repeating the habits which you want so that you will be able to use them unconsciously.
-224. Sep 24: When you see a extreme misfortune happen to someone remember it can happen to you too. So always remember this and be prepared.
-225. Sep 25: Everyone is slave to something. Try to recognize this and make yourself invulnerable to dependencies on convenience or someday they will bring you to your knees.
-226. Sep 26: Take off from work, but never from learning. Take vacation like a poet actively looking at the world and understanding the universe around you. Answer your calling when you are responsibilities are taken care of.
-227. Sep 27: "Power does not corrupt, it reveals." Always hope for one thing, then let it be to strengthen your character so that you don't falter in good or bad fortune.
-228. Sep 28: You hold the trump card to decide what an external events means to you.
-229. Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
-230. Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
+1.     Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
+2.   Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.
+3.   Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
+4.   Sep 04: Consider adversities as experience which will form you character. "What doesn't kill me makes me stronger" - Nietzsche
+5.   Sep 05: Focus on what you can control, Quench your desires of what could be and work what can be done by you.
+6.   Sep 06: Others can physically restrain you, but will never have the power to change who you are. That is solely with you in any condition
+7.   Sep 07: You have the hidden power to always have choice, however minuscule it may be.
+8.   Sep 08: You should philosophy to prepare any adversities which may arise and to tackle them with patience and determination.
+9.   Sep 09: You have to fear, **fear** itself. Most of the times the damage of what we were fearing will pale in comparison when we are trying to circumvent the fear.
+10.  Sep 10: Practice once a week on leaving with bare minimum, and ask yourself is it really that bad.
+11.  Sep 11: In time of abundance prepare yourself to live with less, so that you won't have hard time when things change. 
+12.  Sep 12: Overconfidence is a great weakness and a liability. So stay humble.
+13.  Sep 13: Your soul(character) is protected by a fortress, it can only be breached if betrayed from the inside.
+14.  Sep 14: Try praying(Asking) differently, instead of asking for something to happen, ask for strength to endure it.
+15.  Sep 15: When you are learning philosophy keep to yourself initially until you have enough experience following it.
+16.  Sep 16: Anyone can be lucky but they are not admired, but people who achieve it with hard work are worth the admiration.
+17.  Sep 17: Don't hate the haters, if you can influence them to change their view do it. If not accept for who they are.
+18.  Sep 18: No Pain is unbearable or unending if you have strong will. Go through it graciously and come out stronger.
+19.  Sep 19: Your will should be adaptable to changing circumstances and new information. Flexibility in itself is a great strength.
+20.  Sep 20: Life is more like wrestling than a dance, you will have to fight external opponents as well as internal one like limitations, emotions.
+21.  Sep 21: Your plan may thwarted by unseen events minor or major, that ok, it reality. You have to learn to get back to rhythm. 
+22.  Sep 22: Great people do not shy away from challenges, they seek them. For the challenges are not the obstacles but the path.
+23.  Sep 23: You have train yourself by repeating the habits which you want so that you will be able to use them unconsciously.
+24.  Sep 24: When you see a extreme misfortune happen to someone remember it can happen to you too. So always remember this and be prepared.
+25.  Sep 25: Everyone is slave to something. Try to recognize this and make yourself invulnerable to dependencies on convenience or someday they will bring you to your knees.
+26.  Sep 26: Take off from work, but never from learning. Take vacation like a poet actively looking at the world and understanding the universe around you. Answer your calling when you are responsibilities are taken care of.
+27.  Sep 27: "Power does not corrupt, it reveals." Always hope for one thing, then let it be to strengthen your character so that you don't falter in good or bad fortune.
+28.  Sep 28: You hold the trump card to decide what an external events means to you.
+29.  Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
+30.  Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
 ----
-232.   Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
-233. Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
-234. Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
-235. Oct 04: “That which doesn’t harm the community can’t harm the individual.” Marcus Aurelius. The deeds which are good for the whole will eventually be good for individuals.
-236. Oct 05: "What is said cannot be taken back", so always show caution when you speak. Not speaking is better than speaking ill.
-237. Oct 06: Practice the virtue of celebrating others success. We are not always in zero-sum game.
-238. Oct 07: When you achieve something by ill means ask yourself *How Do I feel?*. Practice self-awareness as it rarely goes together with wrongdoing.
-239. Oct 08: Pleasures are powerful but fleeting. What lasts long is wisdom, good character, kindness and sobriety.
-240. Oct 09: Set a standard for yourself and evaluate your actions against it. Do not compromise.
-241. Oct 10: Your virtues should consist of "Reverence": to appreciate what you have  and "Justice": to stand up for what is right.
-242. Oct 11: Build your character in such way that you do not need to use empty expressions like "I'll be hones...", "No disrespect but ..."
-243. Oct 12: The love you get is equal to the love you give. There is almost no situation in which hatred helps, but with love (empathy, understanding, appreciation) it can be made better.
-244. Oct 13: The best revenge is the one which is not exacted. If you return ill favor given to you then you prove that the other person was right.
+1.     Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
+2.   Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
+3.   Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
+4.   Oct 04: “That which doesn’t harm the community can’t harm the individual.” Marcus Aurelius. The deeds which are good for the whole will eventually be good for individuals.
+5.   Oct 05: "What is said cannot be taken back", so always show caution when you speak. Not speaking is better than speaking ill.
+6.   Oct 06: Practice the virtue of celebrating others success. We are not always in zero-sum game.
+7.   Oct 07: When you achieve something by ill means ask yourself *How Do I feel?*. Practice self-awareness as it rarely goes together with wrongdoing.
+8.   Oct 08: Pleasures are powerful but fleeting. What lasts long is wisdom, good character, kindness and sobriety.
+9.   Oct 09: Set a standard for yourself and evaluate your actions against it. Do not compromise.
+10.  Oct 10: Your virtues should consist of "Reverence": to appreciate what you have  and "Justice": to stand up for what is right.
+11.  Oct 11: Build your character in such way that you do not need to use empty expressions like "I'll be hones...", "No disrespect but ..."
+12.  Oct 12: The love you get is equal to the love you give. There is almost no situation in which hatred helps, but with love (empathy, understanding, appreciation) it can be made better.
+13.  Oct 13: The best revenge is the one which is not exacted. If you return ill favor given to you then you prove that the other person was right.
 245. Oct 14: We rather be bitter, pissed off or rage inside than have an awkward conversation which can help the person resolve the issue which is irritating us.
 246. Oct 15: A virtuous person doesn't jump to hasty conclusions, give others the benefit of doubt and be generous with your assumptions.
 247. Oct 16: Teach your close ones the virtues you have learned from philosophy not with lecture but with behavior.
@@ -327,17 +332,17 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 261. Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
 262. Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
 ----
-264.   Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
-265. Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
-266. Nov 03: Think of the ill which happens to you as natures prescription to aid you in your destiny, similar to how doctor prescribes medicine to aid in healing.
-267. Nov 04: Change isn't good. Status quo isn't bad. They just are. Its only our opinion which labels something good or bad.
-268. Nov 05: You don't have to believe in God directing the universe, you just have to believe that you're are the director. As soon as you can understand that there is something(luck, fate etc) higher which is out of your control, the easier and happier your life will be because you have given up a potent addiction: **Control**.
-269. Nov 06: No amount of prosperity nor difficulty is certain forever. So don't fret about what is happening currently.
-270. Nov 07: To be powerful focus inward on acquiring power rather than outwards. The most powerful is the one who as conquered the desire to conquer.
-271. Nov 08: No matter what we dealt with in our life our duty is to accept as best as we can it and rise above not complain about.
-272. Nov 09: “The universe is change. Life is opinion.” —MARCUS AURELIUS . Our understanding of what something is is just a snapshot - an ephemeral opinion. Things changes, people change.
-273. Nov 10: But in large expanse of universe most things remain the same, you're but a brief stopover until someone like you will come after.
-274. Nov 11: Don't confuse acceptance with passivity. Let of the victims mentality and start from where ever you are.
+1.     Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
+2.   Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
+3.   Nov 03: Think of the ill which happens to you as natures prescription to aid you in your destiny, similar to how doctor prescribes medicine to aid in healing.
+4.   Nov 04: Change isn't good. Status quo isn't bad. They just are. Its only our opinion which labels something good or bad.
+5.   Nov 05: You don't have to believe in God directing the universe, you just have to believe that you're are the director. As soon as you can understand that there is something(luck, fate etc) higher which is out of your control, the easier and happier your life will be because you have given up a potent addiction: **Control**.
+6.   Nov 06: No amount of prosperity nor difficulty is certain forever. So don't fret about what is happening currently.
+7.   Nov 07: To be powerful focus inward on acquiring power rather than outwards. The most powerful is the one who as conquered the desire to conquer.
+8.   Nov 08: No matter what we dealt with in our life our duty is to accept as best as we can it and rise above not complain about.
+9.   Nov 09: “The universe is change. Life is opinion.” —MARCUS AURELIUS . Our understanding of what something is is just a snapshot - an ephemeral opinion. Things changes, people change.
+10.  Nov 10: But in large expanse of universe most things remain the same, you're but a brief stopover until someone like you will come after.
+11.  Nov 11: Don't confuse acceptance with passivity. Let of the victims mentality and start from where ever you are.
 275. Nov 12: Learn that there is no one to pass on your responsibility, be strong end those problem by yourself.
 276. Nov 13: "Never complain, never explain". No matter how easy it is.
 277. Nov 14: An event in itself is objective. Accept it, as it it the first step towards self-improvement.
@@ -362,34 +367,34 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 292. Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
 293. Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
 ----
-295.   Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
-296. Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
-297. Dec 03: Philosophy teaches you to live life not just theoretically but also practically. Like you how carpentry teaches how to work with wood.
-298. Dec 04: Things which can be taken from you due to fate, accident, bad luck, someone else are things which you don't own. The only thing you own is you life and choices that too for not long.
-299. Dec 05: Keep in mind your own mortality, with this you will think twice about giving into base thoughts or excessive desires.
-300. Dec 06: The threat of mortality hangs on everyone it can make us fear and dread it or we can use it to motivate us.
-301. Dec 07: You may not like to think about mortality because its depressing, but if you actually reflect upon it then it can invigorate you.
-302. Dec 08: When facing with grief distraction might be pleasant in short term. But processing and parsing the feeling will help you accept the fact that its all part of life.
-303. Dec 09: Time is the most important resource you have, you can neither get more or save some for later you can only judiciously use it.
-304. Dec 10: Don't let other waste you time, for which you can't make a full return.
-305. Dec 11: Cowardice is aimed at self-preservation but its hardly worth it because no one likes a coward. Be brave and dignified.
-306. Dec 12: In end we all die there no need to dwell upon neither there no point in ignoring it
-307. Dec 13: “Life is long if you know how to use it.”
-308. Dec 14: We are unfinished products until we die, accept this fact and learn to be better while still alive.
-309. Dec 15: It might impossible to embody complete perfection in our ethos each and every day, but if you at least try to achieve it then its enough.
-310. Dec 16: Its dangerous to have faith in something which you don't control. Reasoned choice is only one which is in your control.
-311. Dec 17: Some of the most powerful people have least self-awareness. Because hey keep themselves busy to avoid feeling the pain. So you don't wait, Know yourself before its too late.
-312. Dec 18: Death is the ultimate equalizer for everyone. Understand that and behave with humility.
-313. Dec 19: At the scale of universe you are minuscule. Just try to do your best and thats all you need to do.
-314. Dec 20: Most evil things, cowardice are committed not because of death but of fear of death. As frightening it may be, it contains within itself the end of fear.
-315. Dec 21: Ask yourself for the what things you do What do you really have to show for 28 years of your life? Have you lived fully?
-316. Dec 22: Its easier to quote other wise people. But you have your own experiences. stake your claim and describe them in your own words.
-317. Dec 23: Most of us are afraid of dying, but what are we exactly afraid of loosing? Entertainment, friends, job? Are they all worth it a life long fear.
-318. Dec 24: For all the things you are addicted to you are nothing but a conduit, a vessel that temporarily held or interacted with these experiences.
-319. Dec 25: Life is a long haul, don't burn yourself. Relax so that you can be better.
-320. Dec 26: “We don’t receive a short life, we make it so.” - Seneca. Life is long enough, use it well.
-321. Dec 27: Don't let our soul surrender to life before your body does.
-322. Dec 28: “Everything lasts for a day, the one who remembers and the remembered." - Marcus. All things are eventually forgotten.
-323. Dec 29: Gratitude is infectious. Its positivity is radiant. With this you now what to live for.
-324. Dec 30: You can overcome any situation by keeping calm. By considering it and meditating on it in advance.
-325. Dec 31: The purpose of all are learning and reading is to have a good life (and death). So at some point put books aside and take action. “words become works.” - Seneca
+1.     Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
+2.   Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
+3.   Dec 03: Philosophy teaches you to live life not just theoretically but also practically. Like you how carpentry teaches how to work with wood.
+4.   Dec 04: Things which can be taken from you due to fate, accident, bad luck, someone else are things which you don't own. The only thing you own is you life and choices that too for not long.
+5.   Dec 05: Keep in mind your own mortality, with this you will think twice about giving into base thoughts or excessive desires.
+6.   Dec 06: The threat of mortality hangs on everyone it can make us fear and dread it or we can use it to motivate us.
+7.   Dec 07: You may not like to think about mortality because its depressing, but if you actually reflect upon it then it can invigorate you.
+8.   Dec 08: When facing with grief distraction might be pleasant in short term. But processing and parsing the feeling will help you accept the fact that its all part of life.
+9.   Dec 09: Time is the most important resource you have, you can neither get more or save some for later you can only judiciously use it.
+10.  Dec 10: Don't let other waste you time, for which you can't make a full return.
+11.  Dec 11: Cowardice is aimed at self-preservation but its hardly worth it because no one likes a coward. Be brave and dignified.
+12.  Dec 12: In end we all die there no need to dwell upon neither there no point in ignoring it
+13.  Dec 13: “Life is long if you know how to use it.”
+14.  Dec 14: We are unfinished products until we die, accept this fact and learn to be better while still alive.
+15.  Dec 15: It might impossible to embody complete perfection in our ethos each and every day, but if you at least try to achieve it then its enough.
+16.  Dec 16: Its dangerous to have faith in something which you don't control. Reasoned choice is only one which is in your control.
+17.  Dec 17: Some of the most powerful people have least self-awareness. Because hey keep themselves busy to avoid feeling the pain. So you don't wait, Know yourself before its too late.
+18.  Dec 18: Death is the ultimate equalizer for everyone. Understand that and behave with humility.
+19.  Dec 19: At the scale of universe you are minuscule. Just try to do your best and thats all you need to do.
+20.  Dec 20: Most evil things, cowardice are committed not because of death but of fear of death. As frightening it may be, it contains within itself the end of fear.
+21.  Dec 21: Ask yourself for the what things you do What do you really have to show for 28 years of your life? Have you lived fully?
+22.  Dec 22: Its easier to quote other wise people. But you have your own experiences. stake your claim and describe them in your own words.
+23.  Dec 23: Most of us are afraid of dying, but what are we exactly afraid of loosing? Entertainment, friends, job? Are they all worth it a life long fear.
+24.  Dec 24: For all the things you are addicted to you are nothing but a conduit, a vessel that temporarily held or interacted with these experiences.
+25.  Dec 25: Life is a long haul, don't burn yourself. Relax so that you can be better.
+26.  Dec 26: “We don’t receive a short life, we make it so.” - Seneca. Life is long enough, use it well.
+27.  Dec 27: Don't let our soul surrender to life before your body does.
+28.  Dec 28: “Everything lasts for a day, the one who remembers and the remembered." - Marcus. All things are eventually forgotten.
+29.  Dec 29: Gratitude is infectious. Its positivity is radiant. With this you now what to live for.
+30.  Dec 30: You can overcome any situation by keeping calm. By considering it and meditating on it in advance.
+31.  Dec 31: The purpose of all are learning and reading is to have a good life (and death). So at some point put books aside and take action. “words become works.” - Seneca
