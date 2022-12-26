@@ -128,10 +128,11 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 83. Mar 23: Greed and Ambition can blind the most logical person. So always look at your actions and check if they are being made due to these vices.
 84. Mar 24: Philosophy is not just a study. You need to live it and only then you would realize if you have learnt anything.
 85. Mar 25: You want be wealthy by having everything you want or by wanting everything you have. Same is with freedom you can focus on what you already have and can be content then you will find free then and there.
-86. Mar 26: Try to understand what rules your ruling reason. They can impacted by biology, psychology or even subconscious. Understand them so that your actions are not driven by them.
+86. Mar 26: Try to understand what rules your ruling reason. They can be impacted by biology, psychology or even subconscious. Understand them so that your actions are not driven by them.
     > "Quis custodiet ipsos custodes? (Who watches the watchmen?)” - Juvennal
-87. 
-88. 
+87. Mar 27: People value things based on emotions. The market might be rational... but the people who comprise it are not. The good things in life cost what they cost. The unnecessary things are not worth any price. The key is to know the difference. 
+88. Mar 28: Plans are not perfect, but people without plans are much more likely to get overwhelmed and fall apart. Don't try to make important things up on the fly. Have a plan.
+89. 
     
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
