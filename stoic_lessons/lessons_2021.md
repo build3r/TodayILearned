@@ -132,8 +132,10 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     > "Quis custodiet ipsos custodes? (Who watches the watchmen?)” - Juvennal
 87. Mar 27: People value things based on emotions. The market might be rational... but the people who comprise it are not. The good things in life cost what they cost. The unnecessary things are not worth any price. The key is to know the difference. 
 88. Mar 28: Plans are not perfect, but people without plans are much more likely to get overwhelmed and fall apart. Don't try to make important things up on the fly. Have a plan.
-89. 
-    
+89. Mar 29: Trying to impress others is foolish things. Know that the people you are trying to impress are also flawed, better be yourself and let your philosopher inside dictate your action. 
+    >“We buy things we don’t need, to impress people we don’t like." - Fight Club
+90. Mar 30: Always check on what impulses you are acting on. If it is not conscious or deliberate then analyze it and fit it.
+91. 
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
@@ -148,24 +150,24 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 8.   May 13: You are the product of your thoughts. If you want to do something then build a habit of doing it. **If you don't want do something then make an habit of doing something else.**
 9.   May 14: If you depend on external approval or achievement for happiness then you will be disappointed and never be truly happy. Instead the ambition should not be to win, but play with our full effort.
 10.  May 15: Instead of fixating on what you don't have be grateful for what you have. Think about how heartbreaking it will be if you loose what you already posses.
-91.  May 16: The key to having good habit or stopping a bad one is to start small build a streak and work on not breaking it.
-92.  May 17: Philosophy and its principles are not a goal instead a map for the way but you never reach arrive, you only strive to be better than yesterday.
-93.  May 18: You need to concentrate on what you are doing in the moment rather than being lost in in past or future. **How you go anything is how you do everything.**
-94.  May 19: Just learning is not enough, you have to deliberately practice.
-95.  May 20: When learning strive for quality over quantity.
-96.  May 21: Philosophy prepares us to take punches in a ring called life and continue as we have learned how to deal with them.
-97.  May 22: To be good there is no tomorrow, today is the day you strive.
-98.  May 23: You can long life but live too little. The way live long in a worthwhile manner if to focus on present.
-99.  May 24: Luck is where hard work meets opportunity. So work hard to increase you luck.
-100. May 25: Humans like every other biological creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
-101. May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
-102. May 27: The little things we do compound over time.  So try to a little better than yesterday everyday.
-104. May 28: While making decisions
+11.  May 16: The key to having good habit or stopping a bad one is to start small build a streak and work on not breaking it.
+12.  May 17: Philosophy and its principles are not a goal instead a map for the way but you never reach arrive, you only strive to be better than yesterday.
+13.  May 18: You need to concentrate on what you are doing in the moment rather than being lost in in past or future. **How you go anything is how you do everything.**
+14.  May 19: Just learning is not enough, you have to deliberately practice.
+15.  May 20: When learning strive for quality over quantity.
+16.  May 21: Philosophy prepares us to take punches in a ring called life and continue as we have learned how to deal with them.
+17.  May 22: To be good there is no tomorrow, today is the day you strive.
+18.  May 23: You can long life but live too little. The way live long in a worthwhile manner if to focus on present.
+19.  May 24: Luck is where hard work meets opportunity. So work hard to increase you luck.
+20.  May 25: Humans like every other biological creature evolved to find joy in certain way. For humans its proper human work like acts of kindness etc.
+21.  May 26: We don't control the opinions of others especially regarding us, so putting ourselves at mercy of those opinions is very dangerous. So stop caring what other people think of you.
+22.  May 27: The little things we do compound over time.  So try to a little better than yesterday everyday.
+23.  May 28: While making decisions
     1.  Don't get upset
     2.  Do the right thing.
-105. May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
-106. May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
-107. May 31: Your job on the earth is to be a good person.
+24.  May 29: Our bodies and minds are meant to do meaningful work without which we don't feel a sense of purpose.
+25.  May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
+26.  May 31: Your job on the earth is to be a good person.
 ----
 1.    Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
 2.   Jun 02: When u look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
@@ -311,27 +313,27 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 11.  Oct 11: Build your character in such way that you do not need to use empty expressions like "I'll be hones...", "No disrespect but ..."
 12.  Oct 12: The love you get is equal to the love you give. There is almost no situation in which hatred helps, but with love (empathy, understanding, appreciation) it can be made better.
 13.  Oct 13: The best revenge is the one which is not exacted. If you return ill favor given to you then you prove that the other person was right.
-245. Oct 14: We rather be bitter, pissed off or rage inside than have an awkward conversation which can help the person resolve the issue which is irritating us.
-246. Oct 15: A virtuous person doesn't jump to hasty conclusions, give others the benefit of doubt and be generous with your assumptions.
-247. Oct 16: Teach your close ones the virtues you have learned from philosophy not with lecture but with behavior.
-248. Oct 17: Show kindness to the first person you meet and keep continuing for next person.
-249. Oct 18: Avoid frenemies, two-faced people. Also ask yourself when you have been two-faced, stop this as it is beneath you.
-250. Oct 19: Instead of forcing yourself to stop bad habits, replace them contrary virtue/habit.
-251. Oct 20: The question "Whats the meaning of life?" is not to be asked but answered by our lives.
-252. Oct 21: Instead of striving for future glory, try to be the best person in the present moment. 
-253. Oct 22: Do not confuse for *Being better at something* to *being a better person*. Excellence does not mean being a bad person.
-254. Oct 23: You can develop positive qualities which do not depend on genetics. Instead of cursing luck try to develop qualities which you can control.
-255. Oct 24: Goodness to be found within your own thoughts, and make it with your own actions.
-256. Oct 25: The 2 essential things in life are to be a good person, and have an occupation that you love. Ask yourself *What is the best use of my limited time on this Earth?, What only I can do?* and do the right thing when the situation calls for it.
-257. Oct 26: Philosophy consist of 3 parts
+14.  Oct 14: We rather be bitter, pissed off or rage inside than have an awkward conversation which can help the person resolve the issue which is irritating us.
+15.  Oct 15: A virtuous person doesn't jump to hasty conclusions, give others the benefit of doubt and be generous with your assumptions.
+16.  Oct 16: Teach your close ones the virtues you have learned from philosophy not with lecture but with behavior.
+17.  Oct 17: Show kindness to the first person you meet and keep continuing for next person.
+18.  Oct 18: Avoid frenemies, two-faced people. Also ask yourself when you have been two-faced, stop this as it is beneath you.
+19.  Oct 19: Instead of forcing yourself to stop bad habits, replace them contrary virtue/habit.
+20.  Oct 20: The question "Whats the meaning of life?" is not to be asked but answered by our lives.
+21.  Oct 21: Instead of striving for future glory, try to be the best person in the present moment. 
+22.  Oct 22: Do not confuse for *Being better at something* to *being a better person*. Excellence does not mean being a bad person.
+23.  Oct 23: You can develop positive qualities which do not depend on genetics. Instead of cursing luck try to develop qualities which you can control.
+24.  Oct 24: Goodness to be found within your own thoughts, and make it with your own actions.
+25.  Oct 25: The 2 essential things in life are to be a good person, and have an occupation that you love. Ask yourself *What is the best use of my limited time on this Earth?, What only I can do?* and do the right thing when the situation calls for it.
+26.  Oct 26: Philosophy consist of 3 parts
      1.   Moral:  Builds Soul
      2.   Nature: examines the natural order of things
      3.   Rational: Inquiry on meaning of words and their arrangement, and proofs to keep falsehoods from covering truth.
-258. Oct 27: "Crime often  return to their teachers". So consider what teach directly or indirectly, and be careful with whom you work with.
-259. Oct 28: Human are mutually dependent on each other. To pretend otherwise is to violate our nature.
-260. Oct 29: “Character is fate.” The position any one is at can be because of luck, parents etc. Judging only by position or past is not right. So judge people by character and give them change to come up. Also building you character can be the best lever to advance yourself in ling term.
-261. Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
-262. Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
+27.  Oct 27: "Crime often  return to their teachers". So consider what teach directly or indirectly, and be careful with whom you work with.
+28.  Oct 28: Human are mutually dependent on each other. To pretend otherwise is to violate our nature.
+29.  Oct 29: “Character is fate.” The position any one is at can be because of luck, parents etc. Judging only by position or past is not right. So judge people by character and give them change to come up. Also building you character can be the best lever to advance yourself in ling term.
+30.  Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
+31.  Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
 ----
 1.     Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
 2.   Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
@@ -344,29 +346,29 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 9.   Nov 09: “The universe is change. Life is opinion.” —MARCUS AURELIUS . Our understanding of what something is is just a snapshot - an ephemeral opinion. Things changes, people change.
 10.  Nov 10: But in large expanse of universe most things remain the same, you're but a brief stopover until someone like you will come after.
 11.  Nov 11: Don't confuse acceptance with passivity. Let of the victims mentality and start from where ever you are.
-275. Nov 12: Learn that there is no one to pass on your responsibility, be strong end those problem by yourself.
-276. Nov 13: "Never complain, never explain". No matter how easy it is.
-277. Nov 14: An event in itself is objective. Accept it, as it it the first step towards self-improvement.
-278. Nov 15: “No man steps in the same river twice.” The river constantly changes as does time, as the man himself. Embrace the change, flow with it.
-279. Nov 16: Hope and Fear are the same, both are projections into the future outcomes which we do not have control over.
-280. Nov 17: Philosophy should be focused inward. Its not to judge or correct other, leave then to their own journey and don't judge them as you have faults of your own.
-281. Nov 18: The 4 principles of Stoicism which you need to repeat when you go astray
+12.  Nov 12: Learn that there is no one to pass on your responsibility, be strong end those problem by yourself.
+13.  Nov 13: "Never complain, never explain". No matter how easy it is.
+14.  Nov 14: An event in itself is objective. Accept it, as it it the first step towards self-improvement.
+15.  Nov 15: “No man steps in the same river twice.” The river constantly changes as does time, as the man himself. Embrace the change, flow with it.
+16.  Nov 16: Hope and Fear are the same, both are projections into the future outcomes which we do not have control over.
+17.  Nov 17: Philosophy should be focused inward. Its not to judge or correct other, leave then to their own journey and don't judge them as you have faults of your own.
+18.  Nov 18: The 4 principles of Stoicism which you need to repeat when you go astray
      1. Accept only what is true.
      2. Work for the common good.
      3. Match our needs and wants with what is in our control.
      4. Embrace what nature has in store for us.”
-282. Nov 19: All events will make sense if you zoom and look from a larger perspective. Try to pretend that each event whether good or bad was willed to happen specifically for you. this help you in not fighting it.
-283. Nov 20: Things repeat, if something happens to you know that it has happened someone else before. And as they have survived you will too
-284. Nov 21: When you experience happiness or joy do not try to hold it on, it is not under your control. Enjoy it remember it.Once you have experienced it is same as experiencing it for eternity.
-285. Nov 22: Devastation is factor of how unlikely we considered that event in first place. It can't affect you if you had assumed the worse to begin with and where not attached. 
-286. Nov 23: The attachments are what make us hard to accept change. The only permanent thing is our capacity for reasoned choice.
-287. Nov 24: Loss is one of the deepest fears. Ignorance or pretending won't make things better.
-288. Nov 25: Hardships teach you more than luxury which can make you arrogant.
-289. Nov 26: Comparing yourself to others make acceptance difficult. Do not concern about other, you have much to do.
-290. Nov 27: Always try keep your mind away from things which provoke it or makes it angry.
-291. Nov 28: If someone is slipping up, you can try to help them. If they can't then the blame is in your methods or on tings unknown not on them.
-292. Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
-293. Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
+19.  Nov 19: All events will make sense if you zoom and look from a larger perspective. Try to pretend that each event whether good or bad was willed to happen specifically for you. this help you in not fighting it.
+20.  Nov 20: Things repeat, if something happens to you know that it has happened someone else before. And as they have survived you will too
+21.  Nov 21: When you experience happiness or joy do not try to hold it on, it is not under your control. Enjoy it remember it.Once you have experienced it is same as experiencing it for eternity.
+22.  Nov 22: Devastation is factor of how unlikely we considered that event in first place. It can't affect you if you had assumed the worse to begin with and where not attached. 
+23.  Nov 23: The attachments are what make us hard to accept change. The only permanent thing is our capacity for reasoned choice.
+24.  Nov 24: Loss is one of the deepest fears. Ignorance or pretending won't make things better.
+25.  Nov 25: Hardships teach you more than luxury which can make you arrogant.
+26.  Nov 26: Comparing yourself to others make acceptance difficult. Do not concern about other, you have much to do.
+27.  Nov 27: Always try keep your mind away from things which provoke it or makes it angry.
+28.  Nov 28: If someone is slipping up, you can try to help them. If they can't then the blame is in your methods or on tings unknown not on them.
+29.  Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
+30.  Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
 ----
 1.     Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
 2.   Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
