@@ -135,7 +135,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 89. Mar 29: Trying to impress others is foolish things. Know that the people you are trying to impress are also flawed, better be yourself and let your philosopher inside dictate your action. 
     >“We buy things we don’t need, to impress people we don’t like." - Fight Club
 90. Mar 30: Always check on what impulses you are acting on. If it is not conscious or deliberate then analyze it and fit it.
-91. 
+91. Mar 31: A mind that is not in control will be jerked around by external impulses. So train yourself now to create a habit to replace ignorance with discipline.
 ----
 1.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
 2.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
