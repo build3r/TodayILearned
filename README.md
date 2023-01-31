@@ -131,6 +131,7 @@ This will return every element of `a_list`  that is greater than 0, after passin
 ## MacOS
 - Command-Option-C will copy the file path
 - Holding control during screenshot will copy directly to clipboard
+- Apple Books Directory `/Users/<Name>/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents`
 
 
 ## Fundamentals Revisit
