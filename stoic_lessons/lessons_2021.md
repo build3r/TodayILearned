@@ -137,9 +137,10 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 90. Mar 30: Always check on what impulses you are acting on. If it is not conscious or deliberate then analyze it and fit it.
 91. Mar 31: A mind that is not in control will be jerked around by external impulses. So train yourself now to create a habit to replace ignorance with discipline.
 ----
-1.  Apr 01:  Your mind takes the shape of what you hold in it, if you hold negative thoughts you will see everything as negative. If you close it up you will have a closed mind.
-2.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
-3.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+1.  Apr 01: Your mind takes the shape of what you hold in it, if you hold negative thoughts you will see everything as negative. If you close it up you will have a closed mind.
+2.  Apr 02: You will be exposed to unwanted influences but it doesn't mean that you have to entertain them. So put your guard up and don't let other people's drama distract you from your goals.
+3.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+4.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
