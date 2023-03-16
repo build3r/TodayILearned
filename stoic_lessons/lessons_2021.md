@@ -142,8 +142,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 3.  Apr 03: Some time our plans work against each other when we don't have clarity. Instead of straddling on two competing things ask yourself "What do I really want?, What am I actually after here?". Once you notice that you find any contradictory things and change them.
 4.  Apr 04: Don't let success you to your head. REason should lead the way for the change not good fortune. 
 5.  Apr 05: Trust but verify - Humans are a pattern recognition machines, this can be helpful in making split second decision. But when we apply this to a complex world it lead to stereotyping, confirm our prejudice and make bad decisions. So instead of getting carried away by your assumptions pause for a while and verify your assumptions.
-6.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
-7.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+6.  Apr 06: You may the best version of yourself but you will end up interacting with someone who is selfish and ignorant. The point is to understand that it can happen and know that they physical can't make you selfish and ignorant. Also the point is not to write them off as they may be family but is to forgive them.
+7.  Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+8.  Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
