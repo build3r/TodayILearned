@@ -146,7 +146,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 7.  Apr 07: You have **let go** of arrogance (makes you think you are always right) and mistrust (make you believe there can't be happiness in a torrent of circumstances). Our preconceptions and biases are a liability. Always respect what you don't know and compare it against the knowledge you do have. Wisdom comes form question and humility.
 8.  Apr 08: When you get life-changing thoughts or assumption test and validate them as you would test high value bank note. Just because a lot of people believe it something doesn't make it true.
 9.  Apr 09: All heuristics, senses and biases which you have are developed via the slow process of evolution. The may not work well in complex civilization which you currently live in. Always be wary of you biases, question them, verify them. **Trust, but always verify**. 
-10. Apr 10: The events themselves do not disturb you, rather  your judgement about them.
+10. Apr 10: The events themselves do not disturb you, rather  your judgement about them.  
+    1.  Differentiate between what you observe (what it is) and what you perceive (what you supposedly thinks its means). 
 11. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
