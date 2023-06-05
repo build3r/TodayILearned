@@ -148,8 +148,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 9.  Apr 09: All heuristics, senses and biases which you have are developed via the slow process of evolution. The may not work well in complex civilization which you currently live in. Always be wary of you biases, question them, verify them. **Trust, but always verify**. 
 10. Apr 10: The events themselves do not disturb you, rather  your judgement about them.  
     1.  Differentiate between what you observe (what it is) and what you perceive (what you supposedly thinks its means). 
-11. Apr 11: If you truly want learn anything you have to let go of the opinion that you already know it. Be humble you can learn a lot when you know that you don't know.
-12. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+11. Apr 11: If you truly want to learn anything you have to let go of the opinion that you already know it. Be humble you can learn a lot when you know that you don't know.
+12. Apr 12: Don't be tempted by fortune's gifts, sometime what is new an d shiny can lead us into serious trouble.
+13. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
