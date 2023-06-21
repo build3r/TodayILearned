@@ -150,7 +150,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  Differentiate between what you observe (what it is) and what you perceive (what you supposedly thinks its means). 
 11. Apr 11: If you truly want to learn anything you have to let go of the opinion that you already know it. Be humble you can learn a lot when you know that you don't know.
 12. Apr 12: Don't be tempted by fortune's gifts, sometime what is new an d shiny can lead us into serious trouble.
-13. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+13. Apr 13: Less is more - don't be self-idulgent or full of yourself when talking. Talk to the point and don't be a person of too many words or deeds.
+14. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
