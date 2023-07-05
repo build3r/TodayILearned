@@ -151,7 +151,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 11. Apr 11: If you truly want to learn anything you have to let go of the opinion that you already know it. Be humble you can learn a lot when you know that you don't know.
 12. Apr 12: Don't be tempted by fortune's gifts, sometime what is new an d shiny can lead us into serious trouble.
 13. Apr 13: Less is more - don't be self-idulgent or full of yourself when talking. Talk to the point and don't be a person of too many words or deeds.
-14. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+14. Apr 14: You can get very good at your work or your hobbies. But you need to get good in understanding your inner self. 
+15. Apr 15: Everything in life has tax attached to it. Waiting around is a tax on traveling, stress and problems are a tax on success. So do not try to run way from taxes.
+16. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
