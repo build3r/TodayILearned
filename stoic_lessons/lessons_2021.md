@@ -153,7 +153,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 13. Apr 13: Less is more - don't be self-idulgent or full of yourself when talking. Talk to the point and don't be a person of too many words or deeds.
 14. Apr 14: You can get very good at your work or your hobbies. But you need to get good in understanding your inner self. 
 15. Apr 15: Everything in life has tax attached to it. Waiting around is a tax on traveling, stress and problems are a tax on success. So do not try to run way from taxes.
-16. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+16. Apr 16: Observe you own thoughts and see what actions they lead to. Cognitive Behavioral Therapy (CBT) helps patients identify destructive patterns in their thoughts and behaviors so they can, over time, direct and influence them in a positive direction,
+17. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
