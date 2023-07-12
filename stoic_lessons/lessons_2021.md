@@ -155,6 +155,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 15. Apr 15: Everything in life has tax attached to it. Waiting around is a tax on traveling, stress and problems are a tax on success. So do not try to run way from taxes.
 16. Apr 16: Observe you own thoughts and see what actions they lead to. Cognitive Behavioral Therapy (CBT) helps patients identify destructive patterns in their thoughts and behaviors so they can, over time, direct and influence them in a positive direction,
 17. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
+    1.  You harm yourself based on how you perceive something. The interpretation of word and sentence can have drastic different outcomes. So control with what biases and preconceived notion you are judging these words or the intentions.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
@@ -228,7 +229,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 7.   Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
 8.   Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
 9.   Jul 09: Philosophy helps at leadership position in making the right decision. Every leader should practice philosophy.
-10.  Jul 10: Be humble with your art. Do thing which you truly enjoy.
+10.  Jul 10: Be humble with your art. Do things which you truly enjoy.
 11.  Jul 11: Think of yourself as a startup, you are born as an idea and you have work hard to develop it into something useful.
 12.  Jul 12: Things which you have learnt here, apply them in practice.
 13.  Jul 13: Being a good leader is that you must help others to be better, Its your duty.
