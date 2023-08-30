@@ -157,6 +157,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 17. Apr 17: The way interpret words have impact on you, so always control your biases and lenses with which you look at them.
     1.  You harm yourself based on how you perceive something. The interpretation of word and sentence can have drastic different outcomes. So control with what biases and preconceived notion you are judging these words or the intentions.
 18. Apr 18: We constantly look at the world around us and put our opinion on of it. Most of the times our opinions are based on dogma, expectation and biases. So let the things just be good or bad without coloring them with your opinion.
+19. Apr 19: Whether you are in position of power or powerlessness, always leave room for what may happen and keep the common good and actual worth in front of everything. Also never hesitate to learn from anyone and everyone irrespective of their station in life.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
