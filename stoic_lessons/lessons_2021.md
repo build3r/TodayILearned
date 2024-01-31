@@ -158,7 +158,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
     1.  You harm yourself based on how you perceive something. The interpretation of word and sentence can have drastic different outcomes. So control with what biases and preconceived notion you are judging these words or the intentions.
 18. Apr 18: We constantly look at the world around us and put our opinion on of it. Most of the times our opinions are based on dogma, expectation and biases. So let the things just be good or bad without coloring them with your opinion.
 19. Apr 19: Whether you are in position of power or powerlessness, always leave room for what may happen and keep the common good and actual worth in front of everything. Also never hesitate to learn from anyone and everyone irrespective of their station in life.
-20. Apr 20: The things which we tend to value like wealth, status etc ; once we achieve them we may not be satisfied and feel this is not as good we imagined. But the 1st principle good things like wisdom, justice, self-control etc will never gove remorseful feeling once you attain them.
+20. Apr 20: The things which we tend to value like wealth, status etc; once we achieve them we may not be satisfied and feel this is not as good we imagined. But the 1st principle good things like wisdom, justice, self-control etc will never gove remorseful feeling once you attain them.
+21. Apr 21: Attention Matters: Attention is habit which you need to cultivate. Not having attention leads to mistakes.
+22. Apr 22: To be rational you need to look inward, examine yourself critically and make your own decisions without outside bias or popular notion.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
