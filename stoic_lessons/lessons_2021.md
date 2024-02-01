@@ -161,6 +161,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 20. Apr 20: The things which we tend to value like wealth, status etc; once we achieve them we may not be satisfied and feel this is not as good we imagined. But the 1st principle good things like wisdom, justice, self-control etc will never gove remorseful feeling once you attain them.
 21. Apr 21: Attention Matters: Attention is habit which you need to cultivate. Not having attention leads to mistakes.
 22. Apr 22: To be rational you need to look inward, examine yourself critically and make your own decisions without outside bias or popular notion.
+23. Apr 23: Mind is the truly the only thing which you own. The body can be ravaged by diseases, breath can be taken from you.
+24. Apr 24: Looking at thing with an contemptuous expression we can dismantle fancy things not let them take over our reasoned choice.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
