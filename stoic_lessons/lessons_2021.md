@@ -163,6 +163,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 22. Apr 22: To be rational you need to look inward, examine yourself critically and make your own decisions without outside bias or popular notion.
 23. Apr 23: Mind is the truly the only thing which you own. The body can be ravaged by diseases, breath can be taken from you.
 24. Apr 24: Looking at thing with an contemptuous expression we can dismantle fancy things not let them take over our reasoned choice.
+25. Apr 25: Never be ashamed of changing your mind, with new learning you get ability to perceive world differently use it as advantage to correct your old wrong beliefs. 
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
