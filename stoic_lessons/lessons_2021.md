@@ -166,6 +166,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 25. Apr 25: Never be ashamed of changing your mind, with new learning you get ability to perceive world differently use it as advantage to correct your old wrong beliefs. 
 26. Apr 26: Consider the difficulties and problems you face in life as you training exercise. Say to yourself I'm learning. This is a more resilient attitude.
 27. Apr 27: Stoicism is all about looking things from a different angle. Look for praise from contemptuous angle and a negative situation from an objective angle and you can see things clearly.
+28. Apr 28: In the current times you give power over you to others because of your wants. You stay in a unhappy job because of money. Indifference to wants is the highest power you can have.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
