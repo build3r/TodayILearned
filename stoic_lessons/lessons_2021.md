@@ -167,7 +167,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 26. Apr 26: Consider the difficulties and problems you face in life as you training exercise. Say to yourself I'm learning. This is a more resilient attitude.
 27. Apr 27: Stoicism is all about looking things from a different angle. Look for praise from contemptuous angle and a negative situation from an objective angle and you can see things clearly.
 28. Apr 28: In the current times you give power over you to others because of your wants. You stay in a unhappy job because of money. Indifference to wants is the highest power you can have.
-29. Apr 29: Understanding that you are infinitesimally small in comparision to the vastness of cosmos, your day to day worries will vanish. Look at the stars when you are worried about mortal probelms.
+29. Apr 29: Understanding that you are infinitesimally small in comparison to the vastness of cosmos, your day to day worries will vanish. Look at the stars when you are worried about mortal problems.
+30. Apr 30: You need to develop your character through education. It will help you in avoiding falling for preconceived notions. Question everything and put it to test of your education and update your beliefs.
 ----
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
