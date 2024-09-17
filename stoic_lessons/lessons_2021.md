@@ -1,5 +1,8 @@
 ### Lessons From Stoics
 Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holiday as a guide.
+----
+## Clarity
+
 1. Jan 01: The greatest task you have in life is to differentiate between things you can control and things which are out of your control.
      >“Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” Addicts cannot change the abuse suffered in childhood”
 2. Jan 02: Education is freedom. We learn or read to be freer, fearless and to achieve state of peace. Education has a purpose that is to set a person free.
@@ -59,84 +62,88 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 29. Jan 29: Just focus on the task in front of you, do it as if its the last thing you do.
 30. Jan 30: Be content with not knowing things. You don't need to know everything just to seem smart, "I don't know" is acceptable.
 31. Jan 31: Use philosophy to recharge yourself to do the right things when you are going adrift.
-
 ---
-32. Feb 01: Being angry is not manly, its the opposite. Anger is a mistake, a weakness. Anger stems from passion and if you control passion you control anger.
-33. Feb 02: You don't let other people jerk you around, but easily let your impulses control you. You are not your emotions and you not let them decide how you act.
-34. Feb 03: We get anxious about outcomes which are outside our control. Next time when you are anxious ask yourself, "If the anxious mind helping me?".
-35. Feb 04: Your reasoned choice is your invincibility. With it you can shrug of any hostile attack, pressure or problems.
-36. Feb 05: Impulses are going to come, its your job to control them. This is the central message of Stoic philosophy. 
-37. Feb 06: A wise person will endure strife but will never choose it. Sometime we are afraid to be still, so we seek out strife and action as a distraction. Choosing strife is inevitable but make sure that you are doing it for right reasons.
-38. Feb 07: Fear is self fulfilling prophecy. If you self control, you may be the reason of the disaster you so much fear.
-39. Feb 08: In fit rage we do a lot of things, which if we analyze with calm mind we get embarrassed. So if you see someone being angry or acting out as k them "Does it make you feel better" to trigger the reflection.
-40. Feb 09: You don't have to hold opinion on anything. Think of all the things you are not aware of, not having an opinion doesn't affect you and that thing. So next time practice not having opinion on things like they never came to you.
-41. Feb 10: Anger may fuel your desire in short burst but its a toxic fuel, it damages the engine and you need more and more of it just to keep up. So don't rely on it.
-42. Feb 11: The saying absolute power corrupts absolutely may not be true always. It comes down to an individual's self-awareness and inner strength. 
-43. Feb 12: When you work or things you do stresses you out ask your self *Is this really the life I want?* . **Don’t be afraid to make a change—a big one.**
-44. Feb 13: When you are swayed by a pleasure which you will regret later, take a pause and bring to your mind the enjoyment of pleasure and the regret of it later and weigh them against not doing it at all. Once you understand that indulging is actually worse than resisting the urge will lose its appeal.
-45. Feb 14: Make sure that you mind (intelligence) is in charge, not your emotions, immediate physical sensations or your hormones.
-46. Feb 15: Most of the things we fear never come to reality but the pain and anxiety they cause is real. No next time you worrying about something think that is it your imagination or reality.
-47. Feb 16: In life your duty is the sum of your individual actions. When you are forced to something you don't want to spilt it into smaller task not all may be unreasonable. Life is already difficult enough no need to add emotions to work and make it more difficult.
-48. Feb 17: Happiness and yearning are not compatible with each other. Next time when you are yearning for something ask yourself is it better than the happiness which you currently have.
-49. Feb 18: Our impressions are like storms, if we not predict them and prepare for them then we will swept by them.
-50. Feb 19: Consider life as banquet/party where food is passed around. Remember to have gratitude of being invited and wait patiently for your turn. Don't rude snatching food from others plate.
-51. Feb 20: See from history's example how a life dedicated to indulging in every whim actually works whether the whim is good or bad. Next time when you crave for something take a second and see what it is leading you to.
-52. Feb 21: "*It is the privilege of the gods to want nothing, and of godlike men to want little.*" - Diogenes. When it comes to your goals and things you strive for ask if your in control or are they controlling you.
-53. Feb 22: Its easy to act without thinking, but requires practice to stop and think, analyze the situation and then act. *"I Speak only when I’m certain what I’ll say isn’t better left unsaid."* - Cato
-54. Feb 23: Circumstances and situation do not care about your feelings they are not sentient, they just happen. Getting emotional (anger, anxiety etc) is not going to help.
-55. Feb 24: The no such thing as an objectively bad or good situation, it our perception and categorization which makes it so. It our reaction which gives it power to har us. So why not chose not to react?
-56. Feb 25: No matter what heights you achieve propelled by anger, obsession or hate. It will be akin to building a sand castle on a beach, sooner or later it will get washed away. So try to enjoy the brief time you have on Earth.
-57. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
+## Passions and Emotions
+
+1. Feb 01: Being angry is not manly, its the opposite. Anger is a mistake, a weakness. Anger stems from passion and if you control passion you control anger.
+2. Feb 02: You don't let other people jerk you around, but easily let your impulses control you. You are not your emotions and you not let them decide how you act.
+3.  Feb 03: We get anxious about outcomes which are outside our control. Next time when you are anxious ask yourself, "If the anxious mind helping me?".
+4.  Feb 04: Your reasoned choice is your invincibility. With it you can shrug of any hostile attack, pressure or problems.
+5.  Feb 05: Impulses are going to come, its your job to control them. This is the central message of Stoic philosophy. 
+6.  Feb 06: A wise person will endure strife but will never choose it. Sometime we are afraid to be still, so we seek out strife and action as a distraction. Choosing strife is inevitable but make sure that you are doing it for right reasons.
+7.  Feb 07: Fear is self fulfilling prophecy. If you self control, you may be the reason of the disaster you so much fear.
+8.  Feb 08: In fit rage we do a lot of things, which if we analyze with calm mind we get embarrassed. So if you see someone being angry or acting out as k them "Does it make you feel better" to trigger the reflection.
+9.  Feb 09: You don't have to hold opinion on anything. Think of all the things you are not aware of, not having an opinion doesn't affect you and that thing. So next time practice not having opinion on things like they never came to you.
+10. Feb 10: Anger may fuel your desire in short burst but its a toxic fuel, it damages the engine and you need more and more of it just to keep up. So don't rely on it.
+11. Feb 11: The saying absolute power corrupts absolutely may not be true always. It comes down to an individual's self-awareness and inner strength. 
+12. Feb 12: When you work or things you do stresses you out ask your self *Is this really the life I want?* . **Don’t be afraid to make a change—a big one.**
+13. Feb 13: When you are swayed by a pleasure which you will regret later, take a pause and bring to your mind the enjoyment of pleasure and the regret of it later and weigh them against not doing it at all. Once you understand that indulging is actually worse than resisting the urge will lose its appeal.
+14. Feb 14: Make sure that you mind (intelligence) is in charge, not your emotions, immediate physical sensations or your hormones.
+15. Feb 15: Most of the things we fear never come to reality but the pain and anxiety they cause is real. No next time you worrying about something think that is it your imagination or reality.
+16. Feb 16: In life your duty is the sum of your individual actions. When you are forced to something you don't want to spilt it into smaller task not all may be unreasonable. Life is already difficult enough no need to add emotions to work and make it more difficult.
+17. Feb 17: Happiness and yearning are not compatible with each other. Next time when you are yearning for something ask yourself is it better than the happiness which you currently have.
+18. Feb 18: Our impressions are like storms, if we not predict them and prepare for them then we will swept by them.
+19. Feb 19: Consider life as banquet/party where food is passed around. Remember to have gratitude of being invited and wait patiently for your turn. Don't rude snatching food from others plate.
+20. Feb 20: See from history's example how a life dedicated to indulging in every whim actually works whether the whim is good or bad. Next time when you crave for something take a second and see what it is leading you to.
+21. Feb 21: "*It is the privilege of the gods to want nothing, and of godlike men to want little.*" - Diogenes. When it comes to your goals and things you strive for ask if your in control or are they controlling you.
+22. Feb 22: Its easy to act without thinking, but requires practice to stop and think, analyze the situation and then act. *"I Speak only when I’m certain what I’ll say isn’t better left unsaid."* - Cato
+23. Feb 23: Circumstances and situation do not care about your feelings they are not sentient, they just happen. Getting emotional (anger, anxiety etc) is not going to help.
+24. Feb 24: The no such thing as an objectively bad or good situation, it our perception and categorization which makes it so. It our reaction which gives it power to har us. So why not chose not to react?
+25. Feb 25: No matter what heights you achieve propelled by anger, obsession or hate. It will be akin to building a sand castle on a beach, sooner or later it will get washed away. So try to enjoy the brief time you have on Earth.
+26. Feb 26: In fit of rage or passion you may take actions which you will regret. At this time try rationalize run these emotions on something else, like writing in a diary, letter etc which will give some time to reflect upon it.
     1.  It's easy to fight back and try to put down the person, but you will always regret the outcome.
-58. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
+27. Feb 27: Try to be  **Indifferent** to emotions like greed, lust, passion. Don't let them take over you. As humans these emotions are natural and shunning them completely might not be possible. 
     1. Being a stoic is not about avoiding nor indulging, its being indifferent to emotions or events. If they are good enjoy if the go away not a big deal.
-59. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
+28. Feb 28: When you loose you cool it doesn't mean that all the things which you have learnt have been wasteful. Its just a momentary lapse. Regain you composure and look forward to avoid the same mistake.
     1.  Mistakes happens, it doesn't mean that all of you skills and virtues become undone, its just a momentary lapse. Collect you composure and come back to yourself.
-60. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
+29. Feb 29: Don't try to get too many things at once, sometimes you may have to drop few things.
     1.  Ask yourself  *"Do I need this thing? What will happen if I do not get it? Can I make do without it?"* this will help you in relaxing and cut out needless things.
 ---
-61. Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
+## Awareness
+
+1.  Mar 01: To begin philosophy, you must first question your emotion, belief and even language who may seem very normal.
     1.  You start philosophy when you start analyzing you emotions and actions with your guiding reason.
-62. Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
+2.  Mar 02: To understand yourself you must accurately asses yourself. Things which cannot be measured cannot be improved.
     1.  Do a self-evaluation, sometimes you overestimate your capabilities and sometimes you underestimate them. Cultivate a habit of judging yourself accurately and honestly.
-63. Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
+3.  Mar 03: It is very difficult live two lives internally, decide what you want to be a philosopher or the mob.
     1.  You can't sustain living two different lives, you have to commit to either concentrate on internal or go with external mob mentality otherwise you will dis-integrated by the forces.
-64. Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
+4.  Mar 04: We become slaves to ourself by self-imposing. Time to time re-evaluate you obligations to see how many of them are self-imposed.
     1.  You self impose a lot of things which you consider you have to do, to just impress someone. A man cannot be free if he is slave to his desires.
-65. Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
+5.  Mar 05: Even free things have a cost, if only the cost is in storing them either in our mind or physically.
     1.  Every thing as a cost to it even if it is free, we pay by storing it at our place or our minds.
     Ex. You bought a costly phone thinking you can afford it, as the phone is costly you always have to be protective of it which adds a mental strain compared to cheaper phone.
-66. Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
+6.  Mar 06: Don't glorify yourself by making stories of your past. They inherently misleading and lead you to be self absorbed.
     1.  Don't tell stories about you past to others they are boring, annoying and self-absorbed. Instead live in what's real. Listen and connect with people, don't perform for them.
-67. Mar 07: Don't you into self-deception, even your own senses can sometimes lie to you. Think of it as this way as your senses are lying, your emotions are over dramatic and projection too optimistic its better to not rush into conclusions. Take time and analyze things.
-68. Mar 08: You would struggle if someone forces on your physical self, but when social media, obnoxious people, television try to force your mind you willing let it happen. **Maintain control over your mind and perceptions, the mind is your most prized perception**.
-69. Mar 09: Ask yourself the friends with whom you spend your are they helping you be a better person or are they pulling you down to their level. You have to decide if you want to go down and mingle with them or rise above and be a better person. **Find your “scene”—a group of peers who push them to be better.**
-70. Mar 10: Have a noble *Indifferent Spectator* in life, one whom you can allow into your mind and use as a guide to your actions. Ex to look over you when you are doing something wrong or being lazy.
-71. Mar 11: Most successful people have to do things they don't want or like just to stay in their position. They do not have real freedom.
-72. Mar 12: *"Nobody does wrong willingly - Socrates*. All people think that they are doing the right thing, however convoluted the reason is. If think what be the reason for people doing the things they do, you would be more compassionate and understanding.
-73. Mar 13: We generally feel bad when something wrong happens to us or doesn't go according to our plan. Remember that sometimes you will have to go down to achieve global maxima.
-74. Mar 14: Ego is the enemy of growth, it falsely makes us believe that we already posses what we wish to have.
-75. Mar 15: All you have is the present, instead of mulling over the past could be or what you can do in future take full control on your present and enjoy it. Keep this up and you will the happiness will last a lifetime.
-76. Mar 16: You blessed with ability to think logically and to reason. This gives you unthinkable power to alter yours and others circumstances. So use it responsibly.
-77. Mar 17: You are not your job, your possessions, your beauty but a result of your choices. The better the choices you make the better the person you will be. Don't judge others by their appearance but rather for their effort in achieving it.
-78. Mar 18: The stress and frustration is generated by your assumption, the people/circumstances you blame are just the targets. 
-79. Mar 19: There is nothing good or bad about the events that happen to us, its in the expectation we set of them. We have reasoned choice in interpreting the events.
-80. Mar 20: We should not be crazy to go looking for difficulties, but should always be prepared to face them.
+7.  Mar 07: Don't you into self-deception, even your own senses can sometimes lie to you. Think of it as this way as your senses are lying, your emotions are over dramatic and projection too optimistic its better to not rush into conclusions. Take time and analyze things.
+8.  Mar 08: You would struggle if someone forces on your physical self, but when social media, obnoxious people, television try to force your mind you willing let it happen. **Maintain control over your mind and perceptions, the mind is your most prized perception**.
+9.  Mar 09: Ask yourself the friends with whom you spend your are they helping you be a better person or are they pulling you down to their level. You have to decide if you want to go down and mingle with them or rise above and be a better person. **Find your “scene”—a group of peers who push them to be better.**
+10. Mar 10: Have a noble *Indifferent Spectator* in life, one whom you can allow into your mind and use as a guide to your actions. Ex to look over you when you are doing something wrong or being lazy.
+11. Mar 11: Most successful people have to do things they don't want or like just to stay in their position. They do not have real freedom.
+12. Mar 12: *"Nobody does wrong willingly - Socrates*. All people think that they are doing the right thing, however convoluted the reason is. If think what be the reason for people doing the things they do, you would be more compassionate and understanding.
+13. Mar 13: We generally feel bad when something wrong happens to us or doesn't go according to our plan. Remember that sometimes you will have to go down to achieve global maxima.
+14. Mar 14: Ego is the enemy of growth, it falsely makes us believe that we already posses what we wish to have.
+15. Mar 15: All you have is the present, instead of mulling over the past could be or what you can do in future take full control on your present and enjoy it. Keep this up and you will the happiness will last a lifetime.
+16. Mar 16: You blessed with ability to think logically and to reason. This gives you unthinkable power to alter yours and others circumstances. So use it responsibly.
+17. Mar 17: You are not your job, your possessions, your beauty but a result of your choices. The better the choices you make the better the person you will be. Don't judge others by their appearance but rather for their effort in achieving it.
+18. Mar 18: The stress and frustration is generated by your assumption, the people/circumstances you blame are just the targets. 
+19. Mar 19: There is nothing good or bad about the events that happen to us, its in the expectation we set of them. We have reasoned choice in interpreting the events.
+20. Mar 20: We should not be crazy to go looking for difficulties, but should always be prepared to face them.
     > “Of course I deprecate war, but if it is brought to my door the bringer will find me at home.” - James Garfield
-81. Mar 21: A vacation won't bring you peace. The peace you are looking for is inside yourself. You just have to close you eyes and let go of busy thoughts.
-82. Mar 22: Education is the start but is barely enough. To make good decision you need have awareness about your surroundings and reflect upon your thoughts.
-83. Mar 23: Greed and Ambition can blind the most logical person. So always look at your actions and check if they are being made due to these vices.
-84. Mar 24: Philosophy is not just a study. You need to live it and only then you would realize if you have learnt anything.
-85. Mar 25: You want be wealthy by having everything you want or by wanting everything you have. Same is with freedom you can focus on what you already have and can be content then you will find free then and there.
-86. Mar 26: Try to understand what rules your ruling reason. They can be impacted by biology, psychology or even subconscious. Understand them so that your actions are not driven by them.
+21. Mar 21: A vacation won't bring you peace. The peace you are looking for is inside yourself. You just have to close you eyes and let go of busy thoughts.
+22. Mar 22: Education is the start but is barely enough. To make good decision you need have awareness about your surroundings and reflect upon your thoughts.
+23. Mar 23: Greed and Ambition can blind the most logical person. So always look at your actions and check if they are being made due to these vices.
+24. Mar 24: Philosophy is not just a study. You need to live it and only then you would realize if you have learnt anything.
+25. Mar 25: You want be wealthy by having everything you want or by wanting everything you have. Same is with freedom you can focus on what you already have and can be content then you will find free then and there.
+26. Mar 26: Try to understand what rules your ruling reason. They can be impacted by biology, psychology or even subconscious. Understand them so that your actions are not driven by them.
     > "Quis custodiet ipsos custodes? (Who watches the watchmen?)” - Juvennal
-87. Mar 27: People value things based on emotions. The market might be rational... but the people who comprise it are not. The good things in life cost what they cost. The unnecessary things are not worth any price. The key is to know the difference. 
-88. Mar 28: Plans are not perfect, but people without plans are much more likely to get overwhelmed and fall apart. Don't try to make important things up on the fly. Have a plan.
-89. Mar 29: Trying to impress others is foolish things. Know that the people you are trying to impress are also flawed, better be yourself and let your philosopher inside dictate your action. 
+27. Mar 27: People value things based on emotions. The market might be rational... but the people who comprise it are not. The good things in life cost what they cost. The unnecessary things are not worth any price. The key is to know the difference. 
+28. Mar 28: Plans are not perfect, but people without plans are much more likely to get overwhelmed and fall apart. Don't try to make important things up on the fly. Have a plan.
+29. Mar 29: Trying to impress others is foolish things. Know that the people you are trying to impress are also flawed, better be yourself and let your philosopher inside dictate your action. 
     >“We buy things we don’t need, to impress people we don’t like." - Fight Club
-90. Mar 30: Always check on what impulses you are acting on. If it is not conscious or deliberate then analyze it and fit it.
-91. Mar 31: A mind that is not in control will be jerked around by external impulses. So train yourself now to create a habit to replace ignorance with discipline.
+30. Mar 30: Always check on what impulses you are acting on. If it is not conscious or deliberate then analyze it and fit it.
+31. Mar 31: A mind that is not in control will be jerked around by external impulses. So train yourself now to create a habit to replace ignorance with discipline.
 ----
+## Unbiased Thought
 1.  Apr 01: Your mind takes the shape of what you hold in it, if you hold negative thoughts you will see everything as negative. If you close it up you will have a closed mind.
 2.  Apr 02: You will be exposed to unwanted influences but it doesn't mean that you have to entertain them. So put your guard up and don't let other people's drama distract you from your goals.
 3.  Apr 03: Some time our plans work against each other when we don't have clarity. Instead of straddling on two competing things ask yourself "What do I really want?, What am I actually after here?". Once you notice that you find any contradictory things and change them.
@@ -170,6 +177,7 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 29. Apr 29: Understanding that you are infinitesimally small in comparison to the vastness of cosmos, your day to day worries will vanish. Look at the stars when you are worried about mortal problems.
 30. Apr 30: You need to develop your character through education. It will help you in avoiding falling for preconceived notions. Question everything and put it to test of your education and update your beliefs.
 ----
+## Action
 1.   May 06: The physical beauty attributes are un-stoic, the real beauty is a person having self control, even temper and dedication to human excellence.
 2.   May 07: To have a good day, just do good things.
 3.   May 08: The good and evil are result of you reasoned choice. Things which don't classify are outside of our our reasoned choice.
@@ -199,6 +207,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 25.  May 30: Busyness != Productiveness. Evaluate what you are doing, why, and where accomplishing it will take you. If you don'r have good answer then stop.
 26.  May 31: Your job on the earth is to be a good person.
 ----
+## Problem Solving
+
 1.    Jun 01: If you have purpose in mind, then nothing can stop, even when it is disrupted the mind can redirect the path to achieve it.
 2.   Jun 02: When u look at the big picture (a birds eye view) the day to day struggles are petty and you will get a clear perspective of things.
 3.   Jun 03: Flexibility and determination are part of stoicism. If one thing doesn't work then try something else.
@@ -233,11 +243,13 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 29.  Jun 29: Don't give excuses instead of striving to be better. 
 30.  Jun 30: **Obstacle is the Way!**. When you face obstacles consider them as opportunities to practice your virtues.
 ---
-1.     Jul 01: Whatever happens do you job, which is to be good!, to be wise.
-2.   Jul 02: Do your duty no matter what happens.
-3.   Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
-4.   Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
-5.   Jul 05: If doing good was easy, then everyone would do it. So be better.
+## Duty
+
+1. Jul 01: Whatever happens do you job, which is to be good!, to be wise.
+2. Jul 02: Do your duty no matter what happens.
+3. Jul 03: Life is what *you have* instead of *what you get to do*. So enjoy all the curve balls you get.
+4. Jul 04: The goodness of your heart is like a flame, you have to protect it at all cost.
+5. Jul 05: If doing good was easy, then everyone would do it. So be better.
 6.   Jul 06: You cannot be service to yourself or others if you are asleep, so rise and start working. The earlier the better.
 7.   Jul 07: While you are self-learning you are not trying to impress any anyone. You doing it to be better which is your Duty.
 8.   Jul 08: Stop monkeying around about what could be, what you don't have and start take responsibility and be the owner of your own life.
@@ -267,6 +279,8 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 30.  Jul 30: Stoic Joy is not surface level like cheerfulness, but comes from purpose, excellence and duty.
 31.  Jul 31: Don't get too caught up in work that you forget about the reality of aging and life. Create plans for the case where you will not capable of pushing further.
 ----
+## Pragmatism
+
 1.   Aug 01: Don't wait for conditions to be perfect for starting something, focus on doing things with how things actually are.
 2.   Aug 02: Don't fret about the turns of fate, no matter what nothing can stop you from learning.
 3.   Aug 03: The best time to start is **now**, best place is **here**. Be adaptable and pragmatic to do what is needed to be done anywhere, anytime.
@@ -299,7 +313,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 30.  Aug 30: Don't be a person who says yes with mouth and no with their action. If you feel lazy or unsatisfied with work then ask yourself why are you doing this.
 31.  Aug 31: Try to adopt the Socrates belief that "No one does wrong on purpose". They may have wrong information belief or just in bad state of mind. Cut them slack as you would for yourself.
 ----
-1.     Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
+## Fortitude and Resilience
+
+1. Sep 01: Train yourself with Indifference: The attitude of carrying forward what may come. This will prepare you for any condition or any luck.
 2.   Sep 02: Stoic philosophy is like physical therapy, you are trying to heal and it will hurt, but you will come out stronger.
 3.   Sep 03: You always be training and preparing for whatever life throw at you. There is no time off.
 4.   Sep 04: Consider adversities as experience which will form you character. "What doesn't kill me makes me stronger" - Nietzsche
@@ -330,7 +346,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 29.  Sep 29: If you take it to bare minimum, your actual needs are very small. So there aren't many events which can ruin you completely.
 30.  Sep 30: Though you are physical state might be victimized, remember with philosophical training your mind is a impenetrable fortress, which can never be conquered but only surrendered.
 ----
-1.     Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
+## Virtue and Kindness
+
+1. Oct 01: Don't worry about the circumstances. As the at lamp burns until the end you stick with your virtues until the end no matter the external conditions.
 2.   Oct 02: Invest time and resources in yourself too, because in time of volatility and disaster this will be most immune asset.
 3.   Oct 03: Everything is interconnected. What is good for an individual might not always be good for the whole. So keep in mind if the community is happy then individuals can be happy too.
 4.   Oct 04: “That which doesn’t harm the community can’t harm the individual.” Marcus Aurelius. The deeds which are good for the whole will eventually be good for individuals.
@@ -365,7 +383,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 30.  Oct 30: If self-improvement is what you strive for then it should not accept the time/energy which left after you do other things, instead you should do other things after you have spent time and energy on self.
 31.  Oct 31: Humans by nature a born good, if nit we wouldn't have survived as a social species. Anything which contrary to this is due to nurturing of wrong ideas.
 ----
-1.     Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
+## Amor Fati/ Acceptance
+
+1.  Nov 01: "Art of Acquiescence"- Accept rather than fight every little thing. You can go a step further with "Amor Fati" - not just accept but Love everything which happens.
 2.   Nov 02: No matter how much preparations you do, or skills or smart we are the ultimate outcome will depend on fate. Luck/chance plays a very important role in most places of lives.
 3.   Nov 03: Think of the ill which happens to you as natures prescription to aid you in your destiny, similar to how doctor prescribes medicine to aid in healing.
 4.   Nov 04: Change isn't good. Status quo isn't bad. They just are. Its only our opinion which labels something good or bad.
@@ -400,7 +420,9 @@ Trying to inculcate stoic principles in life using "Daily Stoic" - By Ryan Holid
 29.  Nov 29: If you live by Stoic principles, Whatever happens, you are going to be OK.
 30.  Nov 30: **Logos**: The guiding reason of the world. It gives you ample freedom to have reasoned choice but ultimate destiny is not in your control.
 ----
-1.     Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
+## Meditation and Morality
+
+1. Dec 01: Live life like a soldier who being deployed with not knowing if they will return or not. With this ,mind get affairs in order.
 2.   Dec 02: “Death is one prophecy that never fails.” - Edmund Wilson. Don't waste you waste you days living in ignorance thinking otherwise.
 3.   Dec 03: Philosophy teaches you to live life not just theoretically but also practically. Like you how carpentry teaches how to work with wood.
 4.   Dec 04: Things which can be taken from you due to fate, accident, bad luck, someone else are things which you don't own. The only thing you own is you life and choices that too for not long.
